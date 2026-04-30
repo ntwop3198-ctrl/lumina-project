@@ -1,0 +1,831 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 고정 헤더(h-16 / sm:h-[4.5rem] ≈ 64–72px) + 소폭 여유 — 앵커·브라우저 기본 해시 스크롤 */
+html {
+  scroll-padding-top: 5.5rem;
+  /* Framer Motion useScroll(target): 스크롤 컨테이너가 static이면 오프셋 경고 발생 */
+  position: relative;
+}
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #fafafa;
+  --card: #1a1a1a;
+  --card-foreground: #fafafa;
+  --popover: #1a1a1a;
+  --popover-foreground: #fafafa;
+  --primary: #c9a227;
+  --primary-foreground: #0a0a0a;
+  --secondary: #f5f0e6;
+  --secondary-foreground: #1a1a1a;
+  --muted: #2a2a2a;
+  --muted-foreground: #a1a1aa;
+  --accent: #c9a227;
+  --accent-foreground: #0a0a0a;
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.577 0.245 27.325);
+  --border: #3a3a3a;
+  --input: #2a2a2a;
+  --ring: #c9a227;
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+  --radius: 0.625rem;
+  --gold: #c9a227;
+  --gold-light: #d4af37;
+  --gold-dark: #b8941f;
+  --cream: #f5f0e6;
+  --cream-dark: #e8e0d0;
+  --charcoal: #2d2d2d;
+  --charcoal-light: #3d3d3d;
+  --lumina-font-weight: 500;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+@theme inline {
+  --font-sans: var(--font-sans), 'Inter', system-ui, sans-serif;
+  --font-serif: var(--font-serif), 'Playfair Display', Georgia, serif;
+  --font-mono: 'Geist Mono', 'Geist Mono Fallback';
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-gold-dark: var(--gold-dark);
+  --color-cream: var(--cream);
+  --color-cream-dark: var(--cream-dark);
+  --color-charcoal: var(--charcoal);
+  --color-charcoal-light: var(--charcoal-light);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.text-gradient-gold {
+  background: linear-gradient(135deg, #d4af37 0%, #c9a227 50%, #b8941f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-gradient-gold {
+  background: linear-gradient(135deg, #d4af37 0%, #c9a227 50%, #b8941f 100%);
+}
+
+.bg-gradient-gold-hover {
+  background: linear-gradient(135deg, #e0c04a 0%, #d4af37 50%, #c9a227 100%);
+}
+
+.border-gradient-gold {
+  border-image: linear-gradient(135deg, #d4af37 0%, #c9a227 50%, #b8941f 100%) 1;
+}
+
+.shadow-gold {
+  box-shadow: 0 4px 20px rgba(201, 162, 39, 0.3);
+}
+
+.shadow-gold-lg {
+  box-shadow: 0 8px 40px rgba(201, 162, 39, 0.4);
+}
+
+/* Landing polish: subtle museum-like page tint */
+.lumina-landing {
+  background: linear-gradient(180deg, #faf7f2 0%, #f5f0e6 40%, #faf7f2 100%);
+}
+
+/* The Dawn Mist — 코스메틱 프리미엄: 유리 질감 · 새벽 골드 #C5A059 */
+:root {
+  --dawn-mist-base: #0a0a0a;
+  --dawn-mist-gold: #c5a059;
+}
+
+.lumina-glass-frost {
+  background: linear-gradient(
+    165deg,
+    rgba(255, 255, 255, 0.06) 0%,
+    rgba(255, 255, 255, 0.02) 45%,
+    rgba(10, 10, 10, 0.35) 100%
+  );
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.06) inset,
+    0 24px 64px rgba(0, 0, 0, 0.35);
+}
+
+.text-dawn-gold {
+  color: var(--dawn-mist-gold);
+}
+
+/* Lumina Branding Platform — Midnight Blue & Liquid Silver (求忘 · 여백의 깊이) */
+.lumina-midnight-landing {
+  /* Deep navy (Naked Truth) — 한 단계 밝은 심해: #112240 계열, 하단은 순흑 대신 공기감 있는 딥 네이비 */
+  --lm-midnight: #112240;
+  --lm-midnight-mid: #1c3a5a;
+  --lm-liquid: #c0c0c0;
+  background:
+    radial-gradient(ellipse 130% 70% at 50% -15%, rgba(35, 95, 145, 0.36) 0%, transparent 52%),
+    radial-gradient(ellipse 85% 55% at 100% 35%, rgba(17, 34, 64, 0.32) 0%, transparent 48%),
+    radial-gradient(ellipse 95% 50% at 0% 75%, rgba(5, 12, 22, 0.38) 0%, transparent 50%),
+    linear-gradient(180deg, #112240 0%, #1c3a5a 36%, #0e192b 68%, #080f1a 100%);
+  color: rgba(232, 238, 245, 0.96);
+  min-height: 100vh;
+}
+
+/* 홈: 고정 대기층 — 먹장구름 걷힘 후 맑은 심해 + 은빛 새벽 (확신의 연출) */
+.lumina-midnight-landing.lumina-midnight-atmosphere-root {
+  background: transparent;
+}
+
+.lumina-midnight-atmosphere-base {
+  isolation: isolate;
+}
+
+.lumina-midnight-atmosphere-base::before,
+.lumina-midnight-atmosphere-base::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transition: opacity 7.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.lumina-midnight-atmosphere-base::before {
+  opacity: 1;
+  background:
+    radial-gradient(ellipse 130% 70% at 50% -15%, rgba(35, 95, 145, 0.36) 0%, transparent 52%),
+    radial-gradient(ellipse 85% 55% at 100% 35%, rgba(17, 34, 64, 0.32) 0%, transparent 48%),
+    radial-gradient(ellipse 95% 50% at 0% 75%, rgba(5, 12, 22, 0.38) 0%, transparent 50%),
+    linear-gradient(180deg, #112240 0%, #1c3a5a 36%, #0e192b 68%, #080f1a 100%);
+}
+
+.lumina-midnight-atmosphere-base::after {
+  opacity: 0;
+  background:
+    radial-gradient(ellipse 95% 48% at 50% -8%, rgba(210, 225, 245, 0.16) 0%, transparent 42%),
+    radial-gradient(ellipse 130% 70% at 50% -12%, rgba(45, 105, 155, 0.28) 0%, transparent 50%),
+    radial-gradient(ellipse 85% 55% at 100% 32%, rgba(25, 55, 90, 0.26) 0%, transparent 48%),
+    radial-gradient(ellipse 95% 50% at 0% 72%, rgba(5, 12, 22, 0.34) 0%, transparent 50%),
+    linear-gradient(180deg, #112240 0%, #1e4162 38%, #101b2e 66%, #080f1a 100%);
+}
+
+.lumina-morning-revealed .lumina-midnight-atmosphere-base::before {
+  opacity: 0;
+}
+
+.lumina-morning-revealed .lumina-midnight-atmosphere-base::after {
+  opacity: 1;
+}
+
+.lumina-morning-storm-layer {
+  opacity: 0.52;
+  transform: translateX(0);
+  transition:
+    transform 7.5s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 6.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  background:
+    radial-gradient(ellipse 140% 90% at 18% 8%, rgba(0, 0, 0, 0.55) 0%, transparent 58%),
+    radial-gradient(ellipse 120% 70% at 72% 12%, rgba(8, 14, 32, 0.5) 0%, transparent 52%),
+    repeating-linear-gradient(
+      100deg,
+      transparent 0px,
+      transparent 72px,
+      rgba(12, 22, 42, 0.22) 100px,
+      rgba(6, 12, 28, 0.35) 140px,
+      transparent 200px
+    ),
+    linear-gradient(180deg, rgba(0, 8, 22, 0.45) 0%, transparent 38%, transparent 100%);
+  mix-blend-mode: multiply;
+}
+
+.lumina-morning-storm-layer--cleared {
+  /* 왼쪽에서 밀려 오른쪽으로 걷힘 — 맑은 심해로 */
+  transform: translateX(108%);
+  opacity: 0;
+}
+
+/* Choice of Soul — 효율의 길(Conventional): 네온 온도·역동 배경 힌트 */
+html[data-lumina-soul-path="conventional"] .lumina-midnight-atmosphere-base::before {
+  filter: saturate(1.14) hue-rotate(8deg);
+}
+
+html[data-lumina-soul-path="conventional"] .lumina-midnight-atmosphere-base::after {
+  opacity: 0.9;
+}
+
+html[data-lumina-soul-path="conventional"]
+  .lumina-morning-storm-layer:not(.lumina-morning-storm-layer--cleared) {
+  opacity: 0.34;
+  mix-blend-mode: screen;
+}
+
+/* 파트너 가이드 입장 — 짧은 먹장구름·햇살 전환 */
+.lumina-partner-guide-shell .lumina-midnight-atmosphere-base::before,
+.lumina-partner-guide-shell .lumina-midnight-atmosphere-base::after {
+  transition-duration: 2.75s;
+}
+
+.lumina-partner-guide-shell .lumina-morning-storm-layer {
+  transition:
+    transform 2.5s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 2.35s ease-out;
+}
+
+/* 파트너 CTA — 어둠 속 별빛 */
+.lumina-partner-star-cta {
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.14) inset,
+    0 0 36px rgba(192, 210, 230, 0.22),
+    0 0 72px rgba(200, 215, 235, 0.1),
+    0 12px 40px rgba(0, 0, 0, 0.45);
+}
+
+.lumina-partner-star-cta:hover {
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.22) inset,
+    0 0 48px rgba(220, 235, 255, 0.32),
+    0 0 96px rgba(192, 205, 220, 0.14),
+    0 16px 48px rgba(0, 0, 0, 0.5);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-midnight-atmosphere-base::before,
+  .lumina-midnight-atmosphere-base::after,
+  .lumina-morning-storm-layer {
+    transition: none !important;
+  }
+
+  .lumina-morning-storm-layer:not(.lumina-morning-storm-layer--cleared) {
+    opacity: 0.35;
+  }
+}
+
+/* 결과 카드 — 유리 앰플 · 아침 이슬 실버 글로우 + 날카로운 굴절 (Vulnerable Strength) */
+.lumina-dew-ampoule-glass {
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.14) inset,
+    0 0 40px rgba(192, 210, 230, 0.22),
+    0 0 72px rgba(220, 235, 255, 0.08),
+    0 24px 48px rgba(0, 0, 0, 0.35);
+}
+
+.lumina-dew-ampoule-glass::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    165deg,
+    rgba(255, 255, 255, 0.22) 0%,
+    transparent 38%,
+    rgba(200, 220, 245, 0.06) 62%,
+    rgba(255, 255, 255, 0.04) 100%
+  );
+  pointer-events: none;
+  mix-blend-mode: soft-light;
+}
+
+.lumina-dew-ampoule-glass::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    92deg,
+    transparent 36%,
+    rgba(255, 255, 255, 0.5) 49.2%,
+    rgba(230, 242, 255, 0.35) 50.2%,
+    rgba(255, 255, 255, 0.12) 51%,
+    transparent 64%
+  );
+  opacity: 0.5;
+  pointer-events: none;
+  mix-blend-mode: overlay;
+}
+
+/* Genesis — Honest Luxury: 겉면을 통해 내부가 읽히는 옵션 */
+.genesis-glass-option.lumina-honest-luxury-option {
+  background: linear-gradient(
+    160deg,
+    rgba(255, 255, 255, 0.11) 0%,
+    rgba(255, 255, 255, 0.035) 42%,
+    rgba(0, 24, 48, 0.32) 100%
+  ) !important;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.11) inset,
+    0 0 28px rgba(200, 218, 238, 0.07) !important;
+}
+
+/* 진단 카드 — 초기 ‘노이즈’ 베일이 답이 쌓이며 걷힘 (조각상 드러나기) */
+.lumina-honest-luxury-veil__noise {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 1;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-dew-ampoule-glass::before,
+  .lumina-dew-ampoule-glass::after {
+    opacity: 0.35;
+  }
+}
+
+/* Glass Clarity — 크리스탈 투과 + 본연 엑기스 미세 발광 */
+.lumina-glass-clarity-ampoule {
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.16) inset,
+    0 0 48px rgba(255, 210, 175, 0.12),
+    0 0 80px rgba(192, 210, 230, 0.14),
+    0 28px 56px rgba(0, 0, 0, 0.38);
+}
+
+.lumina-glass-clarity-ampoule::before {
+  background: linear-gradient(
+    168deg,
+    rgba(255, 252, 248, 0.26) 0%,
+    transparent 36%,
+    rgba(255, 195, 150, 0.08) 52%,
+    rgba(200, 220, 245, 0.08) 72%,
+    rgba(255, 255, 255, 0.05) 100%
+  );
+}
+
+/* 헤더 보석 마크 — 북극성처럼 아주 느리게 밝아졌다 어두워지는 halo (과잉 금지) */
+@keyframes lumina-polaris-halo {
+  0%,
+  100% {
+    filter: drop-shadow(0 0 8px rgba(220, 232, 245, 0.28))
+      drop-shadow(0 0 18px rgba(192, 200, 215, 0.14));
+  }
+  50% {
+    filter: drop-shadow(0 0 14px rgba(236, 244, 255, 0.48))
+      drop-shadow(0 0 28px rgba(205, 218, 238, 0.26));
+  }
+}
+
+.lumina-dew-logo-mark {
+  animation: lumina-polaris-halo 7s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-dew-logo-mark {
+    animation: none;
+    filter: drop-shadow(0 0 10px rgba(220, 232, 245, 0.35))
+      drop-shadow(0 0 22px rgba(192, 200, 215, 0.2));
+  }
+}
+
+/* 히어로 서브카피(三求 설명) — 낮은 대비에서 점점 명료하게 */
+@keyframes lumina-hero-subcopy-dawn {
+  0% {
+    color: rgba(130, 145, 165, 0.52);
+  }
+  100% {
+    color: rgba(236, 242, 250, 0.96);
+  }
+}
+
+.lumina-hero-subcopy-dawn {
+  animation: lumina-hero-subcopy-dawn 4.8s ease-out 0.4s both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-hero-subcopy-dawn {
+    animation: none;
+    color: rgba(232, 238, 245, 0.92);
+  }
+}
+
+/* 확신의 연출 — 유리 면 반사광만 아주 미세하게 숨 쉬듯 (앰플 본체는 고정) */
+@keyframes lumina-morning-ampoule-glint {
+  0%,
+  100% {
+    opacity: 0.36;
+  }
+  50% {
+    opacity: 0.55;
+  }
+}
+
+.lumina-quiet-conviction-ampoule.lumina-dew-ampoule-glass::after {
+  animation: lumina-morning-ampoule-glint 14s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-quiet-conviction-ampoule.lumina-dew-ampoule-glass::after {
+    animation: none;
+  }
+}
+
+.lumina-quiet-conviction-logo {
+  animation: lumina-morning-ampoule-glint 11s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-quiet-conviction-logo {
+    animation: none;
+  }
+}
+
+/* 리포트 카드 상단 — 짧은 먹장 희미 스트립 (햇살 전 운치) */
+.lumina-report-cloud-haze {
+  background:
+    linear-gradient(180deg, rgba(45, 55, 72, 0.14) 0%, rgba(30, 41, 59, 0.06) 45%, transparent 100%),
+    repeating-linear-gradient(
+      92deg,
+      transparent 0px,
+      transparent 40px,
+      rgba(71, 85, 105, 0.07) 56px,
+      rgba(51, 65, 85, 0.1) 78px,
+      transparent 96px
+    );
+  mix-blend-mode: multiply;
+}
+
+/* Awakening — 벚꽃 엑기스 속 실버 펄 (지혜의 입자) */
+@keyframes lumina-awakening-pearl {
+  0%,
+  100% {
+    opacity: 0.25;
+    transform: scale(0.92);
+  }
+  50% {
+    opacity: 0.95;
+    transform: scale(1.05);
+  }
+}
+
+.lumina-awakening-pearl {
+  border-radius: 9999px;
+  background: radial-gradient(
+    circle at 30% 28%,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(230, 236, 248, 0.65) 38%,
+    rgba(200, 210, 230, 0.35) 62%,
+    transparent 72%
+  );
+  box-shadow: 0 0 6px rgba(255, 252, 255, 0.5), 0 0 14px rgba(220, 230, 245, 0.35);
+  animation: lumina-awakening-pearl 2.8s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-awakening-pearl {
+    animation: none;
+    opacity: 0.55;
+  }
+}
+
+/* Sensory Synthesis — 호버 시 실버 파동 (色→觸, 살결에 닿는 은유) */
+.lumina-sensory-haptic-surface {
+  --lumina-hx: 50%;
+  --lumina-hy: 48%;
+}
+
+.lumina-sensory-haptic-surface::after {
+  content: "";
+  position: absolute;
+  left: var(--lumina-hx);
+  top: var(--lumina-hy);
+  width: min(58%, 240px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1;
+  background: radial-gradient(
+    circle,
+    rgba(255, 252, 255, 0.24) 0%,
+    rgba(220, 232, 248, 0.1) 38%,
+    transparent 68%
+  );
+  box-shadow: 0 0 0 1px rgba(230, 240, 255, 0.16);
+  opacity: 0;
+  transform: translate(-50%, -50%) scale(0.32);
+}
+
+.lumina-sensory-haptic-surface:hover::after {
+  animation: lumina-sensory-haptic-ripple 1.05s ease-out forwards;
+}
+
+@keyframes lumina-sensory-haptic-ripple {
+  0% {
+    opacity: 0.4;
+    transform: translate(-50%, -50%) scale(0.32);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(2.45);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-sensory-haptic-surface:hover::after {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+/* 퇴장 연출 — 물결 잔상 (벚꽃 + 안도감) */
+@keyframes lumina-exit-ripple-ring {
+  0% {
+    transform: scale(0.4);
+    opacity: 0.42;
+  }
+  100% {
+    transform: scale(1.85);
+    opacity: 0;
+  }
+}
+
+.lumina-exit-ripple::before,
+.lumina-exit-ripple::after {
+  content: "";
+  position: absolute;
+  width: min(92vw, 480px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 1px solid rgba(230, 240, 255, 0.14);
+  pointer-events: none;
+  animation: lumina-exit-ripple-ring 2.6s ease-out infinite;
+}
+
+.lumina-exit-ripple::after {
+  animation-delay: 0.75s;
+  border-color: rgba(248, 200, 210, 0.12);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-exit-ripple::before,
+  .lumina-exit-ripple::after {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+@keyframes lumina-exit-particle-fall {
+  0% {
+    transform: translate3d(var(--lumina-exit-drift, 0), -12vh, 0) rotate(0deg);
+    opacity: 0;
+  }
+  14% {
+    opacity: 0.85;
+  }
+  100% {
+    transform: translate3d(calc(var(--lumina-exit-drift, 0) * 1.2), 92vh, 0) rotate(280deg);
+    opacity: 0;
+  }
+}
+
+@keyframes lumina-exit-rain-fall {
+  0% {
+    transform: translate3d(var(--lumina-exit-drift, 0), -16vh, 0);
+    opacity: 0;
+  }
+  8% {
+    opacity: 0.65;
+  }
+  100% {
+    transform: translate3d(calc(var(--lumina-exit-drift, 0) * 0.55), 88vh, 0);
+    opacity: 0;
+  }
+}
+
+.lumina-exit-particle {
+  position: absolute;
+  top: 0;
+  border-radius: 9999px;
+  pointer-events: none;
+  will-change: transform, opacity;
+}
+
+.lumina-exit-particle-sakura {
+  background: radial-gradient(circle at 40% 35%, rgba(255, 245, 252, 0.95) 0%, rgba(247, 190, 214, 0.9) 56%, rgba(243, 173, 197, 0.55) 100%);
+  clip-path: ellipse(48% 64% at 50% 50%);
+  box-shadow: 0 0 12px rgba(244, 171, 196, 0.42);
+  animation: lumina-exit-particle-fall linear infinite;
+}
+
+.lumina-exit-particle-snow {
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.96) 0%, rgba(219, 236, 255, 0.86) 55%, rgba(180, 205, 238, 0.45) 100%);
+  box-shadow: 0 0 16px rgba(224, 240, 255, 0.6);
+  animation: lumina-exit-particle-fall linear infinite;
+}
+
+.lumina-exit-particle-rain {
+  border-radius: 9999px;
+  background: linear-gradient(180deg, rgba(225, 242, 255, 0.08) 0%, rgba(210, 236, 255, 0.85) 58%, rgba(182, 214, 244, 0.24) 100%);
+  box-shadow: 0 0 10px rgba(170, 210, 244, 0.35);
+  animation: lumina-exit-rain-fall linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lumina-exit-particle,
+  .lumina-exit-particle-sakura,
+  .lumina-exit-particle-snow,
+  .lumina-exit-particle-rain {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+.text-gradient-liquid-silver {
+  background: linear-gradient(120deg, #f0f4f8 0%, #c0c0c0 38%, #9aa3ad 72%, #dfe6ee 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-gradient-liquid-cta {
+  background: linear-gradient(135deg, rgba(240, 244, 248, 0.95) 0%, #c0c0c0 45%, #a8b0ba 100%);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.12) inset,
+    0 12px 40px rgba(0, 27, 58, 0.45);
+}
+
+.bg-gradient-liquid-cta:hover {
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.2) inset,
+    0 0 32px rgba(192, 192, 192, 0.35),
+    0 16px 48px rgba(0, 27, 58, 0.55);
+}
+
+/* 직각 규율(Naked Truth): radius 0 · 부드러운 외곽 드롭 섀도 제거, 1px 선명 경계 */
+.lumina-midnight-glass {
+  border-radius: 0;
+  background: linear-gradient(
+    155deg,
+    rgba(255, 255, 255, 0.07) 0%,
+    rgba(255, 255, 255, 0.02) 40%,
+    rgba(0, 0, 0, 0.25) 100%
+  );
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.1) inset,
+    0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+/* 순백·라이트 서피스 — 칼날 직각, 그림자 없음(경계만) */
+.lumina-origin-card-light {
+  border-radius: 0;
+  box-shadow: none;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+/* Hero — film grain (비움의 밀도) */
+.lumina-hero-grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.045;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.text-lumina-silver-glow {
+  color: rgba(232, 238, 245, 0.96);
+  text-shadow:
+    0 0 42px rgba(192, 192, 192, 0.22),
+    0 0 88px rgba(192, 192, 192, 0.08),
+    0 2px 1px rgba(0, 0, 0, 0.35);
+}
+
+/* Genesis persona — glass option, silver sheen on hover */
+@keyframes genesis-option-sheen {
+  0% {
+    background-position: 180% 0;
+  }
+  100% {
+    background-position: -180% 0;
+  }
+}
+
+.genesis-glass-option {
+  position: relative;
+  overflow: hidden;
+}
+
+.genesis-glass-option::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    transparent 0%,
+    transparent 38%,
+    rgba(255, 255, 255, 0.22) 50%,
+    transparent 62%,
+    transparent 100%
+  );
+  background-size: 220% 100%;
+  background-position: 180% 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s ease;
+}
+
+.genesis-glass-option:hover::after {
+  opacity: 1;
+  animation: genesis-option-sheen 2.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .genesis-glass-option:hover::after {
+    animation: none;
+    opacity: 0.55;
+    background-position: 0 0;
+  }
+}
+
+/* Knowledge Engine — 기획서 미리보기·PDF: 표 정렬·인쇄 단절 완화 */
+.lumina-plan-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+  line-height: 1.45;
+}
+
+@media print {
+  .lumina-plan-prose table {
+    font-size: 10pt;
+  }
+
+  .lumina-plan-prose thead {
+    display: table-header-group;
+  }
+
+  .lumina-plan-prose tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .lumina-plan-prose th,
+  .lumina-plan-prose td {
+    border: 1px solid #cbd5e1;
+    padding: 0.35rem 0.45rem;
+    vertical-align: top;
+  }
+
+  .lumina-plan-prose th {
+    background: #f1f5f9;
+    font-weight: 600;
+  }
+}

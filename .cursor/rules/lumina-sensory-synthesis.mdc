@@ -1,0 +1,23 @@
+---
+description: Sensory Synthesis — 色→觸 Synesthesia, Visual Haptics, 교차 카피
+globs: "**/*.{tsx,ts,css}"
+alwaysApply: true
+---
+
+## 철학
+- **육경(六境)** 흐름 중 루미나 핵심 브리지: 시각 **色**가 촉각 **觸**·안심 **安**으로 이어지게 설계.
+- 오감의 연금술: 눈의 환희가 몸의 안도로 번역되어야 **본질의 완결**.
+
+## 카피·문법
+- `lib/lumina/sensory-synthesis-copy.ts` — Sensory bridge 제목, 色/觸 **대비 한 쌍**, 3단계(환희·접촉·동화), 상세페이지 **최종 안도 한 마디**.
+
+## 비주얼 엔진
+- `lib/lumina/sensory-synthesis-visual.ts` — `LUMINA_SYNESTHESIA_IMAGE_PROMPT_FRAGMENT`: 흡수 찰나, 시각적 햅틱, 수분 입자 밀도, 레이아웃 시 色/觸 교차 문구 힌트.
+- 글로벌 화보: `buildLuminaEssenceEditorialImagePrompt()`에 Synesthesia 블록 포함.
+
+## UI
+- 제품/앰플 모크: **호버** 시 실버 파동(`lumina-sensory-haptic-surface` + `--lumina-hx/hy`)으로 살결에 닿는 부드러움 은유.
+- **대비 문구**: 色 강조 ↔ 觸 강조가 교차 페이드(랜딩 진단 카드 가상 화보 등).
+
+## 연계
+- 자연색·안전: `natural-color-intelligence.ts`, `human-safety-visual.ts`.

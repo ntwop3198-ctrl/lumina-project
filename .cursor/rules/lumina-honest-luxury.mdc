@@ -1,0 +1,27 @@
+---
+description: Honest Luxury — 투명도·정제·거울 피드백 (관음/노출 모순의 제품화)
+globs: "**/*.{tsx,ts,css,md}"
+alwaysApply: true
+---
+
+## 원칙
+
+### Transparency over Opacity
+- 겉면(글래스·카드·앰플 외피)은 **얇고 투명**하게: 내부 알맹이(액체·타이포·데이터)가 **은은히 비치도록** 그라데이션·`backdrop-filter`·얇은 inset border를 쓴다.
+- 크리스탈·굴절·본연 색의 상세 규칙은 **`lumina-glass-clarity.mdc`** 와 `LUMINA_GLASS_CLARITY_IMAGE_PROMPT_FRAGMENT`를 함께 본다.
+- 정보를 가리는 불필요한 불투명 레이어·과한 그림자는 피한다.
+
+### Vulnerable Strength
+- 액체·제형은 **깨끗하고 나체에 가깝게** 보이되, **하이라이트·굴절 한 줄**은 날카롭게: 힘이 ‘부드러운 안개’가 아니라 ‘정밀한 광학’으로 느껴지게 한다.
+- 코드: `.lumina-dew-ampoule-glass` 계열에 specular 라인·내부 깊이를 유지한다.
+
+### Refining, not exposure
+- 카피와 UX 카피는 **폭로·맨얼굴 공포**가 아니라 **정제·근육 드러내기** 프레임을 쓴다.
+- 한국어 기준 문구 풀: `lib/lumina/honest-luxury-copy.ts` (`LUMINA_HONEST_*`).
+
+### Mirror effect
+- 진단·입력 흐름에서 **짧은 긍정 피드백**을 반복 노출한다 (예: 거울 한 줄 — 순수함과 강함의 동일시).
+- 시각적으로는 답이 쌓일수록 **노이즈 베일**이 줄어들며(조각상 드러나기), 본질 단계에서 **정제 속삭임**을 강조한다.
+
+### 카피 생성 (마케팅)
+- 제품을 ‘입히는’ 수사보다 **드러내는** 수사를 우선한다. `LUMINA_HONEST_NAKED_COPY_ANCHOR_*`를 톤 앵커로 사용할 수 있다.

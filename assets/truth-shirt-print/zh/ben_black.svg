@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" width="3000" height="3000">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .main { font-family: "Ma Shan Zheng", "Noto Serif TC", "PMingLiU", serif; font-weight: 400; }
+      .neck { font-family: "Noto Serif TC", "Noto Sans TC", serif; font-weight: 600; }
+      .neckKo { font-family: "Noto Sans KR", "Malgun Gothic", sans-serif; font-weight: 500; }
+      .cc0 { font-family: "Noto Sans KR", Arial, sans-serif; font-weight: 400; }
+      .axes { stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    ]]></style>
+  </defs>
+  <text x="1500" y="120" text-anchor="middle" class="neck" font-size="48" fill="#1A1A1A">
+    <tspan x="1500" dy="0">ÿp</tspan>
+    <tspan x="1500" dy="60" class="neckKo">5Á\ ´¬Lt „hD t4ä</tspan>
+  </text>
+  <text x="1500" y="1620" text-anchor="middle" dominant-baseline="central" class="main" font-size="2000" fill="#1A1A1A" stroke="#0D0D0D" stroke-width="12">(</text>
+  <g class="axes" stroke="#1A1A1A" stroke-width="16" transform="translate(90, 2710)">
+    <line x1="0" y1="0" x2="110" y2="110"/>
+    <line x1="110" y1="0" x2="0" y2="110"/>
+    <line x1="55" y1="-18" x2="55" y2="128" stroke-width="12" opacity="0.9"/>
+  </g>
+  <text x="2970" y="2965" text-anchor="end" class="cc0" font-size="33" fill="#1A1A1A">CC0</text>
+</svg>

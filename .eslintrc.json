@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "@next/next/no-html-link-for-pages": "off",
+    "prefer-const": "warn",
+    "no-console": "warn"
+  },
+  "overrides": [
+    {
+      "files": [
+        "app/api/**/*.ts",
+        "lib/api-usage/**/*.ts",
+        "lib/gemini/**/*.ts",
+        "lib/env/google-ai.ts"
+      ],
+      "rules": {
+        "no-console": "off"
+      }
+    }
+  ]
+}

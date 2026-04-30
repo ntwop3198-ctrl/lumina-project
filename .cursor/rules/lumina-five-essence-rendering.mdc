@@ -1,0 +1,27 @@
+---
+description: Five-Essence Rendering — 오방색 계 본연색·Tyndall·커스틱·대비 자동
+globs: "**/*.{tsx,ts,css,md}"
+alwaysApply: true
+---
+
+## 데이터 소스
+- `lib/lumina/alchemist-five-essence-palette.ts` — 靑·黃·赤·白·緑(橙·綠 회복 레인) 정의, UI 토큰, `buildFiveEssenceRenderPrompt(id)`.
+
+## Material Master
+- 용기: **초투명 크리스탈** 기본. 바닥면(Base) **굴절**·두께감을 프롬프트·쉐이더에서 명시.
+- Glass Clarity 규칙: `lumina-glass-clarity.mdc`와 함께 적용.
+
+## Color Logic
+- 오색은 **기능 언어**: 진정(靑), 영양(黃), 활력(赤), 순백(白), 회복(緑/橙).
+- 채도: **자연 유래의 은은한 채도**; 원색 팔레트 금지.
+- **Tyndall**: 액체 내부 미세 입자가 빛에 반사되는 반짝임을 프롬프트에 포함 (`buildFiveEssenceRenderPrompt` 참고).
+
+## Lighting Path
+- 고요한 **아침 햇살**이 비스듬히 유리를 통과 → 반대편 면에 **커스틱스**로 본연색 투영(본질의 투영).
+
+## UI Feedback
+- 기능(오색) 선택 시 **미드나잇 블루 농도**·앰비언트를 미세 조정해 **선택 본연색 대비**가 최적이 되도록 (`ambientBackground`, `midnightGlowScale`, Alchemist 섹션).
+
+## 통합 프롬프트
+- 전체 화보: `buildLuminaEssenceEditorialImagePrompt()` + 필요 시 `buildFiveEssenceRenderPrompt(essenceId)`.
+- 자연 유래 오색(벚꽃·진달래·민들레·숲·순백): `lib/lumina/natural-color-intelligence.ts`, `lumina-natural-color-intelligence.mdc`.

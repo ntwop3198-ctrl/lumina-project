@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" width="3000" height="3000">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .main { font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif; font-weight: 900; }
+      .sub { font-family: "Noto Sans KR", "Malgun Gothic", sans-serif; font-weight: 600; }
+      .axes { stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    ]]></style>
+  </defs>
+  <g class="axes" stroke="#8B0000" stroke-width="14" transform="translate(2480, 100)">
+    <line x1="0" y1="0" x2="100" y2="100"/>
+    <line x1="100" y1="0" x2="0" y2="100"/>
+    <line x1="50" y1="-15" x2="50" y2="115" stroke-width="10" opacity="0.85"/>
+  </g>
+  <text x="1500" y="1580" text-anchor="middle" dominant-baseline="central" class="main" font-size="1680" fill="#8B0000" stroke="#5C0000" stroke-width="12">ú</text>
+  <text x="1500" y="2580" text-anchor="middle" class="sub" font-size="72" fill="#8B0000">
+    <tspan x="1500" dy="0">xıx DÑ‰¿Ù‰ ¡\ îht X‰</tspan>
+  </text>
+</svg>

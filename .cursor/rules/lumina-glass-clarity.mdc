@@ -1,0 +1,28 @@
+---
+description: Glass Clarity — 초투명 유리·본연 엑기스·Midnight 대비 (비주얼 엔진)
+globs: "**/*.{tsx,ts,css,md}"
+alwaysApply: true
+---
+
+## The Glass Clarity (투과된 진실)
+
+### Material — Ultra-Clear Glass
+- 앰플 외피는 **플라스틱 느낌 금지** → **차가운 크리스탈 / ultra-clear borosilicate glass** 질감.
+- **Specular**: 날카로운 **liquid-silver** 하이라이트, 얇고 긴 띠광.
+- **Refraction**: 왜곡·헤이즈 최소, **caustics 선명**, 다이아몬드식(vajra) 굴절 허용.
+
+### Essence Physics
+- 액체 색은 **화학 색소 연출이 아니라 성분 본연**의 톤: 은은한 **호박·꿀**, 맑은 수분층, 또는 묵직한 **우윳빛**.
+- 배경 **Midnight Blue (#001B3A 계열)** 와 **극대비**로 엑기스만 보석처럼 떠 보이게.
+- **미세 emissive**: 내부에서만 도는 아주 약한 자체 발광(과포화 금지).
+
+### The Nakedness
+- 라벨·타이포는 **최소화 또는 거의 투명**; 시선은 **유리 곡면 + 액체 메니스커스 + 굴절**에 머물게.
+
+### Mood
+- **고요한 아침 햇살**이 유리를 통과하며 엑기스 색을 깨우는 한 순간 — low-key, 방향성 있는 소프트 키 라이트.
+
+### 코드·에셋
+- 랜딩 모크: `.lumina-dew-ampoule-glass`, `.lumina-glass-clarity-ampoule`, Alchemist SVG 그라데이션.
+- 이미지 프롬프트: `buildLuminaEssenceEditorialImagePrompt()` 및 `LUMINA_GLASS_CLARITY_IMAGE_PROMPT_FRAGMENT` (`lib/lumina/essence-editorial-prompt.ts`).
+- 오색 레인별 본연색·Tyndall·커스틱: `lumina-five-essence-rendering.mdc`, `lib/lumina/alchemist-five-essence-palette.ts`.

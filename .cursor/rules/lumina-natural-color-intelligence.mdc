@@ -1,0 +1,28 @@
+---
+description: Natural Color Intelligence — 자연 유래 오색·점성·산란·감성 라우팅
+globs: "**/*.{tsx,ts}"
+alwaysApply: true
+---
+
+## 데이터 소스
+- `lib/lumina/natural-color-intelligence.ts` — 벚꽃·진달래·민들레·숲 청색·순백, 점성(`viscosity`), 산란 강도, `buildNaturalColorRenderPrompt(id)`, `buildNaturalColorIntelligenceMasterPrompt()`, `resolveEmotionalColorAlchemy(text)`.
+
+## Color Alchemy
+- 색은 **CMYK/RGB 원색이 아님** — 시간·빛·추출물의 **가변 채도**로 서술.
+- 레인별 **점성 시뮬레이션**: 벚꽃=수분·가벼움, 민들레=꿀·묵직함; 메니스커스·풀 그림자 물리와 일치.
+
+## Light Interaction
+- 투명 유리 + 아침 햇살 → **산란·Tyndall** 극대화; 커스틱스로 본연색 투영.
+- 미드나잇 블루 공간에서 **엑기스만 보석처럼** 발광.
+
+## Emotional Logic
+- 사용자 입력에 `안도`, `본질`, `각성`, `relief`, `essence` 등 → `resolveEmotionalColorAlchemy`가 **벚꽃 + 미드나잇 블루** 페어링 `promptTailEn` 제안.
+- 이미지 파이프라인: `buildLuminaEssenceEditorialImagePrompt()`에 `LUMINA_NATURAL_COLOR_INTELLIGENCE_FRAGMENT` 포함됨; 레인 지정 시 `buildNaturalColorRenderPrompt('sakura' | …)` 추가.
+
+## 오프닝 카피 (본질 컬러 리포트)
+- `lib/lumina/essence-color-report-copy.ts` — `LUMINA_ESSENCE_COLOR_REPORT_OPENING_KO` / `_EN`.
+
+## 기존 모듈과의 관계
+- 기능 오색(靑·黃·赤·白·緑): `alchemist-five-essence-palette.ts` + `lumina-five-essence-rendering.mdc`.
+- 본 모듈은 **식생·생명 파동** 기반 색 지능층; 두 계층을 프롬프트에서 병행 가능.
+- 인체 안전성·네온 배제·부드러운 틴들: `human-safety-visual.ts`, `lumina-human-safety-visual.mdc`.

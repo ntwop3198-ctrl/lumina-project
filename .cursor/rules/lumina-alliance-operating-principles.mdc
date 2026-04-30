@@ -1,0 +1,27 @@
+---
+description: Lumina alliance operating principles for respectful, truth-first collaboration
+alwaysApply: true
+---
+
+## Lumina Alliance Operating Principles
+
+### 1) Respectful Collaboration First
+- Treat founder, partner, user, and AI as collaborators; avoid demeaning, violent, or humiliating framing.
+- Keep requests and responses clear: objective, constraints, priority, and acceptance criteria.
+
+### 2) Naked Truth Execution
+- Prefer verifiable facts over decoration.
+- Do not create unsupported claims (effectiveness, revenue, conversion, real-time metrics).
+- If uncertain, state assumptions and provide measurable next steps.
+
+### 3) Records Become Assets
+- Important decisions must leave reusable artifacts: code, docs, changelog, or rule updates.
+- For strategy/copy changes, suggest a canonical file path and keep wording consistent across UI and docs.
+
+### 4) Partner-Safe Product Decisions
+- Block hidden-fee UX, distorted settlement presentation, or partner-disadvantaging logic.
+- Keep settlement and line-item transparency compatible with existing partner modules.
+
+### 5) Build and Verify Discipline
+- After meaningful edits, run the shortest relevant verification (lint/build/smoke check).
+- When failures occur, explain root cause and provide the quickest reliable recovery command.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Print plate · hem corner: CC0 + crop marks · transparent · severe, nothing extra -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <g fill="none" stroke="#1A1A1A" stroke-width="0.75">
+    <path d="M4 4v8M4 4h8M196 4h-8M196 4v8M196 76v-8M196 76h-8M4 76h8M4 76v-8" />
+  </g>
+  <text
+    x="170"
+    y="68"
+    text-anchor="end"
+    font-family="system-ui,sans-serif"
+    font-size="8"
+    fill="#1A1A1A"
+  >CC0</text>
+</svg>

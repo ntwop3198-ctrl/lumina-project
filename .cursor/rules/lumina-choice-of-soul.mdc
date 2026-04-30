@@ -1,0 +1,25 @@
+---
+description: Choice of Soul — 본질(Natural) vs 효율(Conventional) 이원 엔진
+globs: "**/*.{tsx,ts}"
+alwaysApply: true
+---
+
+## 데이터
+- `lib/lumina/choice-of-soul.ts` — 경로 ID, 게이트 카피, 카피 엔진 키워드, 경고문, **회귀의 통로** 본문, `buildBrandSoulCopyEngineHint(path, lang)`, `LUMINA_BRAND_SOUL_STORAGE_KEY`.
+
+## 런타임
+- `BrandSoulChoiceProvider` — `sessionStorage`에 경로 저장, `document.documentElement[data-lumina-soul-path]`.
+- `useBrandSoulChoice()` — Provider 밖에서는 `path: null` (헤더 토글 숨김).
+- `SoulPathHeaderSwitcher` · `BrandSoulReturnLink` — 헤더·풋터.
+
+## UI 분기
+- **Natural**: 기존 미드나잇·실버·벚꽃 서사 (The White Suit).
+- **Conventional**: `globals.css`의 `html[data-lumina-soul-path="conventional"]`로 배경 채도·스톰 레이어 톤 변화, 헤더 보라 네온 보더.
+- 진단 리포트: Conventional일 때 하단 **경고 한 줄** (`LUMINA_CONVENTIONAL_PATH_WARNING_*`).
+- 풋터: Conventional일 때 **회귀의 통로** 카피 + 본질 길 전환 버튼.
+
+## AI·카피
+- 경로별 키워드: `LUMINA_*_PATH_COPY_KEYWORDS_*` — 생성 파이프라인에 `buildBrandSoulCopyEngineHint`로 주입.
+
+## 홈 배치
+- `app/page.tsx`: `ConvictionAtmosphereProvider` > `BrandSoulChoiceProvider` > `LuminaExitMomentProvider` > `main`.

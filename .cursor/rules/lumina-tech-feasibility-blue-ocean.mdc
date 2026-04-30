@@ -1,0 +1,19 @@
+---
+description: 2026 Tech Feasibility — 천연 오색 안정화·알맹이·컨셔스 보존·블루오션
+globs: "**/*.{tsx,ts,md}"
+alwaysApply: true
+---
+
+## 데이터 소스
+- `lib/lumina/lumina-tech-feasibility-2026.ts` — 천연 오색 구현·안정화 숙제, 나노 에멀전/캡슐화, 줄기세포·발효, 방부+에어리스, 대기업 회피 이유, 엔진 미션, `LUMINA_PRIORITY_TECH_BARRIERS`, `LUMINA_TECH_REALITY_PROMPT_FRAGMENT_EN`.
+
+## 원칙
+- **가능하지만 비싸고 귀찮다** = 루미나 블루오션. “없다”가 아니라 “안 한다”.
+- 루미나 AI는 **포뮬레이션·안정화·로트 QC**를 데이터로 내려 파트너의 실행 비용을 깎는다.
+
+## 프롬프트·Co-pilot
+- 이미지/카피에 기술 현실을 한 줄 넣을 때 `LUMINA_TECH_REALITY_PROMPT_FRAGMENT_EN` 활용.
+- 제품 로드맵 논의 시 `LUMINA_PRIORITY_TECH_BARRIERS` 순서를 기본 가설로 참고 (1순위: 광안정 색).
+
+## 연계
+- 자연색: `natural-color-intelligence.ts` · Human-Safety · Glass Clarity · Essential is Healthy.

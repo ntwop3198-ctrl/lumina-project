@@ -1,0 +1,33 @@
+/** 숏폼 시나리오 자막 — 마침표 없이(요청) */
+export const ESSENCE_SHORTFORM = {
+  ko: {
+    sectionEyebrow: "SHORTFORM · ESSENCE",
+    sectionTitle: "The Essence of Basics",
+    sectionLead: "기본(小)의 위엄 — 고요한 정적",
+    sectionHint: "화면을 누르면 브랜드 페르소나 진단으로 이동합니다",
+    chaosSub: "더 크게, 더 화려하게, 더 빠르게…",
+    beamSub: "허황된 꿈은 화려한 곳에 있지만,",
+    kyushoTag: "求小 · 기본을 파고들다",
+    kyushoMain: "진짜 확신은 가장 깊은 '기본'에 있습니다",
+    wisdomA: "기본에 충실한 것이 가장 빠른 길입니다",
+    wisdomB: "18년의 통찰이 빚어낸 단 하나의 본질, 루미나",
+    ctaPill: "베타 파트너 모집",
+    ctaLine: "당신의 고집을 명품의 궤도로 루미나 제네시스",
+    a11yPlay: "숏폼 시퀀스 보기 — 클릭 시 페르소나 진단으로 이동",
+  },
+  en: {
+    sectionEyebrow: "SHORTFORM · ESSENCE",
+    sectionTitle: "The Essence of Basics",
+    sectionLead: "The dignity of the small — stillness",
+    sectionHint: "Tap the frame to go to brand persona diagnosis",
+    chaosSub: "Bigger, louder, faster…",
+    beamSub: "Empty dreams live in glitter,",
+    kyushoTag: "Essentialism · Into the root",
+    kyushoMain: "True conviction lives deepest in the basics",
+    wisdomA: "Loyalty to basics is the shortest path",
+    wisdomB: "One essence from eighteen years of insight — Lumina",
+    ctaPill: "Beta partners",
+    ctaLine: "Your stubbornness into luxury orbit — Lumina Genesis",
+    a11yPlay: "Shortform sequence — tap to open persona diagnosis",
+  },
+} as const

@@ -1,0 +1,29 @@
+---
+description: Human-Safety Priority — 천연 색·투과·바이오 하모니·안전 태그
+globs: "**/*.{tsx,ts,css}"
+alwaysApply: true
+---
+
+## 원칙
+- 인공 색소·형광·네온 **금지**; 벚꽃·진달래·민들레 등 **실제 추출물의 부드럽고 깊은 파스텔**만.
+- **투명도 = 무독성의 시각 증거**: 액체 깊이까지 시선이 닿는 초정밀 투과 렌더링; 탁한 불투명 금지.
+- **틴들/산란**: 강한 글리터가 아니라 **맑은 수분감**이 느껴지는 부드러운(Soft) 산란.
+
+## 데이터·프롬프트
+- `lib/lumina/human-safety-visual.ts` — `LUMINA_HUMAN_SAFETY_IMAGE_PROMPT_FRAGMENT`, `LUMINA_NATURAL_LOGIC_SAFETY_EN`, 안전 태그·공감·자서전 캡션 문자열.
+- 글로벌 화보: `buildLuminaEssenceEditorialImagePrompt()`에 Human-Safety 블록 포함.
+
+## 리포트 카피
+- `lib/lumina/essence-color-report-copy.ts` — Safety Essence 오프닝·서브.
+
+## 브랜드 선언
+- `lib/lumina/lumina-brand-declaration.ts` — 공식 선언문 KO/EN.
+
+## UI
+- 진단 결과 모크: **Natural Origin: 100%** / **Safe for Skin** 실버 톤, 과하지 않은 글로우.
+- 컬러 팔레트 인근: **「피부가 먼저 알아보는 편안함」** 짧은 페이드 (한 번성).
+
+## 연계
+- 자연 오색: `natural-color-intelligence.ts` · `lumina-natural-color-intelligence.mdc`.
+- Glass Clarity: `lumina-glass-clarity.mdc`.
+- 色→觸: `sensory-synthesis-copy.ts` · `lumina-sensory-synthesis.mdc`.

@@ -1,0 +1,18 @@
+---
+description: Knowledge Engine 상세 기획서 — 오타 교정·고유명사·B2B 투자 제안 톤
+globs:
+  - lib/lumina/knowledge-engine-plan*.ts
+  - lib/lumina/plan-document-standards.ts
+  - app/knowledge-engine/plan/**
+---
+
+## 멘토 지시 (기획서 생성·편집 시)
+
+1. **문맥적 교정:** 지시문·사용자 입력에 오타가 있어도 문맥상 명확한 비즈니스 용어로 자동 교정해 반영한다. (예: `상세기핵서` → `상세 기획서`)
+2. **고유명사:** `LUMINA`, `N2P`, `Beena` 등은 `lib/lumina/plan-document-standards.ts`의 `PLAN_CANONICAL_NAMES`·`applyPlanCopyGuards`와 대조해 스펠링을 통일한다.
+3. **전문 문체:** 기획서 본문은 날것 문장을 그대로 두지 않고, 합의한 **B2B 투자 제안서 스타일**의 정제된 언어로 다듬어 출력한다. 근거 없는 매출·효능·수치 생성은 금지한다.
+
+## 구현 앵커
+
+- 레이아웃·데이터 구조 주석: `plan-document-standards.ts` 파일 상단
+- 필드 정규화·가드: `normalizePlanFields`, `applyPlanCopyGuards`

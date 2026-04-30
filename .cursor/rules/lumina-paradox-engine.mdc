@@ -1,0 +1,24 @@
+---
+description: 역설의 엔진 — 求小·求死·求己·求忘 (Genesis 심화)
+globs: "**/*.{tsx,ts,css}"
+alwaysApply: true
+---
+
+## Genesis에 심어 둔 역설적 가치 (求)
+
+### Essentialism — 求小
+- 디자인·카피에서 **덜어낼수록 강해지는** 법칙을 우선한다. 수식어·장식이 많을수록 가치는 흐려진다.
+- 코드: `essentialismDiamondMultiplier()`가 Diamond 본질 서술의 **장황함·감탄 남용**에 약한 페널티, **짧고 밀도 높은** 서술에 미세 보너스를 준다.
+
+### Transformation — 求死
+- 낡은 브랜딩 관습을 **파괴·재프레이밍**하는 과감한 제안을 허용한다.
+- Gemini 텍스트: `refineCopyToneWithGemini(..., { transformationMode: true })` 시 **temperature 상향** + 역설 시스템 문구(`GENESIS_TRANSFORMATION_*`)를 붙인다. 허위 효능·수치 생성은 금지.
+
+### Self-Reliance — 求己
+- Genesis 진단 **결과 리포트 마지막**(닫기 직전)에 반드시 포함:  
+  **「이 모든 확신의 근거는 외부가 아닌 창업자 당신의 고집 안에 있었습니다.」**  
+  (영어 UI에는 대응 영문 한 문장.)
+
+### The Void — 求忘
+- 랜딩 여백은 ‘빈 것’이 아니라 **무한한 가능성이 열리는 깊이**로 다룬다.
+- `.lumina-midnight-landing` 등에 **층진 그라데이션·은은한 방사형**으로 시각적 깊이를 준다. 정보 밀도를 올릴 때는 한 요소씩 정당화한다.

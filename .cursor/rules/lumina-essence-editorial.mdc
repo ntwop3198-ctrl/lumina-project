@@ -1,0 +1,20 @@
+---
+description: 본질의 화보 — 절대적 정적 · Alchemist 첫 이미지 프롬프트
+globs: "**/*.{tsx,ts,md}"
+alwaysApply: false
+---
+
+## Essence Declaration (고기능성 앰플)
+
+- **한 줄 본질:** `피부의 모든 소음을 잠재우는, 단 한 방울의 '절대적 정적(Absolute Silence)'`
+- **화보 카피 (마침표 없음):** `당신의 고집이 마침내 침묵으로 증명됩니다`
+- 상수·이미지 프롬프트 빌더: `@/lib/lumina/essence-editorial-prompt.ts` 의 `buildLuminaEssenceEditorialImagePrompt()`
+
+## AI 비주얼 지시 (요약)
+
+1. **피사체:** 짙은 Midnight Blue 광활한 여백, Silver 하이라이트의 투명·묵직한 앰플 한 방울이 떨어지기 직전.
+2. **질감:** 액 내 은하수 같은 미세 입자 소용돌이; 굴절은 다이아몬드(Vajra)처럼 예리하게.
+3. **공간:** 심해 같은 깊이; **오른쪽 과감한 비움** (비움의 철학).
+4. **카피:** 실제 서비스에서는 **왼쪽에 명조 오버레이**로 한글 문구 배치(이미지 생성 시 텍스트는 UI 레이어 권장).
+
+Imagen/Gemini 호출 시 `buildLuminaEssenceEditorialImagePrompt()` 문자열을 사용하거나 압축해 전달한다.

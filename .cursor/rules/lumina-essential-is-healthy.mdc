@@ -1,0 +1,25 @@
+---
+description: Law of Essential Beauty — Essential is Healthy, 헌법 제1조, Essence Score
+globs: "**/*.{tsx,ts,css}"
+alwaysApply: true
+---
+
+## 헌법 제1조
+- 문장: `lib/lumina/law-of-essential-beauty-copy.ts` — `LUMINA_CONSTITUTION_ARTICLE_1_KO` / `_EN`.
+- 랜딩: 히어로 상단·풋터에 **Silver 명조**로 반복 배치 (브랜드 축).
+
+## 피날레 카피
+- `LUMINA_FINALE_*` — 풋터 및 진단 리포트 말미에 사용.
+
+## 비주얼
+- `lib/lumina/essential-is-healthy-visual.ts` → `buildLuminaEssenceEditorialImagePrompt()`에 포함.
+- 벚꽃 엑기스: **건강한 수분감**의 자연 반사광; 인위 광택 금지.
+
+## Essence Score (진단)
+- 장식 레이어(과장 라벨·인공 반짝임·빈 수식어)를 **걷을수록** 점수 상승, 배경 메시·앰버·노이즈 베일 감소로 **고요해짐**.
+
+## 퇴장
+- 상단 이탈 의도 시 벚꽃 잎 + **안도감** 잔상 (`LuminaExitMomentProvider`).
+
+## 연계
+- Safety: `human-safety-visual.ts`. Sensory: `sensory-synthesis-copy.ts`.
