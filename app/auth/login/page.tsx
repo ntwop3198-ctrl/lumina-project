@@ -17,20 +17,58 @@ export default function LoginPage() {
     setError(null)
     setLoading(true)
     try {
-      const { error: signInError } = await supabase.auth.signInWithPassword({
-        email: email.trim(),
-        password,
+      const res = await fetch("/api/auth/sign-in", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: email.trim(), password }),
       })
-      if (signInError) {
-        setError(signInError.message || "로그인에 실패했습니다.")
-        setLoading(false)
+      const payload: unknown = await res.json().catch(() => ({}))
+      const message =
+        typeof payload === "object" &&
+        payload !== null &&
+        "error" in payload &&
+        typeof (payload as { error: unknown }).error === "string"
+          ? (payload as { error: string }).error
+          : null
+
+      if (!res.ok) {
+        setError(message || "로그인에 실패했습니다.")
         return
       }
+
+      const access =
+        typeof payload === "object" &&
+        payload !== null &&
+        "access_token" in payload &&
+        typeof (payload as { access_token: unknown }).access_token === "string"
+          ? (payload as { access_token: string }).access_token
+          : null
+      const refresh =
+        typeof payload === "object" &&
+        payload !== null &&
+        "refresh_token" in payload &&
+        typeof (payload as { refresh_token: unknown }).refresh_token === "string"
+          ? (payload as { refresh_token: string }).refresh_token
+          : null
+
+      if (!access || !refresh) {
+        setError("로그인 응답이 올바르지 않습니다.")
+        return
+      }
+
+      const { error: sessionError } = await supabase.auth.setSession({
+        access_token: access,
+        refresh_token: refresh,
+      })
+      if (sessionError) {
+        setError(sessionError.message || "세션을 저장하지 못했습니다.")
+        return
+      }
+
       router.push("/dashboard")
       router.refresh()
-    } catch (err) {
-      void err
-      setError("로그인 요청 중 오류가 발생했습니다.")
+    } catch {
+      setError("로그인 요청 중 오류가 발생했습니다. 네트워크를 확인해 주세요.")
     } finally {
       setLoading(false)
     }
