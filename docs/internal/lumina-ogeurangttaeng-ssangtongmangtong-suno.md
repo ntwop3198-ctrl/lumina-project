@@ -6,7 +6,8 @@
 > EN: `lumina-ogeurangttaeng-ssangtongmangtong-english-suno.md`  
 > JA: `lumina-ogeurangttaeng-ssangtongmangtong-japanese-suno.md`  
 > VI: `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md`  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> 붙여넣기: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
@@ -63,6 +64,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 최종)
+
+> 멘티 문법: 섹션 태그 영어 · 원본 `()` → `[]` 영어 메타 · 가사란 `[Style:]` 없음
 
 ```
 [Intro]

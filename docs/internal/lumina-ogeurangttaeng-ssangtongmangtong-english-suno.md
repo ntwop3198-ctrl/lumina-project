@@ -4,7 +4,8 @@
 > **v1 Suno 작업용 최종** (멘티 A안 정본 · Cursor 판정) · 2026-08-28  
 > Subtitle: *Cheeky Bickering Duet · even a smack is love*  
 > KO: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` (v1)  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> Paste: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
@@ -66,6 +67,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 final)
+
+> Mentee lock: English section tags · original `()` → `[]` English meta · no `[Style:]` in lyrics
 
 ```
 [Intro]

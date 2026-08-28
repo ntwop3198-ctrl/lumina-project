@@ -4,7 +4,8 @@
 > **v1 Suno bản dán cuối** (Aán chính bản · Cursor phán định) · 2026-08-28  
 > Phụ đề: *Cheeky Bickering Duet · đánh cũng là tình*  
 > KO: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` (v1)  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> Dán: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
@@ -66,6 +67,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 final)
+
+> Khóa mentee: tag đoạn tiếng Anh · `()` gốc → `[]` metadata English · không `[Style:]` trong lời
 
 ```
 [Intro]

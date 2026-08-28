@@ -207,6 +207,7 @@
 | **オグランテン サントンマントン** (JA v1) | `lumina-ogeurangttaeng-ssangtongmangtong-japanese-suno.md` |
 | **Ogeurangttaeng Ssangtongmangtong** (VI v1) | `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md` |
 | **4语索引** | `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (KO·EN·JA·VI · `()`→`[]`) | `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md` |
 
 ---
 

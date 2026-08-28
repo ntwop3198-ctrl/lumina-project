@@ -4,7 +4,8 @@
 > **v1 Suno 作業用最終** (メンティ A案正本 · Bridge 말맛만 B안 · Cursor 판정) · 2026-08-28  
 > 副題: *Cheeky Bickering Duet · 叩いても情*  
 > KO: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` (v1)  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> 貼り付け: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
@@ -66,6 +67,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 final)
+
+> メンティ文法: セクションタグは英語のまま · 元の `()` → `[]` 英語メタ · 歌詞欄に `[Style:]` なし
 
 ```
 [Intro]

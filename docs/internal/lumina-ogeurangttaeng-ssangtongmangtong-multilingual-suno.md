@@ -2,7 +2,9 @@
 
 > **장길 · 윤주 · 새알심 · 연변 사투리 · 정(情) 티키타카** · Korean folk dance pop · **116 bpm**  
 > v1 · 2026-08-28 · 멘티 A안 정본 + Cursor 판정  
-> 부제: *Cheeky Bickering Duet · 때려도 정 · 구소구고구기 · 진공묘유*
+> 부제: *Cheeky Bickering Duet · 때려도 정 · 구소구고구기 · 진공묘유*  
+> 붙여넣기: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`  
+> 멘티 문법: 원본 `()` → `[]` 영어 메타 · 섹션 태그 영어 그대로
 
 ---
 
@@ -14,6 +16,19 @@
 | EN | **Ogeurangttaeng Ssangtongmangtong** | `lumina-ogeurangttaeng-ssangtongmangtong-english-suno.md` | 116 | **v1 ✅** |
 | JA | **オグランテン サントンマントン** | `lumina-ogeurangttaeng-ssangtongmangtong-japanese-suno.md` | 116 | **v1 ✅** |
 | VI | **Ogeurangttaeng Ssangtongmangtong** | `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md` | 116 | **v1 ✅** |
+| 붙여넣기 | KO·EN·JA·VI 3칸 | `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md` | 116 | **문법 잠금 ✅** |
+
+---
+
+## 멘티 문법 (2026-08-28 잠금)
+
+원본 네 버전 정리 규칙. 가사란에서만 적용.
+
+| 규칙 | 정본 | 금지 |
+|------|------|------|
+| **섹션 태그** | 영어 그대로 `[Intro]` `[Verse 1]` `[Verse 2]` `[Pre-Chorus]` `[Chorus]` `[Bridge]` `[Outro]` | `[인트로]` `[1절]` `[후렴]` `[間奏]` |
+| **연주·효과** | 원본 `()` → **`[]` 영어 메타** · `[upbeat accordion riff]` `[laughing fade out]` | `(upbeat…)` `(웃으며 페이드)` `(アコーディオン)` |
+| **Style** | **스타일란** 분리 | 가사란 `[Style:]` (영어 산문 가창 위험) |
 
 ---
 
@@ -49,12 +64,16 @@
 ## 구조 (KO와 동일 · 변경 금지)
 
 ```
-Intro (메타 1줄 + 훅 1줄)
-→ Verse 1 (4) → Verse 2 (4) → Pre-Chorus (2)
-→ Chorus (6) → Verse 3 (4)
-→ Bridge (한글 시그니처 1 + 풀이 1 + 한글 시그니처 1 + 풀이 1)
-→ Chorus (6)
-→ Outro (메타 1줄 + 훅 1줄 + 티키타카 1줄)
+[Intro]
+[upbeat accordion riff]
+훅 1줄
+[Verse 1] 4줄 → [Verse 2] 4줄 → [Pre-Chorus] 2줄
+[Chorus] 6줄 → [Verse 3] 4줄
+[Bridge] 한글 시그니처 1 + 풀이 1 + 한글 시그니처 1 + 풀이 1
+[Chorus] 6줄
+[Outro]
+[laughing fade out]
+훅 1줄 + 티키타카 1줄
 ```
 
 ---
