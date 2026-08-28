@@ -202,6 +202,13 @@
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
 | **Foolish Enough** (EN v1) | `lumina-foolish-enough-english-suno.md` |
 | **三语索引** | `lumina-foolish-enough-trilingual-suno.md` |
+| **오그랑땡 쌍통망통** (KO v1 · 장길·윤주·새알심 티키타카) | `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` |
+| **哦格朗当 双通忙通** (ZH v1 · 汤圆·活该) | `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` |
+| **Ogeurangttaeng Ssangtongmangtong** (EN v1) | `lumina-ogeurangttaeng-ssangtongmangtong-english-suno.md` |
+| **オグランテン サントンマントン** (JA v1) | `lumina-ogeurangttaeng-ssangtongmangtong-japanese-suno.md` |
+| **Ogeurangttaeng Ssangtongmangtong** (VI v1) | `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md` |
+| **5语索引** | `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · `()`→`[]`) | `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md` |
 
 ---
 
@@ -248,4 +255,5 @@
 ## 공개 주의
 
 - **공주** · **동갑 친구** 등 실명·사연 — DistroKid·Suno Library 전 **동의·익명화** 검토  
+- **장길 · 윤주** (`오그랑땡 쌍통망통`) — 현장 인물 가능, 공개 전 **본인 재확인**  
 - `있는 그대로` — 공개 전 별도 확인 (기존 메모)
