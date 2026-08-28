@@ -1,48 +1,51 @@
-# Ogeurangttaeng Ssangtongmangtong (哦格朗当 双通忙通)
+# Ogeurangttaeng Ssangtongmangtong (Tiếng Việt)
 
-> **tiki-taka song ca · chè trôi · đáng đời · 求小求苦求己** · Korean folk dance pop · **VI v1**  
-> **v1 Suno 작업용 최종** (멘토 VI + Cursor 판정) · 2026-08-28  
-> Phụ đề: *活该 · Janggil · Yunju · 真空妙有*  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> **Janggil · Yunju · viên chè trôi · giọng Diên Biên · tiki-taka tình** · Korean folk dance pop · **VI v1**  
+> **v1 Suno bản dán cuối** (Aán chính bản · Cursor phán định) · 2026-08-28  
+> Phụ đề: *Cheeky Bickering Duet · đánh cũng là tình*  
+> KO: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` (v1)  
+> ZH: `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` (v1)  
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> Dán: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
 ## 멘토 판정 (Cursor · 2026-08-28)
 
-| 기준 | 멘토 VI (A) | 2차 VI (B) | **v1 병합** |
-|------|-------------|------------|-------------|
-| **훅** | **Ogeurangttaeng · Ssangtongmangtong** | 동일 로마자 | **멘토** |
-| **이름** | **Janggil · Yunju** | Jang-gil · Yoon-ju | **멘토** (전어 통일) |
-| **새알심** | **chè trôi** | trôi nước · viên tròn xoe (후렴에서 소실) | **멘토** |
-| **고소하다** | **đáng đời** 후렴 유지 | đáng đời chưa, vừa lòng tôi lắm | **멘토** (짧게) |
-| **Pre** | **Đánh cũng là tình, chọc cũng là tình** | Đánh cũng là thương, trêu cũng là tình | **멘토** (ZH 打/逗 대칭) |
-| **V3** | **tình thương** | cái tình thắm thiết | **멘토** (情分) |
-| **Outro** | **tiki-taka thân thương** | màn đối đáp thân thương | **멘토** |
+| 기준 | A안 VI | B안 VI | **v1** |
+|------|--------|--------|--------|
+| **훅** | Ogeurangttaeng · Ssangtongmangtong | 동일 | **A안** |
+| **이름** | **Janggil · Yunju** | Jang-gil · Yoon-ju | **A안** |
+| **새알심** | **viên chè trôi** | viên trôi nước · **viên tròn xoe** ❌ | **A안** |
+| **가시내** | **Con nhỏ này** | cô nương | **A안** |
+| **Pre** | Đánh cũng là tình, chọc cũng là tình | thương / tình 분리 | **A안** |
+| **V3 정** | người ta gọi là tình thương | cái tình thắm thiết | **A안** |
+| **Bridge 진공** | Lòng đã trống lại đầy ắp | Tâm hồn nhẹ bớt ❌ | **A안** |
+| **Outro** | **tiki-taka** | Màn đối đáp | **A안** |
 
 ### 결론
 
-> **멘토 VI = v1 Suno 正本** — ZH **汤圆·活该** = **chè trôi · đáng đời**.  
-> **B 제외 = Yoon-ju · viên tròn xoe · thắm thiết 패딩.**  
-> VI 성조는 **짧은 구** · 실패 시 **VI 구간 단독 재생성**.
+> **A안 VI = v1 Suno 正本** — chè trôi 그림 · tình 병렬 · 티키타카.  
+> **B안 제외 = viên tròn xoe (새알심 삭제) · nhẹ bớt (진공묘유 왜곡) · 이름 하이픈.**
 
 ### Hook symmetry
 
-| ZH | VI |
+| KO | VI |
 |----|-----|
-| 哦格朗当 | **Ogeurangttaeng** |
-| 双通忙通 | **Ssangtongmangtong** |
-| 汤圆 | **chè trôi** |
-| 活该 | **đáng đời** |
-| 情分 | **tình thương** |
+| 오그랑땡 | **Ogeurangttaeng** |
+| 쌍통망통 | **Ssangtongmangtong** |
+| 새알심 | **viên chè trôi** |
+| 고소하다 잘됐다 | **đáng đời** |
+| 때려도 정이고 놀려도 정이고 | **Đánh cũng là tình, chọc cũng là tình** |
+| 티키타카 | **tiki-taka** |
 
 ### 경계 (Lumina)
 
 | 원칙 | Lời |
 |------|-----|
-| **đánh trúng** | tiki-taka hài — không mỹ hóa bạo lực |
-| **giọng Diên Biên** | tình của phương ngữ — không miệt thị vùng |
-| **tôm · cá hồi** | đi chợ hằng ngày — không tên quán |
-| **구소구고구기** | triết học chant — không hiệu năng tình yêu |
+| **đánh / chọc** | hài — không mỹ hóa bạo lực |
+| **tên** | xác nhận trước khi công bố |
+| **진공묘유** | echo triết — không hiệu năng chữa lành |
 
 ---
 
@@ -52,7 +55,7 @@
 Ogeurangttaeng Ssangtongmangtong
 ```
 
-Phụ đề (docs · DistroKid): *哦格朗当 双通忙通 · 活该 · 求小求苦求己*
+Phụ đề (docs · DistroKid): *오그랑땡 쌍통망통 · Cheeky Bickering Duet · 求小求苦求己*
 
 ---
 
@@ -65,6 +68,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 final)
+
+> Khóa mentee: tag đoạn tiếng Anh · `()` gốc → `[]` metadata English · không `[Style:]` trong lời
 
 ```
 [Intro]
@@ -128,22 +133,16 @@ Hôm nay lại một ngày tiki-taka thân thương
 | Item | Note |
 |------|------|
 | BPM | **116** |
-| Names | **Janggil · Yunju** (không Yoon-ju) |
-| 킬링 | **chè trôi** + **đáng đời** |
-| VI | 성조 실패 → 이 파일만 재생성 |
-| Bridge | giữ hangul chant |
+| 훅 | 음가 고정 · 옆줄 **đáng đời** |
+| 새알심 | Chorus까지 **chè trôi** — viên tròn xoe 금지 |
+| 브리지 | 한글 유지. 흘리면 **Gusogugogugi / Jingongmyoyu** |
+| Style | **Vietnamese only** |
 
 ---
 
-## 2차 초안 대조 (VI · loại)
+## One-line pitch
 
-| B | v1 (멘토) |
-|---|-----------|
-| Jang-gil · Yoon-ju | **Janggil · Yunju** |
-| viên trôi nước · viên tròn xoe | **chè trôi** |
-| đáng đời chưa, vừa lòng tôi lắm | **đáng đời, cho đáng** |
-| cái tình thắm thiết | **tình thương** |
-| màn đối đáp thân thương | **tiki-taka thân thương** |
+> **Đánh cũng là tình — vậy mà vẫn cứ dính lấy nhau.**
 
 ---
 
@@ -152,7 +151,8 @@ Hôm nay lại một ngày tiki-taka thân thương
 | Item | State |
 |------|-------|
 | **VI v1** | **✅** |
-| **4개 국어** | **✅** |
+| KO · ZH | `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` · `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` |
+| **5개 국어** | **✅** |
 | Suno | **ready** |
 
 ---
@@ -160,5 +160,5 @@ Hôm nay lại một ngày tiki-taka thân thương
 ## Hashtags
 
 ```
-#Ogeurangttaeng #Ssangtongmangtong #CheTroi #DangDoi #求小求苦求己 #lumina_music777
+#ogeurangttaeng #ssangtongmangtong #chetroi #lumina_music777
 ```

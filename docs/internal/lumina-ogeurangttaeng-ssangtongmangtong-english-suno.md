@@ -1,47 +1,51 @@
-# Ogeurangttaeng Ssangtongmangtong (哦格朗当 双通忙通)
+# Ogeurangttaeng Ssangtongmangtong
 
-> **tiki-taka duet · rice-ball bump · serves you right · 求小求苦求己** · Korean folk dance pop · **EN v1**  
-> **v1 Suno 작업용 최종** (멘토 EN + Cursor 판정) · 2026-08-28  
-> Subtitle: *活该 · Janggil · Yunju · 真空妙有*  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> **Janggil · Yunju · rice-ball bead · Yanbian · affection tiki-taka** · Korean folk dance pop · **EN v1**  
+> **v1 Suno 작업용 최종** (멘티 A안 정본 · Cursor 판정) · 2026-08-28  
+> Subtitle: *Cheeky Bickering Duet · even a smack is love*  
+> KO: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` (v1)  
+> ZH: `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` (v1)  
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> Paste: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
 ## 멘토 판정 (Cursor · 2026-08-28)
 
-| 기준 | 멘토 EN (A) | 2차 EN (B) | **v1 병합** |
-|------|-------------|------------|-------------|
-| **Title** | **Ogeurangttaeng Ssangtongmangtong** | 동일 로마자 | **멘토** |
-| **이름** | **Janggil · Yunju** | Jang-gil · Yoon-ju | **멘토** (전어 통일) |
-| **새알심** | **rice-ball bead / bump** | dumpling ball | **멘토** (dumpling=餃子) |
-| **고소하다** | **serves you right** 후렴 유지 | 장문 you got what you deserved | **멘토** |
-| **시점** | 3인칭 those two | our special language 혼입 | **멘토** |
-| **V3** | **the thing they call affection** | true warmth and affection | **멘토** (절제) |
-| **Outro** | **warm tiki-taka** | heartwarming banter | **멘토** |
+| 기준 | A안 EN | B안 EN | **v1** |
+|------|--------|--------|--------|
+| **훅** | Ogeurangttaeng · Ssangtongmangtong | 동일 음가 · 대문자 남용 | **A안** |
+| **이름** | **Janggil · Yunju** | Jang-gil · Yoon-ju | **A안** |
+| **새알심** | **rice-ball bead** | dumpling ball · little round bump | **A안** |
+| **가시내** | **Hey you wild girl** | Look at this, girl | **A안** |
+| **Pre** | those two made their own | our special language | **A안** |
+| **V3 정** | the thing they call affection | true warmth and affection | **A안** |
+| **Outro** | **tiki-taka** | heartwarming banter | **A안** |
+| **Style** | English only | English lyrics · 가사 삽입 | **A안 + 스타일란** |
 
 ### 결론
 
-> **멘토 EN = v1 Suno 正本** — ZH **汤圆·活该·情分** 과 1:1.  
-> **B 제외 = dumpling · Yoon-ju · 1인칭 our · 수식 패딩.**
+> **A안 EN = v1 Suno 正本** — KO 1:1 · 훅 음가 · 새알심 그림 · 티키타카.  
+> **B안 제외 = 이름 흔들림 · dumpling · special/true 패딩 · 티키타카 삭제.**
 
 ### Hook symmetry
 
-| ZH | EN |
+| KO | EN |
 |----|-----|
-| 哦格朗当 | **Ogeurangttaeng** |
-| 双通忙通 | **Ssangtongmangtong** |
-| 一颗汤圆 | **rice-ball bump** |
-| 活该 | **serves you right** |
-| 情分 | **affection** |
+| 오그랑땡 | **Ogeurangttaeng** |
+| 쌍통망통 | **Ssangtongmangtong** |
+| 새알심 | **rice-ball bead** |
+| 고소하다 잘됐다 | **serves you right** |
+| 때려도 정이고 놀려도 정이고 | **Even a smack is love, even a tease is love** |
+| 티키타카 | **tiki-taka** |
 
 ### 경계 (Lumina)
 
 | 원칙 | Lyrics |
 |------|--------|
-| **smack** | comic tiki-taka · abuse **not** |
-| **Yanbian** | dialect as affection · regional slur **not** |
-| **shrimp · salmon** | daily errand · shop names **not** |
-| **구소구고구기** | philosophy chant · healing claim **not** |
+| **smack / tease** | comedy · violence **not** |
+| **names** | confirm before public release |
+| **진공묘유** | philosophy echo · healing **not** |
 
 ---
 
@@ -51,7 +55,7 @@
 Ogeurangttaeng Ssangtongmangtong
 ```
 
-Subtitle (docs · DistroKid): *哦格朗当 双通忙通 · 活该 · 求小求苦求己*
+Subtitle (docs · DistroKid): *오그랑땡 쌍통망통 · Cheeky Bickering Duet · 求小求苦求己*
 
 ---
 
@@ -64,6 +68,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 final)
+
+> Mentee lock: English section tags · original `()` → `[]` English meta · no `[Style:]` in lyrics
 
 ```
 [Intro]
@@ -127,21 +133,15 @@ Same warm tiki-taka once again today
 | Item | Note |
 |------|------|
 | BPM | **116** |
-| Names | **Janggil · Yunju** (not Yoon-ju) |
-| 킬링 | **rice-ball bump** + **serves you right** |
-| Bridge | keep hangul chant · do not pinyin |
+| 훅 | 번역 금지 · 옆줄 serves you right |
+| 브리지 | 한글 유지. 흘리면 **Gusogugogugi / Jingongmyoyu** 로 1회 재생성 |
+| Style | **English only** — lyrics 꼬리 금지 |
 
 ---
 
-## 2차 초안 대조 (EN · excluded)
+## One-line pitch
 
-| B | v1 (멘토) |
-|---|-----------|
-| Jang-gil · Yoon-ju | **Janggil · Yunju** |
-| dumpling ball | **rice-ball bead / bump** |
-| our special language | **the language those two made their own** |
-| true warmth and affection | **the thing they call affection** |
-| heartwarming banter | **warm tiki-taka** |
+> **Even a smack is love — still stuck side by side.**
 
 ---
 
@@ -150,7 +150,8 @@ Same warm tiki-taka once again today
 | Item | State |
 |------|-------|
 | **EN v1** | **✅** |
-| **4개 국어** | **✅** |
+| KO · ZH | `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` · `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` |
+| **5개 국어** | **✅** |
 | Suno | **ready** |
 
 ---
@@ -158,5 +159,5 @@ Same warm tiki-taka once again today
 ## Hashtags
 
 ```
-#Ogeurangttaeng #Ssangtongmangtong #ServesYouRight #求小求苦求己 #lumina_music777
+#ogeurangttaeng #ssangtongmangtong #riceballbead #lumina_music777
 ```

@@ -1,48 +1,51 @@
-# オグランテン サントンマントン (哦格朗当 双通忙通)
+# オグランテン サントンマントン
 
-> **ティキタカ二重唱 · 白玉 · ざまあみろ · 求小求苦求己** · Korean folk dance pop · **JA v1**  
-> **v1 Suno 작업용 최종** (멘토 JA + Cursor 판정) · 2026-08-28  
-> 副題: *活该 · チャンギル · ユンジュ · 真空妙有*  
-> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+> **チャンギル · ユンジュ · 白玉 · 延辺なまり · 情のティキタカ** · Korean folk dance pop · **JA v1**  
+> **v1 Suno 作業用最終** (メンティ A案正本 · Bridge 말맛만 B안 · Cursor 판정) · 2026-08-28  
+> 副題: *Cheeky Bickering Duet · 叩いても情*  
+> KO: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` (v1)  
+> ZH: `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` (v1)  
+> 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+> 貼り付け: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
 
 ---
 
 ## 멘토 판정 (Cursor · 2026-08-28)
 
-| 기준 | 멘토 JA (A) | 2차 JA (B) | **v1 병합** |
-|------|-------------|------------|-------------|
-| **훅** | **オグランテン** | **オグランテャン** ❌ (가나 오류) | **멘토** |
-| **쌍통** | **サントンマントン** | 동일 | **멘토** |
-| **이름** | **チャンギル · ユンジュ** | 동일 | **멘토** |
-| **새알심** | **白玉** | 白玉たんこぶ (후렴 장문) | **멘토** (후렴은 白玉) |
-| **고소하다** | **いい気味だ** (후렴 한 줄) | 동일 방향·장문 | **멘토** |
-| **Pre** | **叩いても情 からかっても情** | 叩くのも情 からかうのも情 | **멘토** |
-| **V3** | **それこそが情ってものだろう** | まさに深い情なんだろう | **멘토** (절제) |
-| **Outro** | **情に満ちたあのティキタカ** | 仲良し 愛しいティキタカ | **멘토** |
+| 기준 | A안 JA | B안 JA | **v1** |
+|------|--------|--------|--------|
+| **훅** | **オグランテン** | オグランテャン ❌ | **A안** |
+| **가시내** | **このおてんば** | おいこれ見ろよ | **A안** |
+| **새알심** | **白玉** (Chorus 간결) | 白玉たんこぶ (패딩) | **A안** |
+| **Pre** | 二人だけの言葉 | 特別な言葉 | **A안** |
+| **V3 정** | 情ってものだろう | まさに深い情 | **A안** |
+| **Outro** | 情に満ちたあのティキタカ | 仲良し 愛しいティキタカ | **A안** |
+| **Bridge 말맛** | 諍い·流して | **いざこざ·笑い飛ばして** | **B안** |
 
 ### 결론
 
-> **멘토 JA = v1 Suno 正本** — ZH **汤圆·活该** = **白玉·いい気味だ**.  
-> **B 제외 = オグランテャン · 白玉たんこぶ 패딩 · 深い情.**
+> **A안 JA = v1 뼈대.** 땡의 음가는 **テン** (テャン 아님).  
+> **B안 채택 = Bridge 「小さないざこざも笑い飛ばして」** — 희극 말맛.  
+> **재생성 금지 = クソクゴクギ** (クソ = 욕). 필요 시 **グソグゴグギ / ジンゴンミョユ**.
 
 ### Hook symmetry
 
-| ZH | JA |
+| KO | JA |
 |----|-----|
-| 哦格朗当 | **オグランテン** |
-| 双通忙通 | **サントンマントン** |
-| 汤圆 | **白玉** |
-| 活该 | **いい気味だ / ざまあみろ** |
-| 情分 | **情** |
+| 오그랑땡 | **オグランテン** |
+| 쌍통망통 | **サントンマントン** |
+| 새알심 | **白玉** |
+| 가시내 | **おてんば** |
+| 고소하다 잘됐다 | **いい気味だ ざまあみろ** |
+| 티키타카 | **ティキタカ** |
 
 ### 경계 (Lumina)
 
-| 원칙 | 本文 |
+| 원칙 | 正文 |
 |------|------|
-| **叩かれ** | 喜劇のやりとり — 暴力美化 **非** |
-| **延辺なまり** | 情の現場 — 地域蔑視 **禁** |
-| **海老 · 鮭** | 買い物の日常 — 店名 **禁** |
-| **구소구고구기** | 哲学 chant — 恋愛効能 **禁** |
+| **叩く・からかう** | 喜劇 — 暴力美化 **非** |
+| **名前** | 公開前本人確認 |
+| **真空妙有** | 哲学 echo — 癒し効能 **禁** |
 
 ---
 
@@ -52,7 +55,7 @@
 オグランテン サントンマントン
 ```
 
-副題(文档 · DistroKid): *哦格朗当 双通忙通 · 活该 · 求小求苦求己*
+副題(文档 · DistroKid): *오그랑땡 쌍통망통 · Cheeky Bickering Duet · 求小求苦求己*
 
 ---
 
@@ -65,6 +68,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ---
 
 ## Lyrics (Suno · v1 final)
+
+> メンティ文法: セクションタグは英語のまま · 元の `()` → `[]` 英語メタ · 歌詞欄に `[Style:]` なし
 
 ```
 [Intro]
@@ -103,7 +108,7 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 
 [Bridge]
 구소구고구기
-小さな諍いも笑いで流して
+小さないざこざも笑い飛ばして
 진공묘유
 空にした心に情が満ちてゆく
 
@@ -129,19 +134,14 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 |------|------|
 | BPM | **116** |
 | 훅 | **オグランテン** — テャン 금지 |
-| 킬링 | **白玉** + **いい気味だ** |
-| Bridge | 한글 chant 유지 |
+| 브리지 | 한글 유지. 흘리면 **グソグゴグギ / ジンゴンミョユ** (クソ・チン 금지) |
+| Style | **Japanese only** |
 
 ---
 
-## 2차 초안 대조 (JA · 除外)
+## One-line pitch
 
-| B | v1 (멘토) |
-|---|-----------|
-| **オグランテャン** | **オグランテン** |
-| 今日もチャンギルの頭に白玉たんこぶ | **チャンギルの頭に今日も白玉** |
-| 深い情 | **情ってものだろう** |
-| 仲良し 愛しいティキタカ | **情に満ちたあのティキタカ** |
+> **叩いても情 — それでも二人はいつも一緒。**
 
 ---
 
@@ -150,7 +150,8 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 | Item | State |
 |------|-------|
 | **JA v1** | **✅** |
-| **4개 국어** | **✅** |
+| KO · ZH | `lumina-ogeurangttaeng-ssangtongmangtong-suno.md` · `lumina-ogeurangttaeng-ssangtongmangtong-chinese-suno.md` |
+| **5개 국어** | **✅** |
 | Suno | **ready** |
 
 ---
@@ -158,5 +159,5 @@ Korean folk dance pop, cheeky bickering duet energy, playful accordion and light
 ## Hashtags
 
 ```
-#オグランテン #サントンマントン #白玉 #求小求苦求己 #lumina_music777
+#オグランテン #サントンマントン #白玉 #lumina_music777
 ```
