@@ -202,6 +202,12 @@
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
 | **Foolish Enough** (EN v1) | `lumina-foolish-enough-english-suno.md` |
 | **三语索引** | `lumina-foolish-enough-trilingual-suno.md` |
+| **漂亮丫头** (ZH v1 · True Beauty Chic Dance) | `lumina-true-beauty-chic-dance-chinese-suno.md` |
+| **That Pretty Girl** (EN v1) | `lumina-true-beauty-chic-dance-english-suno.md` |
+| **綺麗な子** (JA v1) | `lumina-true-beauty-chic-dance-japanese-suno.md` |
+| **Cô Gái Đẹp** (VI v1) | `lumina-true-beauty-chic-dance-vietnamese-suno.md` |
+| **4语索引** | `lumina-true-beauty-chic-dance-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (ZH·EN·JA·VI · 가시내 훅 본문) | `lumina-true-beauty-chic-dance-suno-paste.md` |
 
 ---
 
