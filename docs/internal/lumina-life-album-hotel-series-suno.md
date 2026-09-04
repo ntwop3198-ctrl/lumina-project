@@ -202,6 +202,12 @@
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
 | **Foolish Enough** (EN v1) | `lumina-foolish-enough-english-suno.md` |
 | **三语索引** | `lumina-foolish-enough-trilingual-suno.md` |
+| **真的吗？** (ZH v1 · Real Talk Groove Dance) | `lumina-real-talk-groove-dance-chinese-suno.md` |
+| **For Real?** (EN v1) | `lumina-real-talk-groove-dance-english-suno.md` |
+| **本気？** (JA v1) | `lumina-real-talk-groove-dance-japanese-suno.md` |
+| **Thật Chứ?** (VI v1) | `lumina-real-talk-groove-dance-vietnamese-suno.md` |
+| **4语索引** | `lumina-real-talk-groove-dance-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (ZH·EN·JA·VI · 구소 본문 행) | `lumina-real-talk-groove-dance-suno-paste.md` |
 
 ---
 
