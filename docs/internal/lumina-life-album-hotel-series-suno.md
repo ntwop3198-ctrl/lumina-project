@@ -208,6 +208,8 @@
 | **반쪽짜리 어른** (청소년 #002 v1) | `lumina-youth-half-adult-suno.md` |
 | **Suno 붙여넣기** (002) | `lumina-youth-half-adult-suno-paste.md` |
 | **청소년 편 판교 팩** (001–008 한 번에) | `lumina-youth-identity-series-suno-paste.md` |
+| **첫 알바비** (청소년 #009 초안 · v1 아님) | `lumina-youth-first-paycheck-suno.md` |
+| **완성되지 않아도 괜찮아** (009 보류) | `lumina-youth-unfinished-is-ok-held.md` |
 | **자라는 중입니다** (청소년 #008 v1) | `lumina-youth-still-growing-suno.md` |
 | **Suno 붙여넣기** (008) | `lumina-youth-still-growing-suno-paste.md` |
 | **이름표 없는 나** (청소년 #007 v1) | `lumina-youth-no-name-tag-suno.md` |

@@ -192,7 +192,7 @@ Warm acoustic folk rock, gentle acoustic guitar, rich cello, uplifting percussio
 | Item | State |
 |------|-------|
 | **008 v1** | **✅** |
-| **009 완성되지 않아도 괜찮아** | 자리 없음 · 제목 변경 또는 **경제적 자립** 소재 권장 |
+| **009 첫 알바비** | 초안 · `lumina-youth-first-paycheck-suno.md` · 스케치북은 보류 |
 | Suno | **ready** |
 
 ---
