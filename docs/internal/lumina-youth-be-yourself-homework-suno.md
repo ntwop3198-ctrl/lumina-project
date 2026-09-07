@@ -184,7 +184,7 @@ Korean pop punk, driving electric guitar riff, upbeat emotional drums, bright fe
 | Item | State |
 |------|-------|
 | **003 v1** | **✅** |
-| **004 거울 속 낯선 얼굴** | 초안 대기 · 보컬 **male** 권장 |
+| **004 거울 속 낯선 얼굴** | ✅ v1 · `lumina-youth-stranger-in-the-mirror-suno.md` |
 | Suno | **ready** |
 
 ---
