@@ -208,6 +208,7 @@
 | **반쪽짜리 어른** (청소년 #002 v1) | `lumina-youth-half-adult-suno.md` |
 | **Suno 붙여넣기** (002) | `lumina-youth-half-adult-suno-paste.md` |
 | **청소년 편 판교 팩** (001–008 · 010–012) | `lumina-youth-identity-series-suno-paste.md` |
+| **013–015 재설계** (남의 시계 · 처음 해본 거절 · 내가 고른 하나) | `lumina-youth-013-015-redesign-suno.md` |
 | **어른 흉내** (청소년 #012 v1) | `lumina-youth-playing-adult-suno.md` |
 | **Suno 붙여넣기** (012) | `lumina-youth-playing-adult-suno-paste.md` |
 | **껍질을 벗는 시간** (청소년 #011 v1) | `lumina-youth-shedding-the-role-suno.md` |

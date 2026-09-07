@@ -62,7 +62,7 @@ K-city pop, urban retro pop, groovy slap bass, shiny Rhodes electric piano, slic
 교복 셔츠 단추를 하나 풀고서
 골목길을 걷다가 한숨을 쉬어
 드라마 주인공처럼 무게를 잡지만
-친구의 장난 전화 한 통에 금세 무너져
+친구의 장난 한마디에 금세 무너져
 
 괜히 바쁜 척 수첩을 끄적이고
 어려운 단어들을 골라 써보지만
@@ -71,7 +71,7 @@ K-city pop, urban retro pop, groovy slap bass, shiny Rhodes electric piano, slic
 
 [Pre-Chorus]
 빨리 나이 먹고 싶다고 투덜대면서
-혼자 감당할 세상은 덜컥 겁이 나
+한꺼번에 감당할 세상은 덜컥 겁이 나
 급하게 어른이 되려고 애쓰다가
 오늘 하루를 다 써버린 것 같아
 
@@ -96,7 +96,7 @@ K-city pop, urban retro pop, groovy slap bass, shiny Rhodes electric piano, slic
 어른 흉내는 이제 그만둘래
 덜 자란 내 모습도 꽤 근사해
 달콤한 아이스크림을 베어 물며
-그냥 오늘을 온전히 살아갈래
+그냥 오늘을 살아 볼래
 쓴 척하느라 애쓰지 않아도
 지금 이대로 충분히 괜찮아
 흉내 대신 그냥 나로 있을래
