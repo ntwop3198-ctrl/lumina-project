@@ -191,7 +191,7 @@ Dream pop, indie rock ballad, atmospheric reverb guitar, soft expressive male vo
 | Item | State |
 |------|-------|
 | **004 v1** | **✅** |
-| **005 열일곱의 나에게** | 초안 대기 · 보컬 **female** 권장 · **연령 소품** 충돌 검토 |
+| **005 열일곱의 나에게** | ✅ v1 · `lumina-youth-to-myself-at-seventeen-suno.md` |
 | Suno | **ready** |
 
 ---
