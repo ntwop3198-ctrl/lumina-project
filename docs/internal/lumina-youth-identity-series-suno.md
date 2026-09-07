@@ -38,10 +38,10 @@
 | **009** | **첫 알바비** | `lumina-youth-first-paycheck-suno.md` | female | 110 | **초안** · v1 아님 · 보류: `lumina-youth-unfinished-is-ok-held.md` |
 | **010** | **내가 나를 모르겠어** | `lumina-youth-i-dont-know-myself-suno.md` | male | 140 | **v1 ✅** |
 | **011** | **껍질을 벗는 시간** | `lumina-youth-shedding-the-role-suno.md` | female | 132 | **v1 ✅** |
-| **012** | 어른 흉내 | — | male (권장) | — | 초안 대기 · 002 어정쩡함과 갈릴 것 · 들킨 순간 또는 그게 나였던 순간 |
-| 013 | — | — | — | — | 리스트 확정 후 |
-| **014** | 나만의 속도로 *(가제)* | — | — | — | **001과 속도 메시지 겹침** |
-| 015 | — | — | — | — | 리스트 확정 후 |
+| **012** | **어른 흉내** | `lumina-youth-playing-adult-suno.md` | male | 104 | **v1 ✅** |
+| **013** | 아직 서툰 걸음 *(가제)* | — | female (권장) | — | **자리 좁음** · 001·002·003·006과 겹침 |
+| **014** | 나만의 속도로 *(가제)* | — | — | — | **001과 속도 겹침** |
+| **015** | 다 컸다는 착각 *(가제)* | — | — | — | **002·012와 겹침** |
 
 붙여넣기:  
 **한 번에** `lumina-youth-identity-series-suno-paste.md`  
@@ -55,7 +55,8 @@
 008 `lumina-youth-still-growing-suno-paste.md`  
 009 보류 `lumina-youth-unfinished-is-ok-held.md` · 시드 `lumina-youth-first-paycheck-suno.md`  
 010 `lumina-youth-i-dont-know-myself-suno-paste.md`  
-011 `lumina-youth-shedding-the-role-suno-paste.md`
+011 `lumina-youth-shedding-the-role-suno-paste.md`  
+012 `lumina-youth-playing-adult-suno-paste.md`
 
 ---
 
@@ -101,7 +102,9 @@
 | **껍질** | 011 배역 · 대사 | 허물-나비 **아님**. 007은 남이 붙인 라벨. 011은 내가 해온 배역 |
 | **한 장면만 다르게** | 011 Pre2 | 006 1밀리미터. 큰 결단 금지 |
 | **착한 애 웃긴 애 조용한 애** | 011 V2 | 003·007 수식어의 마지막 회수. 후속 재탕 금지 |
-| **흉내** | 011 Climax 한 줄 | **#12 어른 흉내** — 들킨 순간 또는 그게 나였던 순간 |
+| **어른 흉내** | 012 훅 | 002는 상태. 012는 행동·유머. 가면·아이도어른도아닌 **금지** |
+| **모른다고 말하기** | 012 Bridge | 002 회수·뒤집기. 후속 재탕 금지 |
+| **013–015 원안** | 서툰 걸음 · 나만의 속도 · 다 컸다는 착각 | 앞 곡과 겹침. **한 번에 재설계** |
 
 ---
 
@@ -118,10 +121,11 @@
 9. **009 초안** — 110 bpm · female · 「첫 알바비」 · **v1 아님**  
 10. **010 v1** — 140 bpm · male · 「내가 나를 모르겠어 대체 난 누구니」  
 11. **011 v1** — 132 bpm · female · 「지금은 껍질을 벗는 시간」  
-12. **012** — 초안 대기 · 보컬 **male** 권장 · 어른 흉내
+12. **012 v1** — 104 bpm · male · 「어른 흉내를 내는 내 모습」  
+13–15. **원안 겹침** — 한 번에 재설계할 것
 
 ---
 
 ## 한 줄
 
-> **007은 남이 붙인 라벨을 뗀다. 011은 내가 해온 배역을 그만둔다. 오늘 한 장면만 다르게.**
+> **012는 유머다. 쓴 척을 그만두고 딸기 라떼를 마신다.**
