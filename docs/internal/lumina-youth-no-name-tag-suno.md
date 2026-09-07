@@ -197,7 +197,7 @@ Alternative R&B, indie pop rock, deep bassline, crisp snare beat, breathy emotio
 | Item | State |
 |------|-------|
 | **007 v1** | **✅** |
-| **008 자라는 중입니다** | 방향 대기 · 보컬 **male** 권장 · **006과 제목 겹침** |
+| **008 자라는 중입니다** | ✅ v1 · `lumina-youth-still-growing-suno.md` |
 | Suno | **ready** |
 
 ---
