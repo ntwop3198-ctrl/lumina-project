@@ -194,7 +194,7 @@ K-ballad rock, emotive grand piano, acoustic guitar, passionate female youth voc
 | Item | State |
 |------|-------|
 | **005 v1** | **✅** |
-| **006 어제보다 조금 큰 나** | 초안 대기 · 보컬 **male** 권장 · **밝고 가벼운 톤** |
+| **006 어제보다 조금 큰 나** | ✅ v1 · `lumina-youth-a-little-bigger-than-yesterday-suno.md` |
 | Suno | **ready** |
 
 ---
