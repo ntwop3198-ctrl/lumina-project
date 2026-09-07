@@ -191,7 +191,7 @@ Upbeat K-folk pop, bright acoustic guitar strumming, cheerful tambourine, light 
 | Item | State |
 |------|-------|
 | **006 v1** | **✅** |
-| **007 이름표 없는 나** | 초안 대기 · 보컬 **female** 권장 · **003과 규정 소재 갈림** |
+| **007 이름표 없는 나** | ✅ v1 · `lumina-youth-no-name-tag-suno.md` |
 | Suno | **ready** |
 
 ---
