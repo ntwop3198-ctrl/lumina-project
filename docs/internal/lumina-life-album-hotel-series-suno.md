@@ -202,6 +202,9 @@
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
 | **Foolish Enough** (EN v1) | `lumina-foolish-enough-english-suno.md` |
 | **三语索引** | `lumina-foolish-enough-trilingual-suno.md` |
+| **청소년 편 #8** (성장·정체성 1–15) | `lumina-youth-identity-series-suno.md` |
+| **아직 다 자라지 않았을 뿐** (청소년 #001 v1) | `lumina-youth-not-fully-grown-yet-suno.md` |
+| **Suno 붙여넣기** (001) | `lumina-youth-not-fully-grown-yet-suno-paste.md` |
 
 ---
 
