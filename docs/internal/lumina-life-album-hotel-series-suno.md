@@ -207,7 +207,9 @@
 | **Suno 붙여넣기** (001) | `lumina-youth-not-fully-grown-yet-suno-paste.md` |
 | **반쪽짜리 어른** (청소년 #002 v1) | `lumina-youth-half-adult-suno.md` |
 | **Suno 붙여넣기** (002) | `lumina-youth-half-adult-suno-paste.md` |
-| **청소년 편 판교 팩** (001·002 한 번에) | `lumina-youth-identity-series-suno-paste.md` |
+| **청소년 편 판교 팩** (001·002·003 한 번에) | `lumina-youth-identity-series-suno-paste.md` |
+| **나답게라는 숙제** (청소년 #003 v1) | `lumina-youth-be-yourself-homework-suno.md` |
+| **Suno 붙여넣기** (003) | `lumina-youth-be-yourself-homework-suno-paste.md` |
 
 ---
 
