@@ -207,7 +207,9 @@
 | **Suno 붙여넣기** (001) | `lumina-youth-not-fully-grown-yet-suno-paste.md` |
 | **반쪽짜리 어른** (청소년 #002 v1) | `lumina-youth-half-adult-suno.md` |
 | **Suno 붙여넣기** (002) | `lumina-youth-half-adult-suno-paste.md` |
-| **청소년 편 판교 팩** (001–008 · 010) | `lumina-youth-identity-series-suno-paste.md` |
+| **청소년 편 판교 팩** (001–008 · 010 · 011) | `lumina-youth-identity-series-suno-paste.md` |
+| **껍질을 벗는 시간** (청소년 #011 v1) | `lumina-youth-shedding-the-role-suno.md` |
+| **Suno 붙여넣기** (011) | `lumina-youth-shedding-the-role-suno-paste.md` |
 | **내가 나를 모르겠어** (청소년 #010 v1) | `lumina-youth-i-dont-know-myself-suno.md` |
 | **Suno 붙여넣기** (010) | `lumina-youth-i-dont-know-myself-suno-paste.md` |
 | **첫 알바비** (청소년 #009 초안 · v1 아님) | `lumina-youth-first-paycheck-suno.md` |
