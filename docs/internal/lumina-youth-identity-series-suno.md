@@ -38,6 +38,7 @@
 | 015 | — | — | — | — | 리스트 확정 후 |
 
 붙여넣기:  
+**한 번에** `lumina-youth-identity-series-suno-paste.md`  
 001 `lumina-youth-not-fully-grown-yet-suno-paste.md`  
 002 `lumina-youth-half-adult-suno-paste.md`
 
