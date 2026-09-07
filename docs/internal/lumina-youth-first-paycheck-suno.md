@@ -149,7 +149,7 @@ Light indie pop, clean electric guitar, warm bass, soft clap beat, clear female 
 |------|-------|
 | **009 완성되지 않아도** | 보류 · `lumina-youth-unfinished-is-ok-held.md` |
 | **009 첫 알바비** | **초안** · v1 아님 |
-| **010 내가 나를 모르겠어** | 리스트 예고 · 초안 대기 |
+| **010 내가 나를 모르겠어** | ✅ v1 · `lumina-youth-i-dont-know-myself-suno.md` |
 
 ---
 

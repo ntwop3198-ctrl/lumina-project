@@ -36,8 +36,8 @@
 | **007** | **이름표 없는 나** | `lumina-youth-no-name-tag-suno.md` | female | 92 | **v1 ✅** |
 | **008** | **자라는 중입니다** | `lumina-youth-still-growing-suno.md` | male | 86 | **v1 ✅** · 006의 짝 (0밀리미터의 날) |
 | **009** | **첫 알바비** | `lumina-youth-first-paycheck-suno.md` | female | 110 | **초안** · v1 아님 · 보류: `lumina-youth-unfinished-is-ok-held.md` |
-| **010** | 내가 나를 모르겠어 | — | male (권장) | — | 초안 대기 |
-| **011** | 껍질을 벗는 시간 *(가제)* | — | — | — | **007에서 껍질 미사용** · 이 곡 전유 |
+| **010** | **내가 나를 모르겠어** | `lumina-youth-i-dont-know-myself-suno.md` | male | 140 | **v1 ✅** |
+| **011** | 껍질을 벗는 시간 *(가제)* | — | female (권장) | — | 초안 대기 · **배역**이지 허물-더나음 아님 |
 | 012–013 | — | — | — | — | 리스트 확정 후 |
 | **014** | 나만의 속도로 *(가제)* | — | — | — | **001과 속도 메시지 겹침** |
 | 015 | — | — | — | — | 리스트 확정 후 |
@@ -52,7 +52,8 @@
 006 `lumina-youth-a-little-bigger-than-yesterday-suno-paste.md`  
 007 `lumina-youth-no-name-tag-suno-paste.md`  
 008 `lumina-youth-still-growing-suno-paste.md`  
-009 보류 `lumina-youth-unfinished-is-ok-held.md` · 시드 `lumina-youth-first-paycheck-suno.md`
+009 보류 `lumina-youth-unfinished-is-ok-held.md` · 시드 `lumina-youth-first-paycheck-suno.md`  
+010 `lumina-youth-i-dont-know-myself-suno-paste.md`
 
 ---
 
@@ -92,6 +93,11 @@
 | **그냥 나로 여기 있으면** | 007 Bridge | 등급 대신 있음. 빛나는 존재 **금지** |
 | **껍질** | 007에서 삭제 | **#11** 전유 |
 | **착한 학생** | 007 Pre1 | 003 「착한 아이」와 수식어 닿음. 세 번째 재탕 금지 |
+| **내가 나를 모르겠어** | 010 훅 | 감정 칸 **#75** 와 소재 겹침. #75는 빼거나 다른 각도 |
+| **안 괜찮다고 말해봤어** | 010 Pre2 | 출구 계단의 **받는 쪽**. 011부터 같은 장면 금지 |
+| **가면** | 010에서 삭제 | 감정 칸 **#78** 전유 |
+| **수많은 내가 부딪쳐** | 010 Chorus | 감정 칸 **#80** 과 겹침 |
+| **껍질** | 007에서 비움 | **#11** 은 배역을 그만두는 날. 애벌레-나비 **금지** |
 
 ---
 
@@ -106,10 +112,11 @@
 7. **007 v1** — 92 bpm · female · 「이름표를 떼어내면 난 누구일까」  
 8. **008 v1** — 86 bpm · male · 「아프다고 말해도 돼」  
 9. **009 초안** — 110 bpm · female · 「첫 알바비」 · **v1 아님**  
-10. **010** — 초안 대기 · 보컬 **male** 권장
+10. **010 v1** — 140 bpm · male · 「내가 나를 모르겠어 대체 난 누구니」  
+11. **011** — 초안 대기 · 보컬 **female** 권장 · 배역이지 허물 아님
 
 ---
 
 ## 한 줄
 
-> **009 스케치북은 001과 자리가 같다. 슬롯은 첫 알바비 — 내가 쓴 시간이 값을 가진다는 걸 처음 안 날.**
+> **010은 흔들리는 감정이다. 못된 사람이 아니다. 오늘의 나부터 알아가면 된다.**
