@@ -202,6 +202,37 @@
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
 | **Foolish Enough** (EN v1) | `lumina-foolish-enough-english-suno.md` |
 | **三语索引** | `lumina-foolish-enough-trilingual-suno.md` |
+| **청소년 편 #8** (성장·정체성 1–15) | `lumina-youth-identity-series-suno.md` |
+| **아직 다 자라지 않았을 뿐** (청소년 #001 v1) | `lumina-youth-not-fully-grown-yet-suno.md` |
+| **Suno 붙여넣기** (001) | `lumina-youth-not-fully-grown-yet-suno-paste.md` |
+| **반쪽짜리 어른** (청소년 #002 v1) | `lumina-youth-half-adult-suno.md` |
+| **Suno 붙여넣기** (002) | `lumina-youth-half-adult-suno-paste.md` |
+| **청소년 편 판교 팩** (001–008 · 010–014) | `lumina-youth-identity-series-suno-paste.md` |
+| **013–015 재설계** (접수창구 · 남의 시계 v1 · 내가 고른 하나) | `lumina-youth-013-015-redesign-suno.md` |
+| **남의 시계** (청소년 #014 v1) | `lumina-youth-others-clock-suno.md` |
+| **Suno 붙여넣기** (014) | `lumina-youth-others-clock-suno-paste.md` |
+| **접수창구** (청소년 #013 v1) | `lumina-youth-reception-desk-suno.md` |
+| **Suno 붙여넣기** (013) | `lumina-youth-reception-desk-suno-paste.md` |
+| **어른 흉내** (청소년 #012 v1) | `lumina-youth-playing-adult-suno.md` |
+| **Suno 붙여넣기** (012) | `lumina-youth-playing-adult-suno-paste.md` |
+| **껍질을 벗는 시간** (청소년 #011 v1) | `lumina-youth-shedding-the-role-suno.md` |
+| **Suno 붙여넣기** (011) | `lumina-youth-shedding-the-role-suno-paste.md` |
+| **내가 나를 모르겠어** (청소년 #010 v1) | `lumina-youth-i-dont-know-myself-suno.md` |
+| **Suno 붙여넣기** (010) | `lumina-youth-i-dont-know-myself-suno-paste.md` |
+| **첫 알바비** (청소년 #009 초안 · v1 아님) | `lumina-youth-first-paycheck-suno.md` |
+| **완성되지 않아도 괜찮아** (009 보류) | `lumina-youth-unfinished-is-ok-held.md` |
+| **자라는 중입니다** (청소년 #008 v1) | `lumina-youth-still-growing-suno.md` |
+| **Suno 붙여넣기** (008) | `lumina-youth-still-growing-suno-paste.md` |
+| **이름표 없는 나** (청소년 #007 v1) | `lumina-youth-no-name-tag-suno.md` |
+| **Suno 붙여넣기** (007) | `lumina-youth-no-name-tag-suno-paste.md` |
+| **어제보다 조금 큰 나** (청소년 #006 v1) | `lumina-youth-a-little-bigger-than-yesterday-suno.md` |
+| **Suno 붙여넣기** (006) | `lumina-youth-a-little-bigger-than-yesterday-suno-paste.md` |
+| **열일곱의 나에게** (청소년 #005 v1) | `lumina-youth-to-myself-at-seventeen-suno.md` |
+| **Suno 붙여넣기** (005) | `lumina-youth-to-myself-at-seventeen-suno-paste.md` |
+| **나답게라는 숙제** (청소년 #003 v1) | `lumina-youth-be-yourself-homework-suno.md` |
+| **Suno 붙여넣기** (003) | `lumina-youth-be-yourself-homework-suno-paste.md` |
+| **거울 속 낯선 얼굴** (청소년 #004 v1) | `lumina-youth-stranger-in-the-mirror-suno.md` |
+| **Suno 붙여넣기** (004) | `lumina-youth-stranger-in-the-mirror-suno-paste.md` |
 
 ---
 
