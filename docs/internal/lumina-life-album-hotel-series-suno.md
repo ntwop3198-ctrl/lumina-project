@@ -207,8 +207,10 @@
 | **Suno 붙여넣기** (001) | `lumina-youth-not-fully-grown-yet-suno-paste.md` |
 | **반쪽짜리 어른** (청소년 #002 v1) | `lumina-youth-half-adult-suno.md` |
 | **Suno 붙여넣기** (002) | `lumina-youth-half-adult-suno-paste.md` |
-| **청소년 편 판교 팩** (001–008 · 010–013) | `lumina-youth-identity-series-suno-paste.md` |
-| **013–015 재설계** (접수창구 v1 · 남의 시계 · 내가 고른 하나) | `lumina-youth-013-015-redesign-suno.md` |
+| **청소년 편 판교 팩** (001–008 · 010–014) | `lumina-youth-identity-series-suno-paste.md` |
+| **013–015 재설계** (접수창구 · 남의 시계 v1 · 내가 고른 하나) | `lumina-youth-013-015-redesign-suno.md` |
+| **남의 시계** (청소년 #014 v1) | `lumina-youth-others-clock-suno.md` |
+| **Suno 붙여넣기** (014) | `lumina-youth-others-clock-suno-paste.md` |
 | **접수창구** (청소년 #013 v1) | `lumina-youth-reception-desk-suno.md` |
 | **Suno 붙여넣기** (013) | `lumina-youth-reception-desk-suno-paste.md` |
 | **어른 흉내** (청소년 #012 v1) | `lumina-youth-playing-adult-suno.md` |
