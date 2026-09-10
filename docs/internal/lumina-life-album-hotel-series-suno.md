@@ -202,6 +202,13 @@
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
 | **Foolish Enough** (EN v1) | `lumina-foolish-enough-english-suno.md` |
 | **三语索引** | `lumina-foolish-enough-trilingual-suno.md` |
+| **나는 거북이야** (KO v1 · 求小 · 한 걸음) | `lumina-naneun-geobugiya-suno.md` |
+| **我是乌龟** (ZH v1) | `lumina-naneun-geobugiya-chinese-suno.md` |
+| **I Am a Turtle** (EN v1) | `lumina-naneun-geobugiya-english-suno.md` |
+| **僕は亀** (JA v1) | `lumina-naneun-geobugiya-japanese-suno.md` |
+| **Tôi Là Chú Rùa** (VI v1) | `lumina-naneun-geobugiya-vietnamese-suno.md` |
+| **5语索引** (나는 거북이야) | `lumina-naneun-geobugiya-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (거북이 · KO·ZH·EN·JA·VI) | `lumina-naneun-geobugiya-suno-paste.md` |
 
 ---
 

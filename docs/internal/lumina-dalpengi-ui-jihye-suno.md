@@ -111,6 +111,7 @@ not epic, not trot, 70~80bpm, fade out ending
 | 곡·문서 | 연결 |
 |---------|------|
 | 不等歌 · 稳准快 | `lumina-dont-wait-song-series-suno.md` |
+| **나는 거북이야** | `lumina-naneun-geobugiya-suno.md` — 求小 · 한 걸음. 토끼 승부는 여기 Bridge |
 | 기다리지 마 | `lumina-gidariji-ma-korean-suno.md` |
 | 원앙 · 천실 | `lumina-won-ang-undefeated-love-cheonsil-suno.md` |
 | 인생 뭐있나 | `lumina-insaeng-mwo-itna-suno.md` |
@@ -133,3 +134,4 @@ not epic, not trot, 70~80bpm, fade out ending
 | 무거움·이별 | 낙엽 · 아픔도 선물 · 원앙 |
 | 순리·위트 | 인생 뭐있나 · 코인세탁기 |
 | **철학·방향** | **달팽이의 지혜** · 不等歌 |
+| **철학·한 걸음** | **나는 거북이야** (`lumina-naneun-geobugiya-suno.md`) — 토끼 결승은 이 Bridge가 전유. 거북이는 求小 |
