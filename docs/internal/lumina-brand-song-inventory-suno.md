@@ -19,7 +19,7 @@
 | **가면 · Groove** | Real Talk 4어 | **남** | 126 | 구소! 구고! 구기! · 진-공-묘-유 | [#3](https://github.com/ntwop3198-ctrl/lumina-project/pull/3) draft | **v1 4어** · KO 원곡 이 배치에 없음 |
 | **가시내 · Chic** | True Beauty 4어 | **여** | 126 | 구소! 구고! 구기! · 진-공-묘-유 | [#4](https://github.com/ntwop3198-ctrl/lumina-project/pull/4) draft | **v1 4어** · KO 원곡 이 배치에 없음 |
 | **브랜드곡 샘플** | 당신에게 더하다 | **여** A안 | 118 | 구소구고구기 · 진공묘유 | [#9](https://github.com/ntwop3198-ctrl/lumina-project/pull/9) draft | **v1 KO** · 상호 **대기** |
-| **2-4 인생 잠언** | 반팔티만도 못한 헛똑똑이들아 | **남** A안 | 120 | 구소구고구기 · 진공묘유 | 이 브랜치 | **v1 KO** · 品牌歌 **해당 없음** |
+| **2-4 인생 잠언** | 반팔티만도 못한 헛똑똑이들아 | **남** A안 | 120 | 구소구고구기 · 진공묘유 | [#10](https://github.com/ntwop3198-ctrl/lumina-project/pull/10) draft | **v1 KO** · 品牌歌 **해당 없음** |
 
 **합계:** 청소년 13 v1 + 거북이 5 + 오그랑땡 5 + Real Talk 4 + True Beauty 4 + 더하다 1 + 반팔티 1 = **33 v1 트랙.**  
 대기: 청소년 009 초안, 015 프레임, 더하다 **상호**.
