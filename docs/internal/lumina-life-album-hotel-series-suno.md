@@ -208,6 +208,7 @@
 | **Ogeurangttaeng Ssangtongmangtong** (VI v1) | `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md` |
 | **4语索引** | `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (KO·EN·JA·VI · `()`→`[]`) | `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md` |
+| **브랜드송 정리** (오그랑땡 1페이지) | `lumina-ogeurangttaeng-ssangtongmangtong-brand-song.md` |
 
 ---
 

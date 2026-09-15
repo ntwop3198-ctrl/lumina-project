@@ -7,7 +7,8 @@
 > JA: `lumina-ogeurangttaeng-ssangtongmangtong-japanese-suno.md`  
 > VI: `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md`  
 > 多语: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
-> 붙여넣기: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`
+> 붙여넣기: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`  
+> 브랜드송 정리: `lumina-ogeurangttaeng-ssangtongmangtong-brand-song.md`
 
 ---
 

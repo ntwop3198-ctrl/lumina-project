@@ -5,7 +5,8 @@
 > 섹션 태그 **영어 그대로** · Style은 **스타일란** (가사란 `[Style:]` 없음)
 
 정본: `lumina-ogeurangttaeng-ssangtongmangtong-suno.md`  
-인덱스: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`
+인덱스: `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md`  
+브랜드송 정리: `lumina-ogeurangttaeng-ssangtongmangtong-brand-song.md`
 
 ---
 

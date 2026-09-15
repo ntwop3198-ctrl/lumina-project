@@ -4,6 +4,7 @@
 > v1 · 2026-08-28 · 멘티 A안 정본 + Cursor 판정  
 > 부제: *Cheeky Bickering Duet · 때려도 정 · 구소구고구기 · 진공묘유*  
 > 붙여넣기: `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md`  
+> 브랜드송 정리: `lumina-ogeurangttaeng-ssangtongmangtong-brand-song.md`  
 > 멘티 문법: 원본 `()` → `[]` 영어 메타 · 섹션 태그 영어 그대로
 
 ---
@@ -17,6 +18,7 @@
 | JA | **オグランテン サントンマントン** | `lumina-ogeurangttaeng-ssangtongmangtong-japanese-suno.md` | 116 | **v1 ✅** |
 | VI | **Ogeurangttaeng Ssangtongmangtong** | `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md` | 116 | **v1 ✅** |
 | 붙여넣기 | KO·EN·JA·VI 3칸 | `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md` | 116 | **문법 잠금 ✅** |
+| 브랜드송 | 1페이지 정리 | `lumina-ogeurangttaeng-ssangtongmangtong-brand-song.md` | 116 | **2026-09-15 ✅** |
 
 ---
 
