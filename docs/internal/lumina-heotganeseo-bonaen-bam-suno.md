@@ -3,6 +3,7 @@
 > **4-1 고향·향수 · 봄과 가을 · 구소구고구기 · 진공묘유** · Korean folk ballad · **68 bpm** · **한국어 v1**  
 > **v1 Suno 작업용 최종** (멘티 초안 + Cursor 판교) · 2026-09-15  
 > 붙여넣기: `lumina-heotganeseo-bonaen-bam-suno-paste.md`  
+> 짝: `lumina-heotgan-bokdwaeji-pair-suno.md`  
 > 시연 음원: [Suno](https://suno.com/song/e267b2c6-93c4-4b29-8d3c-efd0ca0f948d) · 마스터 아님
 
 무대는 그 시절 집이다. 닫는 문은 **그 시절의 봄과 가을이 남아있네**.
@@ -182,9 +183,10 @@ Korean folk ballad, warm nostalgic acoustic guitar, gentle strings, bittersweet 
 | **KO v1** | **4-1 잠금** · 1-4 부메모 |
 | 品牌歌 | **해당 없음** |
 | 시연 음원 | Suno 링크 · 마스터 아님 |
+| 짝 | 복돼지의 자부심 · 슬픈 쪽 / 고마운 쪽 |
 
 ---
 
 ## 한 줄
 
-> **4-1. 무대는 그 시절 집이다. 부모 사랑은 돌아보다 닿은 자리다.**
+> **4-1. 무대는 그 시절 집이다. 고마운 쪽은 복돼지의 자부심이다.**
