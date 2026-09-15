@@ -17,7 +17,7 @@
 | **조선족 티키타카** | 오그랑땡 쌍통망통 5어 | 듀엣 | 116 | 구소구고구기 · 진공묘유 | [#2](https://github.com/ntwop3198-ctrl/lumina-project/pull/2) draft | **v1 5어** · [#1](https://github.com/ntwop3198-ctrl/lumina-project/pull/1)은 ZH 없는 선행 |
 | **가면 · Groove** | Real Talk 4어 | **남** | 126 | 구소! 구고! 구기! · 진-공-묘-유 | [#3](https://github.com/ntwop3198-ctrl/lumina-project/pull/3) draft | **v1 4어** · KO 원곡 이 배치에 없음 |
 | **가시내 · Chic** | True Beauty 4어 | **여** | 126 | 구소! 구고! 구기! · 진-공-묘-유 | [#4](https://github.com/ntwop3198-ctrl/lumina-project/pull/4) draft | **v1 4어** · KO 원곡 이 배치에 없음 |
-| **제안용 브랜드곡** | 당신에게 더하다 KO | 미지정 | 118 | 구소구고구기 · 진공묘유 | 이 PR | **v1 KO** · 상호 **공란** |
+| **제안용 브랜드곡** | 당신에게 더하다 KO | 미지정 | 118 | 구소구고구기 · 진공묘유 | [#8](https://github.com/ntwop3198-ctrl/lumina-project/pull/8) draft | **v1 KO** · 상호 **공란** |
 
 **합계:** 청소년 13 v1 + 거북이 5 + 오그랑땡 5 + Real Talk 4 + True Beauty 4 + 더하다 1 = **32 v1 트랙.**  
 대기: 청소년 009 초안, 015 프레임, 더하다 **상호 한 줄**.
