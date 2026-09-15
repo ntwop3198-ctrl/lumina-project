@@ -3,6 +3,7 @@
 > **2-1 자족·자립 · 그릇 · 구소구고구기 · 진공묘유** · acoustic ballad · **72 bpm** · **한국어 v1**  
 > **v1 Suno 작업용 최종** (멘티 초안 + Cursor 판교) · 2026-09-15  
 > 붙여넣기: `lumina-seongin-ui-jaemulhak-suno-paste.md`  
+> 재물 연작: `lumina-wealth-series-suno.md`  
 > 시연 음원: [Suno](https://suno.com/song/10ccf7b2-a750-4cae-8554-d7895ca9a4e0) · 마스터 아님
 
 재물을 다루되 **더 벌라**는 말이 없다. 답이 **내 몫에 감사하는 마음이 곧 부자**다.
