@@ -204,6 +204,10 @@
 | **夜明けの妙味** (JA v1) | `lumina-saebyeok-ui-myomi-japanese-suno.md` |
 | **Cái Thú Của Rạng Sáng** (VI v1) | `lumina-saebyeok-ui-myomi-vietnamese-suno.md` |
 | **3어 색인** | `lumina-saebyeok-ui-myomi-multilingual-suno.md` |
+| **내 안의 바다** (KO v1) | `lumina-nae-anui-bada-suno.md` |
+| **僕の中の海** (JA v1) | `lumina-nae-anui-bada-japanese-suno.md` |
+| **Biển Cả Trong Tôi** (VI v1) | `lumina-nae-anui-bada-vietnamese-suno.md` |
+| **3어 색인** | `lumina-nae-anui-bada-multilingual-suno.md` |
 | **Love Without a Home** (EN v1) | `lumina-yesu-sarang-english-suno.md` |
 | **충분히 어리석게** | `lumina-chungbunhi-eoriseokage-suno.md` |
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
