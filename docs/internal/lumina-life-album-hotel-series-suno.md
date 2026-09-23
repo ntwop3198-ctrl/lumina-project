@@ -158,6 +158,9 @@
 | **如此简单** (ZH v1) | `lumina-ruci-jiandan-so-simple-chinese-suno.md` |
 | **이렇게 간단해** (KO v1) | `lumina-ruci-jiandan-so-simple-suno.md` |
 | **So Simple** (EN v1) | `lumina-ruci-jiandan-so-simple-english-suno.md` |
+| **こんなに簡単** (JA v1) | `lumina-ruci-jiandan-so-simple-japanese-suno.md` |
+| **Đơn Giản Vậy Thôi** (VI v1) | `lumina-ruci-jiandan-so-simple-vietnamese-suno.md` |
+| **5어 색인** | `lumina-ruci-jiandan-so-simple-multilingual-suno.md` |
 | **心不在** (한중 혼용 v1) | `lumina-xin-bu-zai-heart-not-there-mixed-suno.md` |
 | **七處徵心** (한중 혼용 v1.1 · Gemini 병합) | `lumina-qichu-zhengxin-seven-places-mind-mixed-suno.md` |
 | **山还是山** (한중 혼용 v1 · 태백산) | `lumina-shan-haishi-shan-mountain-is-mountain-mixed-suno.md` |
