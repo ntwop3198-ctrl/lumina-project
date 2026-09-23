@@ -72,6 +72,9 @@
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
 | **独清之江** (ZH v1) | `lumina-qu-yuan-clear-river-chinese-suno.md` |
 | **The Clear River Alone** (EN v1) | `lumina-qu-yuan-clear-river-english-suno.md` |
+| **独り清き川** (JA v1) | `lumina-qu-yuan-clear-river-japanese-suno.md` |
+| **Dòng Sông Riêng Trong** (VI v1) | `lumina-qu-yuan-clear-river-vietnamese-suno.md` |
+| **5어 색인** | `lumina-qu-yuan-clear-river-multilingual-suno.md` |
 | **보리수 아래 (12연기)** | `lumina-bodhi-tree-twelve-links-suno.md` |
 | **Under the Bodhi Tree** (EN v1) | `lumina-bodhi-tree-twelve-links-english-suno.md` |
 | **菩提树下** (ZH v1) | `lumina-bodhi-tree-twelve-links-chinese-suno.md` |
