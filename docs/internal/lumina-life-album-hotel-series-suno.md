@@ -138,7 +138,9 @@
 | **철봉과 인생** (KO v1) | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-suno.md` |
 | **单杠与人生** (ZH v1) | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-chinese-suno.md` |
 | **The Pull-up Bar Philosophy** (EN v1) | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-english-suno.md` |
-| **Trilingual** | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-multilingual-suno.md` |
+| **鉄棒と人生** (JA v1) | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-japanese-suno.md` |
+| **Xà Đơn Và Cuộc Đời** (VI v1) | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-vietnamese-suno.md` |
+| **5어 색인** | `lumina-cheolbonggwa-insaeng-pull-up-bar-philosophy-multilingual-suno.md` |
 | **지하가 좋아** (KO v1) | `lumina-jihaga-joa-i-like-the-basement-suno.md` |
 | **하늘 싫어요** (KO v1 · 짝곡) | `lumina-haneul-sireoyo-i-dont-like-the-sky-suno.md` |
 | **我不喜欢天空** (ZH v1 · 짝곡) | `lumina-haneul-sireoyo-i-dont-like-the-sky-chinese-suno.md` |
