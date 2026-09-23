@@ -200,6 +200,10 @@
 | **間違えた縁** (JA v1) | `lumina-yurenbushu-wrong-match-japanese-suno.md` |
 | **Duyên Gặp Nhầm** (VI v1) | `lumina-yurenbushu-wrong-match-vietnamese-suno.md` |
 | **5어 색인** | `lumina-yurenbushu-wrong-match-multilingual-suno.md` |
+| **새벽의 묘미** (KO v1) | `lumina-saebyeok-ui-myomi-suno.md` |
+| **夜明けの妙味** (JA v1) | `lumina-saebyeok-ui-myomi-japanese-suno.md` |
+| **Cái Thú Của Rạng Sáng** (VI v1) | `lumina-saebyeok-ui-myomi-vietnamese-suno.md` |
+| **3어 색인** | `lumina-saebyeok-ui-myomi-multilingual-suno.md` |
 | **Love Without a Home** (EN v1) | `lumina-yesu-sarang-english-suno.md` |
 | **충분히 어리석게** | `lumina-chungbunhi-eoriseokage-suno.md` |
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
