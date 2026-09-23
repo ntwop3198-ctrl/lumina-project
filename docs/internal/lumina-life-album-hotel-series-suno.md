@@ -90,6 +90,9 @@
 | **上善若水** (ZH · KO · EN v1) | `lumina-shangshan-ruoshui-water-is-the-way-chinese-suno.md` · `-suno.md` · `-english-suno.md` |
 | **盛开的花** (ZH · KO · EN v1) | `lumina-shengkai-de-hua-blooming-flower-chinese-suno.md` · `-suno.md` · `-english-suno.md` |
 | **선은 선으로** (KO · ZH · EN v1) | `lumina-seoneun-seoneuro-line-in-the-sand-suno.md` · `-chinese-suno.md` · `-english-suno.md` |
+| **善には善を** (JA v1) | `lumina-seoneun-seoneuro-line-in-the-sand-japanese-suno.md` |
+| **Thiện Đáp Bằng Thiện** (VI v1) | `lumina-seoneun-seoneuro-line-in-the-sand-vietnamese-suno.md` |
+| **5어 색인** | `lumina-seoneun-seoneuro-line-in-the-sand-multilingual-suno.md` |
 | **六不问** (ZH · KO · EN v1) | `lumina-liu-bu-wen-six-things-not-to-ask-chinese-suno.md` · `-suno.md` · `-english-suno.md` |
 | **不内耗** (ZH · KO · EN v1) | `lumina-bu-nei-hao-no-inner-drain-chinese-suno.md` · `-suno.md` · `-english-suno.md` |
 | **안 받으면 너꺼** (ZH · KO · EN v1) | `lumina-an-badeumyeon-neoggeo-if-you-dont-take-it-chinese-suno.md` · `-suno.md` · `-english-suno.md` |
