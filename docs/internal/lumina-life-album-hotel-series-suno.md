@@ -208,6 +208,11 @@
 | **僕の中の海** (JA v1) | `lumina-nae-anui-bada-japanese-suno.md` |
 | **Biển Cả Trong Tôi** (VI v1) | `lumina-nae-anui-bada-vietnamese-suno.md` |
 | **3어 색인** | `lumina-nae-anui-bada-multilingual-suno.md` |
+| **한가위 잘 쉬세요** (KO v1) | `lumina-hangawi-jal-swiseyo-suno.md` |
+| **Rest Well This Chuseok** (EN v1) | `lumina-hangawi-jal-swiseyo-english-suno.md` |
+| **秋夕、ゆっくり休んでね** (JA v1) | `lumina-hangawi-jal-swiseyo-japanese-suno.md` |
+| **Trung Thu, Nghỉ Ngơi Thật Khỏe** (VI v1) | `lumina-hangawi-jal-swiseyo-vietnamese-suno.md` |
+| **4어 색인** | `lumina-hangawi-jal-swiseyo-multilingual-suno.md` |
 | **Love Without a Home** (EN v1) | `lumina-yesu-sarang-english-suno.md` |
 | **충분히 어리석게** | `lumina-chungbunhi-eoriseokage-suno.md` |
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
