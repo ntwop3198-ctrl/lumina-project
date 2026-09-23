@@ -197,6 +197,9 @@
 | **了凡四训** 索引 | `lumina-liaofan-four-lessons-multilingual-suno.md` |
 | **잘못 만난 인연** (KO v1) | `lumina-yurenbushu-wrong-match-suno.md` |
 | **Wrong Match** (EN v1) | `lumina-yurenbushu-wrong-match-english-suno.md` |
+| **間違えた縁** (JA v1) | `lumina-yurenbushu-wrong-match-japanese-suno.md` |
+| **Duyên Gặp Nhầm** (VI v1) | `lumina-yurenbushu-wrong-match-vietnamese-suno.md` |
+| **5어 색인** | `lumina-yurenbushu-wrong-match-multilingual-suno.md` |
 | **Love Without a Home** (EN v1) | `lumina-yesu-sarang-english-suno.md` |
 | **충분히 어리석게** | `lumina-chungbunhi-eoriseokage-suno.md` |
 | **足够愚蠢** (ZH) | `lumina-gou-foolish-enough-chinese-suno.md` |
