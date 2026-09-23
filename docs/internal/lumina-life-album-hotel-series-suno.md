@@ -75,6 +75,10 @@
 | **独り清き川** (JA v1) | `lumina-qu-yuan-clear-river-japanese-suno.md` |
 | **Dòng Sông Riêng Trong** (VI v1) | `lumina-qu-yuan-clear-river-vietnamese-suno.md` |
 | **5어 색인** | `lumina-qu-yuan-clear-river-multilingual-suno.md` |
+| **빼앗겨도 꺾이지 않는 사람들** (KO v1) | `lumina-ppaetatgyeodo-kkeokkiji-anneun-saramdeul-suno.md` |
+| **奪われても折れない人々** (JA v1) | `lumina-ppaetatgyeodo-kkeokkiji-anneun-saramdeul-japanese-suno.md` |
+| **Bị Cướp Đi Vẫn Không Gục Ngã** (VI v1) | `lumina-ppaetatgyeodo-kkeokkiji-anneun-saramdeul-vietnamese-suno.md` |
+| **3어 색인** | `lumina-ppaetatgyeodo-kkeokkiji-anneun-saramdeul-multilingual-suno.md` |
 | **보리수 아래 (12연기)** | `lumina-bodhi-tree-twelve-links-suno.md` |
 | **Under the Bodhi Tree** (EN v1) | `lumina-bodhi-tree-twelve-links-english-suno.md` |
 | **菩提树下** (ZH v1) | `lumina-bodhi-tree-twelve-links-chinese-suno.md` |
