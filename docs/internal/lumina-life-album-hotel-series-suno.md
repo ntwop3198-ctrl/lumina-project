@@ -201,6 +201,12 @@
 | **雲と波のように** (JA v1) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-japanese-suno.md` |
 | **Như Mây Và Sóng** (VI v1) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-vietnamese-suno.md` |
 | **구름과 물결처럼 5어 색인** | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-multilingual-suno.md` |
+| **무장해제** (KO v1 · 1-1) | `lumina-mujanghaeje-disarmed-suno.md` |
+| **卸下心防** (ZH v1) | `lumina-mujanghaeje-disarmed-chinese-suno.md` |
+| **Disarmed** (EN v1) | `lumina-mujanghaeje-disarmed-english-suno.md` |
+| **心の武装解除** (JA v1) | `lumina-mujanghaeje-disarmed-japanese-suno.md` |
+| **Buông Giáp** (VI v1) | `lumina-mujanghaeje-disarmed-vietnamese-suno.md` |
+| **무장해제 5어 색인** | `lumina-mujanghaeje-disarmed-multilingual-suno.md` |
 | **은하수** (KO v1 · 칠석·견우직녀) | `lumina-eunhasu-chilseok-cowherd-weaver-suno.md` |
 | **银河** (ZH v1) | `lumina-eunhasu-chilseok-cowherd-weaver-chinese-suno.md` |
 | **Milky Way** (EN v1) | `lumina-eunhasu-chilseok-cowherd-weaver-english-suno.md` |
