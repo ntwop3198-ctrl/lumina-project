@@ -79,8 +79,11 @@
 | **나를 놓아줘** (KO v1) | `lumina-fangguo-ziji-let-yourself-go-suno.md` |
 | **Let Yourself Go** (EN v1) | `lumina-fangguo-ziji-let-yourself-go-english-suno.md` |
 | **好男人7要素** (ZH v1) | `lumina-good-man-seven-elements-chinese-suno.md` |
-| **좋은 남자 7가지** (KO v1) | `lumina-good-man-seven-elements-suno.md` |
+| **좋은 남자 7가지** (KO v1 · 1-1) | `lumina-good-man-seven-elements-suno.md` |
 | **Seven Signs of a Good Man** (EN v1) | `lumina-good-man-seven-elements-english-suno.md` |
+| **いい男の7つ** (JA v1) | `lumina-good-man-seven-elements-japanese-suno.md` |
+| **Bảy Điều Ở Người Đàn Ông Tốt** (VI v1) | `lumina-good-man-seven-elements-vietnamese-suno.md` |
+| **좋은 남자 7가지 5어 색인** | `lumina-good-man-seven-elements-multilingual-suno.md` |
 | **菩提本无树** (ZH v1) | `lumina-bodhi-originally-no-tree-chinese-suno.md` |
 | **보리본무수** (KO v1) | `lumina-bodhi-originally-no-tree-suno.md` |
 | **No Bodhi Tree** (EN v1) | `lumina-bodhi-originally-no-tree-english-suno.md` |
