@@ -142,6 +142,12 @@
 | **愛を背負う人** (JA v1) | `lumina-sarang-ui-jimkkun-japanese-suno.md` |
 | **Người Gánh Yêu Thương** (VI v1) | `lumina-sarang-ui-jimkkun-vietnamese-suno.md` |
 | **사랑의 짐꾼 5어 색인** | `lumina-sarang-ui-jimkkun-multilingual-suno.md` |
+| **거짓말이라도 좋소** (KO v1 · 1-1) | `lumina-geojitmarirado-jokso-suno.md` |
+| **哪怕是谎话也好** (ZH v1) | `lumina-geojitmarirado-jokso-chinese-suno.md` |
+| **Even If It's a Lie** (EN v1) | `lumina-geojitmarirado-jokso-english-suno.md` |
+| **嘘でもいいから** (JA v1) | `lumina-geojitmarirado-jokso-japanese-suno.md` |
+| **Dối Em Cũng Được** (VI v1) | `lumina-geojitmarirado-jokso-vietnamese-suno.md` |
+| **거짓말이라도 좋소 5어 색인** | `lumina-geojitmarirado-jokso-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
