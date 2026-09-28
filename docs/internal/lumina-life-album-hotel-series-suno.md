@@ -195,6 +195,12 @@
 | **離婚した女性を愛してしまった** (JA v1) | `lumina-ihonhan-yeoja-divorced-woman-japanese-suno.md` |
 | **Anh Yêu Người Đàn Bà Đã Ly Hôn** (VI v1) | `lumina-ihonhan-yeoja-divorced-woman-vietnamese-suno.md` |
 | **이혼한 여자를 사랑하게 됐네 4어 색인** | `lumina-ihonhan-yeoja-divorced-woman-multilingual-suno.md` |
+| **구름과 물결처럼** (KO v1 · 4-2 · 강심사 대련) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-suno.md` |
+| **如云如潮** (ZH v1) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-chinese-suno.md` |
+| **Like Clouds and Tides** (EN v1) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-english-suno.md` |
+| **雲と波のように** (JA v1) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-japanese-suno.md` |
+| **Như Mây Và Sóng** (VI v1) | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-vietnamese-suno.md` |
+| **구름과 물결처럼 5어 색인** | `lumina-gureumgwa-mulgyeolcheoreom-clouds-and-tides-multilingual-suno.md` |
 | **은하수** (KO v1 · 칠석·견우직녀) | `lumina-eunhasu-chilseok-cowherd-weaver-suno.md` |
 | **银河** (ZH v1) | `lumina-eunhasu-chilseok-cowherd-weaver-chinese-suno.md` |
 | **Milky Way** (EN v1) | `lumina-eunhasu-chilseok-cowherd-weaver-english-suno.md` |
