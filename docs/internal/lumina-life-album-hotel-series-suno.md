@@ -207,6 +207,12 @@
 | **心の武装解除** (JA v1) | `lumina-mujanghaeje-disarmed-japanese-suno.md` |
 | **Buông Giáp** (VI v1) | `lumina-mujanghaeje-disarmed-vietnamese-suno.md` |
 | **무장해제 5어 색인** | `lumina-mujanghaeje-disarmed-multilingual-suno.md` |
+| **두 개의 산** (KO v1 · 2-4) | `lumina-du-gaeui-san-two-mountains-suno.md` |
+| **两座山** (ZH v1) | `lumina-du-gaeui-san-two-mountains-chinese-suno.md` |
+| **Two Mountains** (EN v1) | `lumina-du-gaeui-san-two-mountains-english-suno.md` |
+| **二つの山** (JA v1) | `lumina-du-gaeui-san-two-mountains-japanese-suno.md` |
+| **Hai Ngọn Núi** (VI v1) | `lumina-du-gaeui-san-two-mountains-vietnamese-suno.md` |
+| **두 개의 산 5어 색인** | `lumina-du-gaeui-san-two-mountains-multilingual-suno.md` |
 | **은하수** (KO v1 · 칠석·견우직녀) | `lumina-eunhasu-chilseok-cowherd-weaver-suno.md` |
 | **银河** (ZH v1) | `lumina-eunhasu-chilseok-cowherd-weaver-chinese-suno.md` |
 | **Milky Way** (EN v1) | `lumina-eunhasu-chilseok-cowherd-weaver-english-suno.md` |
