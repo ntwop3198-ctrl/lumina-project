@@ -115,14 +115,16 @@
 | **Mirror Mind** (EN v1 · 헌정) | `lumina-mirror-mind-english-suno.md` |
 | **多语索引** | `lumina-maeumi-geoul-mirror-mind-multilingual-suno.md` |
 | **潜意识里的你** (ZH v1) | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-chinese-suno.md` |
-| **잠재의식 속의 너** (KO v1 · 慕强) | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-suno.md` |
+| **잠재의식 속의 너** (KO v1 · 1-1 · 慕强) | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-suno.md` |
+| **潜在意識の中の君** (JA v1 · 慕强) | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-japanese-suno.md` |
+| **Anh Trong Tiềm Thức** (VI v1 · 慕强) | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-vietnamese-suno.md` |
 | **잠재의식 속의 너 — Übermensch** (KO v1 · 고독) | `lumina-jamuisik-sok-ui-neo-ubermensch-suno.md` |
 | **潜意识里的你 — Übermensch** (ZH v1 · 고독) | `lumina-jamuisik-sok-ui-neo-ubermensch-chinese-suno.md` |
 | **The You Within** (EN v1 · Übermensch) | `lumina-jamuisik-sok-ui-neo-ubermensch-english-suno.md` |
 | **潜在意識の中のあなた** (JA v1 · Übermensch) | `lumina-jamuisik-sok-ui-neo-ubermensch-japanese-suno.md` |
 | **Con Người Trong Tiềm Thức** (VI v1 · Übermensch) | `lumina-jamuisik-sok-ui-neo-ubermensch-vietnamese-suno.md` |
 | **You in My Subconscious** (EN v1) | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-english-suno.md` |
-| **三语索引** | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-multilingual-suno.md` |
+| **잠재의식 속의 너 5어 색인** | `lumina-qianyishi-li-de-ni-you-in-the-subconscious-multilingual-suno.md` |
 | **아프니까 사랑이다 / 痛了才是爱** (한·중 v1) | `lumina-apeunikka-sarangida-because-it-hurts-its-love-suno.md` |
 | **Because It Hurts / 痛いから愛なんだ** (英·日 v1) | `lumina-apeunikka-sarangida-because-it-hurts-its-love-english-japanese-suno.md` |
 | **Parce que ça fait mal / Vì đau** (法·越 v1) | `lumina-apeunikka-sarangida-because-it-hurts-its-love-french-vietnamese-suno.md` |
