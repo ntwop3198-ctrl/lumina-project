@@ -124,6 +124,12 @@
 | **憎らしい恋** (JA v1) | `lumina-miun-sarang-japanese-suno.md` |
 | **Vừa Ghét Vừa Thương** (VI v1) | `lumina-miun-sarang-vietnamese-suno.md` |
 | **미운 사랑 5어 색인** | `lumina-miun-sarang-multilingual-suno.md` |
+| **당신께 걸어가는 이 마음** (KO v1 · 1-1) | `lumina-dangsinkke-georeoganeun-i-maeum-suno.md` |
+| **走向你的这颗心** (ZH v1) | `lumina-dangsinkke-georeoganeun-i-maeum-chinese-suno.md` |
+| **This Heart That Walks to You** (EN v1) | `lumina-dangsinkke-georeoganeun-i-maeum-english-suno.md` |
+| **あなたへ歩くこの想い** (JA v1) | `lumina-dangsinkke-georeoganeun-i-maeum-japanese-suno.md` |
+| **Trái Tim Bước Về Phía Em** (VI v1) | `lumina-dangsinkke-georeoganeun-i-maeum-vietnamese-suno.md` |
+| **당신께 걸어가는 이 마음 5어 색인** | `lumina-dangsinkke-georeoganeun-i-maeum-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
