@@ -4,6 +4,9 @@
 > **v1 Suno 작업용 최종** (ZH v1 1:1 + Gemini 선별) · 2026-06-11  
 > 부제: *Good Man · Seven Elements · 懂你*  
 > ZH: `lumina-good-man-seven-elements-chinese-suno.md` (v1) · EN: `lumina-good-man-seven-elements-english-suno.md` (v1)  
+> JA: `lumina-good-man-seven-elements-japanese-suno.md` (v1 · いい男の7つ)  
+> VI: `lumina-good-man-seven-elements-vietnamese-suno.md` (v1 · Bảy Điều Ở Người Đàn Ông Tốt)  
+> 5어: `lumina-good-man-seven-elements-multilingual-suno.md`  
 > **아크** — 얇은 천/산 → 리듬·매력 → **7가지** → 양심·인연 → 쫓지 않음
 
 ---
@@ -174,6 +177,9 @@ warm chorus build, modern romantic yet philosophical,
 |------|------|
 | ZH v1 | `lumina-good-man-seven-elements-chinese-suno.md` |
 | EN v1 | `lumina-good-man-seven-elements-english-suno.md` |
+| JA v1 | `lumina-good-man-seven-elements-japanese-suno.md` |
+| VI v1 | `lumina-good-man-seven-elements-vietnamese-suno.md` |
+| 5어 | `lumina-good-man-seven-elements-multilingual-suno.md` |
 | **放过自己/나를 놓아줘** | 인연 · 삼언어 시리즈 |
 | **자기 그릇** | `lumina-jagi-geureut-suno.md` |
 | 인생 앨범 | `lumina-life-album-hotel-series-suno.md` |
@@ -223,3 +229,5 @@ warm chorus build, modern romantic yet philosophical,
 | 中文 | v1 ✅ |
 | 한국어 | **v1 ✅** |
 | English | **v1 ✅** · `lumina-good-man-seven-elements-english-suno.md` |
+| 日本語 | **v1 ✅** · `lumina-good-man-seven-elements-japanese-suno.md` · **いい男の7つ** |
+| Tiếng Việt | **v1 ✅** · `lumina-good-man-seven-elements-vietnamese-suno.md` · **Bảy Điều Ở Người Đàn Ông Tốt** |
