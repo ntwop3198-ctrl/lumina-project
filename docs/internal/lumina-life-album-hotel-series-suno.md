@@ -130,6 +130,12 @@
 | **あなたへ歩くこの想い** (JA v1) | `lumina-dangsinkke-georeoganeun-i-maeum-japanese-suno.md` |
 | **Trái Tim Bước Về Phía Em** (VI v1) | `lumina-dangsinkke-georeoganeun-i-maeum-vietnamese-suno.md` |
 | **당신께 걸어가는 이 마음 5어 색인** | `lumina-dangsinkke-georeoganeun-i-maeum-multilingual-suno.md` |
+| **저 푸른 하늘에서** (KO v1 · 1-1) | `lumina-jeo-pureun-haneureseo-suno.md` |
+| **在那蓝天上** (ZH v1) | `lumina-jeo-pureun-haneureseo-chinese-suno.md` |
+| **Up in That Blue Sky** (EN v1) | `lumina-jeo-pureun-haneureseo-english-suno.md` |
+| **あの青い空で** (JA v1) | `lumina-jeo-pureun-haneureseo-japanese-suno.md` |
+| **Trên Bầu Trời Xanh Kia** (VI v1) | `lumina-jeo-pureun-haneureseo-vietnamese-suno.md` |
+| **저 푸른 하늘에서 5어 색인** | `lumina-jeo-pureun-haneureseo-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
