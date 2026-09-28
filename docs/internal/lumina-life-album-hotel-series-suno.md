@@ -154,6 +154,12 @@
 | **やがて来る人** (JA v1) | `lumina-ol-saram-japanese-suno.md` |
 | **Người Sẽ Đến** (VI v1) | `lumina-ol-saram-vietnamese-suno.md` |
 | **올 사람 5어 색인** | `lumina-ol-saram-multilingual-suno.md` |
+| **남이라 님이라** (KO v1 · 1-1) | `lumina-namira-nimira-suno.md` |
+| **路人还是恋人** (ZH v1) | `lumina-namira-nimira-chinese-suno.md` |
+| **Stranger or My Love** (EN v1) | `lumina-namira-nimira-english-suno.md` |
+| **他人か恋人か** (JA v1) | `lumina-namira-nimira-japanese-suno.md` |
+| **Người Dưng Hay Người Thương** (VI v1) | `lumina-namira-nimira-vietnamese-suno.md` |
+| **남이라 님이라 5어 색인** | `lumina-namira-nimira-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
