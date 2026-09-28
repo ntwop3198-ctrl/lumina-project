@@ -136,6 +136,12 @@
 | **あの青い空で** (JA v1) | `lumina-jeo-pureun-haneureseo-japanese-suno.md` |
 | **Trên Bầu Trời Xanh Kia** (VI v1) | `lumina-jeo-pureun-haneureseo-vietnamese-suno.md` |
 | **저 푸른 하늘에서 5어 색인** | `lumina-jeo-pureun-haneureseo-multilingual-suno.md` |
+| **사랑의 짐꾼** (KO v1 · 1-1) | `lumina-sarang-ui-jimkkun-suno.md` |
+| **爱的挑夫** (ZH v1) | `lumina-sarang-ui-jimkkun-chinese-suno.md` |
+| **Porter of Love** (EN v1) | `lumina-sarang-ui-jimkkun-english-suno.md` |
+| **愛を背負う人** (JA v1) | `lumina-sarang-ui-jimkkun-japanese-suno.md` |
+| **Người Gánh Yêu Thương** (VI v1) | `lumina-sarang-ui-jimkkun-vietnamese-suno.md` |
+| **사랑의 짐꾼 5어 색인** | `lumina-sarang-ui-jimkkun-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
