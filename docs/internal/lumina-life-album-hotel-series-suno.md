@@ -112,6 +112,12 @@
 | **友達です** (JA v1) | `lumina-chingunimnida-thats-a-friend-japanese-suno.md` |
 | **Là Bạn Bè** (VI v1) | `lumina-chingunimnida-thats-a-friend-vietnamese-suno.md` |
 | **친구입니다 5어 색인** | `lumina-chingunimnida-thats-a-friend-multilingual-suno.md` |
+| **나를 살게 하는 사람** (KO v1 · 1-1) | `lumina-nareul-salge-haneun-saram-suno.md` |
+| **让我活下去的人** (ZH v1) | `lumina-nareul-salge-haneun-saram-chinese-suno.md` |
+| **The One Who Keeps Me Going** (EN v1) | `lumina-nareul-salge-haneun-saram-english-suno.md` |
+| **僕を生かしてくれる人** (JA v1) | `lumina-nareul-salge-haneun-saram-japanese-suno.md` |
+| **Người Cho Anh Sống** (VI v1) | `lumina-nareul-salge-haneun-saram-vietnamese-suno.md` |
+| **나를 살게 하는 사람 5어 색인** | `lumina-nareul-salge-haneun-saram-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
