@@ -246,6 +246,12 @@
 | **Ogeurangttaeng Ssangtongmangtong** (VI v1) | `lumina-ogeurangttaeng-ssangtongmangtong-vietnamese-suno.md` |
 | **5语索引** | `lumina-ogeurangttaeng-ssangtongmangtong-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · `()`→`[]`) | `lumina-ogeurangttaeng-ssangtongmangtong-suno-paste.md` |
+| **장길아 정신차리라** (KO v1 · 4-2) | `lumina-janggila-jeongsincharira-suno.md` |
+| **长吉啊醒醒吧** (ZH v1) | `lumina-janggila-jeongsincharira-chinese-suno.md` |
+| **Janggil Get It Together** (EN v1) | `lumina-janggila-jeongsincharira-english-suno.md` |
+| **チャンギル しっかりしろよ** (JA v1) | `lumina-janggila-jeongsincharira-japanese-suno.md` |
+| **Janggil Ơi Tỉnh Lại Đi** (VI v1) | `lumina-janggila-jeongsincharira-vietnamese-suno.md` |
+| **장길아 정신차리라 5어 색인** | `lumina-janggila-jeongsincharira-multilingual-suno.md` |
 
 ---
 
