@@ -213,6 +213,12 @@
 | **二つの山** (JA v1) | `lumina-du-gaeui-san-two-mountains-japanese-suno.md` |
 | **Hai Ngọn Núi** (VI v1) | `lumina-du-gaeui-san-two-mountains-vietnamese-suno.md` |
 | **두 개의 산 5어 색인** | `lumina-du-gaeui-san-two-mountains-multilingual-suno.md` |
+| **서로를 키우는 사랑** (KO v1 · 1-1 · 댄스) | `lumina-seororeul-kiuneun-sarang-love-that-lifts-suno.md` |
+| **彼此成就的爱** (ZH v1) | `lumina-seororeul-kiuneun-sarang-love-that-lifts-chinese-suno.md` |
+| **Love That Lifts Us** (EN v1) | `lumina-seororeul-kiuneun-sarang-love-that-lifts-english-suno.md` |
+| **互いを育てる愛** (JA v1) | `lumina-seororeul-kiuneun-sarang-love-that-lifts-japanese-suno.md` |
+| **Tình Yêu Cùng Nhau Lớn Lên** (VI v1) | `lumina-seororeul-kiuneun-sarang-love-that-lifts-vietnamese-suno.md` |
+| **서로를 키우는 사랑 5어 색인** | `lumina-seororeul-kiuneun-sarang-love-that-lifts-multilingual-suno.md` |
 | **은하수** (KO v1 · 칠석·견우직녀) | `lumina-eunhasu-chilseok-cowherd-weaver-suno.md` |
 | **银河** (ZH v1) | `lumina-eunhasu-chilseok-cowherd-weaver-chinese-suno.md` |
 | **Milky Way** (EN v1) | `lumina-eunhasu-chilseok-cowherd-weaver-english-suno.md` |
