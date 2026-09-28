@@ -148,6 +148,12 @@
 | **嘘でもいいから** (JA v1) | `lumina-geojitmarirado-jokso-japanese-suno.md` |
 | **Dối Em Cũng Được** (VI v1) | `lumina-geojitmarirado-jokso-vietnamese-suno.md` |
 | **거짓말이라도 좋소 5어 색인** | `lumina-geojitmarirado-jokso-multilingual-suno.md` |
+| **올 사람** (KO v1 · 1-1) | `lumina-ol-saram-suno.md` |
+| **会来的人** (ZH v1) | `lumina-ol-saram-chinese-suno.md` |
+| **The One Who Will Come** (EN v1) | `lumina-ol-saram-english-suno.md` |
+| **やがて来る人** (JA v1) | `lumina-ol-saram-japanese-suno.md` |
+| **Người Sẽ Đến** (VI v1) | `lumina-ol-saram-vietnamese-suno.md` |
+| **올 사람 5어 색인** | `lumina-ol-saram-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
