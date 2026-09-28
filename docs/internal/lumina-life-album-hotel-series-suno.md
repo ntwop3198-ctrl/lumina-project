@@ -118,6 +118,12 @@
 | **僕を生かしてくれる人** (JA v1) | `lumina-nareul-salge-haneun-saram-japanese-suno.md` |
 | **Người Cho Anh Sống** (VI v1) | `lumina-nareul-salge-haneun-saram-vietnamese-suno.md` |
 | **나를 살게 하는 사람 5어 색인** | `lumina-nareul-salge-haneun-saram-multilingual-suno.md` |
+| **미운 사랑** (KO v1 · 1-1) | `lumina-miun-sarang-suno.md` |
+| **又恨又爱** (ZH v1) | `lumina-miun-sarang-chinese-suno.md` |
+| **Love I Love to Hate** (EN v1) | `lumina-miun-sarang-english-suno.md` |
+| **憎らしい恋** (JA v1) | `lumina-miun-sarang-japanese-suno.md` |
+| **Vừa Ghét Vừa Thương** (VI v1) | `lumina-miun-sarang-vietnamese-suno.md` |
+| **미운 사랑 5어 색인** | `lumina-miun-sarang-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
