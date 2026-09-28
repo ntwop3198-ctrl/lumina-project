@@ -106,6 +106,12 @@
 | **朋友** (ZH v1) | `lumina-chingu-friend-chinese-suno.md` |
 | **Friend** (EN v1) | `lumina-chingu-friend-english-suno.md` |
 | **Trilingual** | `lumina-chingu-friend-multilingual-suno.md` |
+| **친구입니다** (KO v1 · 2-4 · 우정 · 별곡) | `lumina-chingunimnida-thats-a-friend-suno.md` |
+| **是朋友** (ZH v1) | `lumina-chingunimnida-thats-a-friend-chinese-suno.md` |
+| **That's a Friend** (EN v1) | `lumina-chingunimnida-thats-a-friend-english-suno.md` |
+| **友達です** (JA v1) | `lumina-chingunimnida-thats-a-friend-japanese-suno.md` |
+| **Là Bạn Bè** (VI v1) | `lumina-chingunimnida-thats-a-friend-vietnamese-suno.md` |
+| **친구입니다 5어 색인** | `lumina-chingunimnida-thats-a-friend-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
