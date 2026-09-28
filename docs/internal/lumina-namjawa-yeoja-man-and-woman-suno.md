@@ -5,6 +5,9 @@
 > 부제: *Different, Therefore Complete · 求小求苦求己 · 真空妙有*  
 > ZH: `lumina-namjawa-yeoja-man-and-woman-chinese-suno.md` (v1)  
 > EN: `lumina-namjawa-yeoja-man-and-woman-english-suno.md` (v1)  
+> JA: `lumina-namjawa-yeoja-man-and-woman-japanese-suno.md` (v1 · 男と女)  
+> VI: `lumina-namjawa-yeoja-man-and-woman-vietnamese-suno.md` (v1 · Đàn Ông Và Đàn Bà)  
+> 5어: `lumina-namjawa-yeoja-man-and-woman-multilingual-suno.md`  
 > 앨범: `lumina-life-album-hotel-series-suno.md`
 
 ---

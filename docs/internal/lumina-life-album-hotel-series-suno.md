@@ -179,9 +179,12 @@
 | **죽고자 하면** (KO v1 FINAL · 고구려·이순신·안중근 군가) | `lumina-death-to-live-suno.md` |
 | **왼손의 습관** (KO v1 · 화·필사·다스림) | `lumina-oenson-ui-seupgwan-left-hand-habit-suno.md` |
 | **작은 것** (KO v1 · 求小·온기) | `lumina-jageun-geot-small-things-suno.md` |
-| **남자와 여자** (KO v1 · 대구·듀엣) | `lumina-namjawa-yeoja-man-and-woman-suno.md` |
+| **남자와 여자** (KO v1 · 1-1 · 대구·듀엣) | `lumina-namjawa-yeoja-man-and-woman-suno.md` |
 | **男人与女人** (ZH v1) | `lumina-namjawa-yeoja-man-and-woman-chinese-suno.md` |
 | **Man and Woman** (EN v1) | `lumina-namjawa-yeoja-man-and-woman-english-suno.md` |
+| **男と女** (JA v1) | `lumina-namjawa-yeoja-man-and-woman-japanese-suno.md` |
+| **Đàn Ông Và Đàn Bà** (VI v1) | `lumina-namjawa-yeoja-man-and-woman-vietnamese-suno.md` |
+| **남자와 여자 5어 색인** | `lumina-namjawa-yeoja-man-and-woman-multilingual-suno.md` |
 | **은하수** (KO v1 · 칠석·견우직녀) | `lumina-eunhasu-chilseok-cowherd-weaver-suno.md` |
 | **银河** (ZH v1) | `lumina-eunhasu-chilseok-cowherd-weaver-chinese-suno.md` |
 | **Milky Way** (EN v1) | `lumina-eunhasu-chilseok-cowherd-weaver-english-suno.md` |
