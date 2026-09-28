@@ -160,6 +160,7 @@
 | **他人か恋人か** (JA v1) | `lumina-namira-nimira-japanese-suno.md` |
 | **Người Dưng Hay Người Thương** (VI v1) | `lumina-namira-nimira-vietnamese-suno.md` |
 | **남이라 님이라 5어 색인** | `lumina-namira-nimira-multilingual-suno.md` |
+| **Suno 매대 정본** (11축 하위 확정) | `lumina-suno-shelf-taxonomy.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
