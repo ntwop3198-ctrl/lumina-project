@@ -295,6 +295,12 @@
 | **飛んでいけ** (JA v1) | `lumina-nalaga-japanese-suno.md` |
 | **Bay Đi** (VI v1) | `lumina-nalaga-vietnamese-suno.md` |
 | **날아가 5어 색인** | `lumina-nalaga-multilingual-suno.md` |
+| **다시 쓰는 우리** (KO v1 · 1-1) | `lumina-dasi-sseuneun-uri-suno.md` |
+| **重写我们** (ZH v1) | `lumina-dasi-sseuneun-uri-chinese-suno.md` |
+| **Rewriting Us** (EN v1) | `lumina-dasi-sseuneun-uri-english-suno.md` |
+| **もう一度書く僕ら** (JA v1) | `lumina-dasi-sseuneun-uri-japanese-suno.md` |
+| **Viết Lại Chúng Ta** (VI v1) | `lumina-dasi-sseuneun-uri-vietnamese-suno.md` |
+| **다시 쓰는 우리 5어 색인** | `lumina-dasi-sseuneun-uri-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
