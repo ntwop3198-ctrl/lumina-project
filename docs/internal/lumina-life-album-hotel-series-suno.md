@@ -53,11 +53,12 @@
 | **위인 시리즈** (8곡) | `lumina-great-figures-series-suno.md` |
 | **위대한 빈손 3부작** | `lumina-great-empty-hands-trilogy-suno.md` |
 | **禅·日常 三部曲** | `lumina-zen-daily-practice-trilogy-suno.md` |
-| **사랑의 상처** | `lumina-sarang-ui-heunjeok-traces-of-love-suno.md` |
+| **사랑의 상처** (KO v4 · 1-2) | `lumina-sarang-ui-heunjeok-traces-of-love-suno.md` |
 | **Scars of Love** (EN) | `lumina-sarang-ui-heunjeok-traces-of-love-english-suno.md` |
 | **爱的伤痕** (ZH) | `lumina-sarang-ui-heunjeok-traces-of-love-chinese-suno.md` |
-| **三语索引** | `lumina-sarang-ui-heunjeok-traces-of-love-trilingual-suno.md` |
-| **三语索引** | `lumina-sarang-ui-heunjeok-traces-of-love-trilingual-suno.md` |
+| **愛の傷痕** (JA v1) | `lumina-sarang-ui-heunjeok-traces-of-love-japanese-suno.md` |
+| **Vết Thương Tình Yêu** (VI v1) | `lumina-sarang-ui-heunjeok-traces-of-love-vietnamese-suno.md` |
+| **사랑의 상처 5어 색인** | `lumina-sarang-ui-heunjeok-traces-of-love-trilingual-suno.md` |
 | **아픔도 선물이었어** | `lumina-apeumdo-seonmuri-eosseo-suno.md` |
 | **기다리지 마 · 不等歌** | `lumina-dont-wait-song-series-suno.md` |
 | **부천역 밤** (v2) | `lumina-bucheon-station-night-suno.md` |
@@ -184,6 +185,8 @@
 | **忘却の呪文** (JA v1) | `lumina-new-obliviator-japanese-suno.md` |
 | **Thần Chú Lãng Quên** (VI v1) | `lumina-new-obliviator-vietnamese-suno.md` |
 | **New Obliviator 5어 색인** | `lumina-new-obliviator-multilingual-suno.md` |
+| **愛の傷痕** (JA v1 · 사랑의 상처) | `lumina-sarang-ui-heunjeok-traces-of-love-japanese-suno.md` |
+| **Vết Thương Tình Yêu** (VI v1) | `lumina-sarang-ui-heunjeok-traces-of-love-vietnamese-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
