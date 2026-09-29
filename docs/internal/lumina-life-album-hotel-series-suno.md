@@ -253,6 +253,12 @@
 | **笑って笑って** (JA v1) | `lumina-useo-useo-japanese-suno.md` |
 | **Cười Lên Cười Lên** (VI v1) | `lumina-useo-useo-vietnamese-suno.md` |
 | **웃어 웃어 5어 색인** | `lumina-useo-useo-multilingual-suno.md` |
+| **내 몫의 거리 (지켜보는 온도)** (KO v1 · 4-2) | `lumina-nae-moksui-geori-suno.md` |
+| **属于我的距离（守望的温度）** (ZH v1) | `lumina-nae-moksui-geori-chinese-suno.md` |
+| **My Share of Distance (The Warmth of Watching)** (EN v1) | `lumina-nae-moksui-geori-english-suno.md` |
+| **私の分の距離（見守る温度）** (JA v1) | `lumina-nae-moksui-geori-japanese-suno.md` |
+| **Khoảng Cách Của Riêng Tôi (Hơi Ấm Dõi Theo)** (VI v1) | `lumina-nae-moksui-geori-vietnamese-suno.md` |
+| **내 몫의 거리 5어 색인** | `lumina-nae-moksui-geori-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
