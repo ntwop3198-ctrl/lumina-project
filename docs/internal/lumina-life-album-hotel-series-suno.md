@@ -229,6 +229,12 @@
 | **彼女の泣き声だけ** (JA v1) | `lumina-geunyeoui-ureumsorippun-japanese-suno.md` |
 | **Chỉ Còn Tiếng Khóc Của Nàng** (VI v1) | `lumina-geunyeoui-ureumsorippun-vietnamese-suno.md` |
 | **그녀의 울음소리뿐 5어 색인** | `lumina-geunyeoui-ureumsorippun-multilingual-suno.md` |
+| **문 앞에 서서** (KO v1 · 1-2) | `lumina-mun-ape-seoseo-suno.md` |
+| **站在门前** (ZH v1) | `lumina-mun-ape-seoseo-chinese-suno.md` |
+| **Standing at the Door** (EN v1) | `lumina-mun-ape-seoseo-english-suno.md` |
+| **扉の前で** (JA v1) | `lumina-mun-ape-seoseo-japanese-suno.md` |
+| **Đứng Trước Cửa** (VI v1) | `lumina-mun-ape-seoseo-vietnamese-suno.md` |
+| **문 앞에 서서 5어 색인** | `lumina-mun-ape-seoseo-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
