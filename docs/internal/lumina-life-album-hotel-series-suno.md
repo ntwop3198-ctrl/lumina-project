@@ -193,6 +193,12 @@
 | **帰っておいで わが愛よ** (JA v1) | `lumina-doraoyo-nae-saranga-japanese-suno.md` |
 | **Quay Về Đi Người Yêu Ơi** (VI v1) | `lumina-doraoyo-nae-saranga-vietnamese-suno.md` |
 | **돌아와요 내 사랑아 5어 색인** | `lumina-doraoyo-nae-saranga-multilingual-suno.md` |
+| **문드러진 상처** (KO v1 · 1-2) | `lumina-mundeureojin-sangcheo-suno.md` |
+| **溃烂的伤** (ZH v1) | `lumina-mundeureojin-sangcheo-chinese-suno.md` |
+| **The Festering Wound** (EN v1) | `lumina-mundeureojin-sangcheo-english-suno.md` |
+| **爛れた傷** (JA v1) | `lumina-mundeureojin-sangcheo-japanese-suno.md` |
+| **Vết Thương Chẳng Lành** (VI v1) | `lumina-mundeureojin-sangcheo-vietnamese-suno.md` |
+| **문드러진 상처 5어 색인** | `lumina-mundeureojin-sangcheo-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
