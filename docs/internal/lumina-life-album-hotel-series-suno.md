@@ -241,6 +241,12 @@
 | **花道でも** (JA v1) | `lumina-kkotgillirado-japanese-suno.md` |
 | **Dù Là Đường Hoa** (VI v1) | `lumina-kkotgillirado-vietnamese-suno.md` |
 | **꽃길이라도 5어 색인** | `lumina-kkotgillirado-multilingual-suno.md` |
+| **진실한 우정** (KO v1 · 2-4) | `lumina-jinsilhan-ujeong-suno.md` |
+| **真正的友情** (ZH v1) | `lumina-jinsilhan-ujeong-chinese-suno.md` |
+| **True Friendship** (EN v1) | `lumina-jinsilhan-ujeong-english-suno.md` |
+| **本当の友情** (JA v1) | `lumina-jinsilhan-ujeong-japanese-suno.md` |
+| **Tình Bạn Chân Thật** (VI v1) | `lumina-jinsilhan-ujeong-vietnamese-suno.md` |
+| **진실한 우정 5어 색인** | `lumina-jinsilhan-ujeong-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
