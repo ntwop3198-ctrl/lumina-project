@@ -265,6 +265,12 @@
 | **黙ってそばに（聴く人）** (JA v1) | `lumina-mukmukhan-gyeot-japanese-suno.md` |
 | **Lặng Lẽ Bên Người (Người Lắng Nghe)** (VI v1) | `lumina-mukmukhan-gyeot-vietnamese-suno.md` |
 | **묵묵한 곁 5어 색인** | `lumina-mukmukhan-gyeot-multilingual-suno.md` |
+| **옆구리가 시리다** (KO v1 · 2-4) | `lumina-yeopguri-ga-sirida-suno.md` |
+| **身边冷飕飕** (ZH v1) | `lumina-yeopguri-ga-sirida-chinese-suno.md` |
+| **Cold by My Side** (EN v1) | `lumina-yeopguri-ga-sirida-english-suno.md` |
+| **人肌恋しい** (JA v1) | `lumina-yeopguri-ga-sirida-japanese-suno.md` |
+| **Bên Cạnh Lạnh Tanh** (VI v1) | `lumina-yeopguri-ga-sirida-vietnamese-suno.md` |
+| **옆구리가 시리다 5어 색인** | `lumina-yeopguri-ga-sirida-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
