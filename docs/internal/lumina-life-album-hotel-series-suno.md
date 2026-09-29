@@ -211,6 +211,12 @@
 | **涙で滲んだ恋** (JA v1) | `lumina-nunmullo-eollukjin-sarang-japanese-suno.md` |
 | **Tình Yêu Nhòe Nước Mắt** (VI v1) | `lumina-nunmullo-eollukjin-sarang-vietnamese-suno.md` |
 | **눈물로 얼룩진 사랑 5어 색인** | `lumina-nunmullo-eollukjin-sarang-multilingual-suno.md` |
+| **스쳐 지나가며** (KO v1 · 1-2) | `lumina-seuchyeo-jinagamyeo-suno.md` |
+| **擦肩而过** (ZH v1) | `lumina-seuchyeo-jinagamyeo-chinese-suno.md` |
+| **Passing By** (EN v1) | `lumina-seuchyeo-jinagamyeo-english-suno.md` |
+| **すれ違いざまに** (JA v1) | `lumina-seuchyeo-jinagamyeo-japanese-suno.md` |
+| **Lướt Qua Nhau** (VI v1) | `lumina-seuchyeo-jinagamyeo-vietnamese-suno.md` |
+| **스쳐 지나가며 5어 색인** | `lumina-seuchyeo-jinagamyeo-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
