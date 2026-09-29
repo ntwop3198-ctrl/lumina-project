@@ -223,6 +223,12 @@
 | **夜空の星** (JA v1) | `lumina-bamhaneurui-byeol-japanese-suno.md` |
 | **Ngôi Sao Trên Trời Đêm** (VI v1) | `lumina-bamhaneurui-byeol-vietnamese-suno.md` |
 | **밤하늘의 별 5어 색인** | `lumina-bamhaneurui-byeol-multilingual-suno.md` |
+| **그녀의 울음소리뿐** (KO v1 · 1-2) | `lumina-geunyeoui-ureumsorippun-suno.md` |
+| **只剩她的哭声** (ZH v1) | `lumina-geunyeoui-ureumsorippun-chinese-suno.md` |
+| **Only Her Crying Remains** (EN v1) | `lumina-geunyeoui-ureumsorippun-english-suno.md` |
+| **彼女の泣き声だけ** (JA v1) | `lumina-geunyeoui-ureumsorippun-japanese-suno.md` |
+| **Chỉ Còn Tiếng Khóc Của Nàng** (VI v1) | `lumina-geunyeoui-ureumsorippun-vietnamese-suno.md` |
+| **그녀의 울음소리뿐 5어 색인** | `lumina-geunyeoui-ureumsorippun-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
