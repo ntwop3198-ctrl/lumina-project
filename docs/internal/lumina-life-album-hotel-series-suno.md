@@ -205,6 +205,12 @@
 | **人懐っこいあの人** (JA v1) | `lumina-salgaun-geu-saram-japanese-suno.md` |
 | **Người Ấy Ân Cần** (VI v1) | `lumina-salgaun-geu-saram-vietnamese-suno.md` |
 | **살가운 그 사람 5어 색인** | `lumina-salgaun-geu-saram-multilingual-suno.md` |
+| **눈물로 얼룩진 사랑** (KO v1 · 1-2) | `lumina-nunmullo-eollukjin-sarang-suno.md` |
+| **泪痕斑斑的爱** (ZH v1) | `lumina-nunmullo-eollukjin-sarang-chinese-suno.md` |
+| **Love Stained with Tears** (EN v1) | `lumina-nunmullo-eollukjin-sarang-english-suno.md` |
+| **涙で滲んだ恋** (JA v1) | `lumina-nunmullo-eollukjin-sarang-japanese-suno.md` |
+| **Tình Yêu Nhòe Nước Mắt** (VI v1) | `lumina-nunmullo-eollukjin-sarang-vietnamese-suno.md` |
+| **눈물로 얼룩진 사랑 5어 색인** | `lumina-nunmullo-eollukjin-sarang-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
