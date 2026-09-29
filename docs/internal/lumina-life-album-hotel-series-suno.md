@@ -199,6 +199,12 @@
 | **爛れた傷** (JA v1) | `lumina-mundeureojin-sangcheo-japanese-suno.md` |
 | **Vết Thương Chẳng Lành** (VI v1) | `lumina-mundeureojin-sangcheo-vietnamese-suno.md` |
 | **문드러진 상처 5어 색인** | `lumina-mundeureojin-sangcheo-multilingual-suno.md` |
+| **살가운 그 사람** (KO v1 · 2-3) | `lumina-salgaun-geu-saram-suno.md` |
+| **温柔的那个人** (ZH v1) | `lumina-salgaun-geu-saram-chinese-suno.md` |
+| **Warm to Everyone** (EN v1) | `lumina-salgaun-geu-saram-english-suno.md` |
+| **人懐っこいあの人** (JA v1) | `lumina-salgaun-geu-saram-japanese-suno.md` |
+| **Người Ấy Ân Cần** (VI v1) | `lumina-salgaun-geu-saram-vietnamese-suno.md` |
+| **살가운 그 사람 5어 색인** | `lumina-salgaun-geu-saram-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
