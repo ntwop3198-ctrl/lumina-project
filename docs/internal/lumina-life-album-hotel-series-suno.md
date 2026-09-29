@@ -271,6 +271,12 @@
 | **人肌恋しい** (JA v1) | `lumina-yeopguri-ga-sirida-japanese-suno.md` |
 | **Bên Cạnh Lạnh Tanh** (VI v1) | `lumina-yeopguri-ga-sirida-vietnamese-suno.md` |
 | **옆구리가 시리다 5어 색인** | `lumina-yeopguri-ga-sirida-multilingual-suno.md` |
+| **판다야 울지마** (KO v1 · 4-2) | `lumina-pandaya-uljima-suno.md` |
+| **熊猫呀 别哭** (ZH v1) | `lumina-pandaya-uljima-chinese-suno.md` |
+| **Don't Cry, Little Panda** (EN v1) | `lumina-pandaya-uljima-english-suno.md` |
+| **パンダよ 泣かないで** (JA v1) | `lumina-pandaya-uljima-japanese-suno.md` |
+| **Gấu Trúc Ơi Đừng Khóc** (VI v1) | `lumina-pandaya-uljima-vietnamese-suno.md` |
+| **판다야 울지마 5어 색인** | `lumina-pandaya-uljima-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
