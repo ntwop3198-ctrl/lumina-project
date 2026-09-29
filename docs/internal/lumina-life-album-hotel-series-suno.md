@@ -172,6 +172,12 @@
 | **わが愛はどこに** (JA v1) | `lumina-nae-sarang-eodie-japanese-suno.md` |
 | **Tình Yêu Của Anh Nơi Đâu** (VI v1) | `lumina-nae-sarang-eodie-vietnamese-suno.md` |
 | **내 사랑 어디에 5어 색인** | `lumina-nae-sarang-eodie-multilingual-suno.md` |
+| **미련한 사랑** (KO v1 · 1-2) | `lumina-miryeonhan-sarang-suno.md` |
+| **傻傻的爱** (ZH v1) | `lumina-miryeonhan-sarang-chinese-suno.md` |
+| **Foolish Love** (EN v1) | `lumina-miryeonhan-sarang-english-suno.md` |
+| **未練な恋** (JA v1) | `lumina-miryeonhan-sarang-japanese-suno.md` |
+| **Tình Yêu Dại Khờ** (VI v1) | `lumina-miryeonhan-sarang-vietnamese-suno.md` |
+| **미련한 사랑 5어 색인** | `lumina-miryeonhan-sarang-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
