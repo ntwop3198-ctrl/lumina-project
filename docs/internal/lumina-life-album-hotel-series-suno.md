@@ -283,6 +283,12 @@
 | **記憶の消しゴム** (JA v1) | `lumina-gieok-jiugae-japanese-suno.md` |
 | **Cục Tẩy Ký Ức** (VI v1) | `lumina-gieok-jiugae-vietnamese-suno.md` |
 | **기억 지우개 5어 색인** | `lumina-gieok-jiugae-multilingual-suno.md` |
+| **일산 가는 길** (KO v1 · 4-2) | `lumina-ilsan-ganeun-gil-suno.md` |
+| **去一山的路** (ZH v1) | `lumina-ilsan-ganeun-gil-chinese-suno.md` |
+| **The Road to Ilsan** (EN v1) | `lumina-ilsan-ganeun-gil-english-suno.md` |
+| **イルサンへの道** (JA v1) | `lumina-ilsan-ganeun-gil-japanese-suno.md` |
+| **Đường Đến Ilsan** (VI v1) | `lumina-ilsan-ganeun-gil-vietnamese-suno.md` |
+| **일산 가는 길 5어 색인** | `lumina-ilsan-ganeun-gil-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
