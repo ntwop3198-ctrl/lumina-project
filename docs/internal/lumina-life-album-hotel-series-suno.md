@@ -187,6 +187,12 @@
 | **New Obliviator 5어 색인** | `lumina-new-obliviator-multilingual-suno.md` |
 | **愛の傷痕** (JA v1 · 사랑의 상처) | `lumina-sarang-ui-heunjeok-traces-of-love-japanese-suno.md` |
 | **Vết Thương Tình Yêu** (VI v1) | `lumina-sarang-ui-heunjeok-traces-of-love-vietnamese-suno.md` |
+| **돌아와요 내 사랑아** (KO v1 · 1-2) | `lumina-doraoyo-nae-saranga-suno.md` |
+| **回来吧我的爱** (ZH v1) | `lumina-doraoyo-nae-saranga-chinese-suno.md` |
+| **Come Back My Love** (EN v1) | `lumina-doraoyo-nae-saranga-english-suno.md` |
+| **帰っておいで わが愛よ** (JA v1) | `lumina-doraoyo-nae-saranga-japanese-suno.md` |
+| **Quay Về Đi Người Yêu Ơi** (VI v1) | `lumina-doraoyo-nae-saranga-vietnamese-suno.md` |
+| **돌아와요 내 사랑아 5어 색인** | `lumina-doraoyo-nae-saranga-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
