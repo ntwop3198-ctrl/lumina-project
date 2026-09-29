@@ -289,6 +289,12 @@
 | **イルサンへの道** (JA v1) | `lumina-ilsan-ganeun-gil-japanese-suno.md` |
 | **Đường Đến Ilsan** (VI v1) | `lumina-ilsan-ganeun-gil-vietnamese-suno.md` |
 | **일산 가는 길 5어 색인** | `lumina-ilsan-ganeun-gil-multilingual-suno.md` |
+| **날아가** (KO v1 · 1-2) | `lumina-nalaga-suno.md` |
+| **飞走吧** (ZH v1) | `lumina-nalaga-chinese-suno.md` |
+| **Fly Away** (EN v1) | `lumina-nalaga-english-suno.md` |
+| **飛んでいけ** (JA v1) | `lumina-nalaga-japanese-suno.md` |
+| **Bay Đi** (VI v1) | `lumina-nalaga-vietnamese-suno.md` |
+| **날아가 5어 색인** | `lumina-nalaga-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
