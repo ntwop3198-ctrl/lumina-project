@@ -161,6 +161,11 @@
 | **Người Dưng Hay Người Thương** (VI v1) | `lumina-namira-nimira-vietnamese-suno.md` |
 | **남이라 님이라 5어 색인** | `lumina-namira-nimira-multilingual-suno.md` |
 | **Suno 매대 정본** (11축 하위 확정) | `lumina-suno-shelf-taxonomy.md` |
+| **잊어야만 하는데** (KO v1 · 1-2) | `lumina-ijeoyaman-haneunde-suno.md` |
+| **I Should Forget** (EN v1) | `lumina-ijeoyaman-haneunde-english-suno.md` |
+| **忘れなきゃいけないのに** (JA v1) | `lumina-ijeoyaman-haneunde-japanese-suno.md` |
+| **Lẽ Ra Phải Quên** (VI v1) | `lumina-ijeoyaman-haneunde-vietnamese-suno.md` |
+| **잊어야만 하는데 4어 색인** | `lumina-ijeoyaman-haneunde-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
