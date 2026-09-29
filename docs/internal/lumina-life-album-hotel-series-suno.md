@@ -166,6 +166,12 @@
 | **忘れなきゃいけないのに** (JA v1) | `lumina-ijeoyaman-haneunde-japanese-suno.md` |
 | **Lẽ Ra Phải Quên** (VI v1) | `lumina-ijeoyaman-haneunde-vietnamese-suno.md` |
 | **잊어야만 하는데 4어 색인** | `lumina-ijeoyaman-haneunde-multilingual-suno.md` |
+| **내 사랑 어디에** (KO v1 · 1-2) | `lumina-nae-sarang-eodie-suno.md` |
+| **來生尋愛** (ZH v1) | `lumina-nae-sarang-eodie-chinese-suno.md` |
+| **Where Is My Love** (EN v1) | `lumina-nae-sarang-eodie-english-suno.md` |
+| **わが愛はどこに** (JA v1) | `lumina-nae-sarang-eodie-japanese-suno.md` |
+| **Tình Yêu Của Anh Nơi Đâu** (VI v1) | `lumina-nae-sarang-eodie-vietnamese-suno.md` |
+| **내 사랑 어디에 5어 색인** | `lumina-nae-sarang-eodie-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
