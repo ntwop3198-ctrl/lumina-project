@@ -178,6 +178,12 @@
 | **未練な恋** (JA v1) | `lumina-miryeonhan-sarang-japanese-suno.md` |
 | **Tình Yêu Dại Khờ** (VI v1) | `lumina-miryeonhan-sarang-vietnamese-suno.md` |
 | **미련한 사랑 5어 색인** | `lumina-miryeonhan-sarang-multilingual-suno.md` |
+| **New Obliviator** (KO v1 · 1-2) | `lumina-new-obliviator-suno.md` |
+| **遗忘咒** (ZH v1) | `lumina-new-obliviator-chinese-suno.md` |
+| **New Obliviator** (EN v1) | `lumina-new-obliviator-english-suno.md` |
+| **忘却の呪文** (JA v1) | `lumina-new-obliviator-japanese-suno.md` |
+| **Thần Chú Lãng Quên** (VI v1) | `lumina-new-obliviator-vietnamese-suno.md` |
+| **New Obliviator 5어 색인** | `lumina-new-obliviator-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
