@@ -235,6 +235,12 @@
 | **扉の前で** (JA v1) | `lumina-mun-ape-seoseo-japanese-suno.md` |
 | **Đứng Trước Cửa** (VI v1) | `lumina-mun-ape-seoseo-vietnamese-suno.md` |
 | **문 앞에 서서 5어 색인** | `lumina-mun-ape-seoseo-multilingual-suno.md` |
+| **꽃길이라도** (KO v1 · 1-2) | `lumina-kkotgillirado-suno.md` |
+| **纵是花路** (ZH v1) | `lumina-kkotgillirado-chinese-suno.md` |
+| **Even a Path of Flowers** (EN v1) | `lumina-kkotgillirado-english-suno.md` |
+| **花道でも** (JA v1) | `lumina-kkotgillirado-japanese-suno.md` |
+| **Dù Là Đường Hoa** (VI v1) | `lumina-kkotgillirado-vietnamese-suno.md` |
+| **꽃길이라도 5어 색인** | `lumina-kkotgillirado-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
