@@ -71,3 +71,5 @@ JA·VI 붙여넣기: `lumina-sarang-ui-heunjeok-traces-of-love-ja-vi-suno-paste.
 | KO | 그래서 오늘도 살아가는 거야 |
 | EN | That's why I'm still living today |
 | ZH | 这是我依然活着的理由 |
+| JA | だから今日も 生きていくんだ |
+| VI | Nên hôm nay anh vẫn sống tiếp |
