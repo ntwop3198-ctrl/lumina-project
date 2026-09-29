@@ -259,6 +259,12 @@
 | **私の分の距離（見守る温度）** (JA v1) | `lumina-nae-moksui-geori-japanese-suno.md` |
 | **Khoảng Cách Của Riêng Tôi (Hơi Ấm Dõi Theo)** (VI v1) | `lumina-nae-moksui-geori-vietnamese-suno.md` |
 | **내 몫의 거리 5어 색인** | `lumina-nae-moksui-geori-multilingual-suno.md` |
+| **묵묵한 곁 (들어주는 사람)** (KO v1 · 4-2) | `lumina-mukmukhan-gyeot-suno.md` |
+| **默默的陪伴（倾听的人）** (ZH v1) | `lumina-mukmukhan-gyeot-chinese-suno.md` |
+| **Quietly by Your Side (The One Who Listens)** (EN v1) | `lumina-mukmukhan-gyeot-english-suno.md` |
+| **黙ってそばに（聴く人）** (JA v1) | `lumina-mukmukhan-gyeot-japanese-suno.md` |
+| **Lặng Lẽ Bên Người (Người Lắng Nghe)** (VI v1) | `lumina-mukmukhan-gyeot-vietnamese-suno.md` |
+| **묵묵한 곁 5어 색인** | `lumina-mukmukhan-gyeot-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
