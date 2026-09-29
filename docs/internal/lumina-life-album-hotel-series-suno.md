@@ -247,6 +247,12 @@
 | **本当の友情** (JA v1) | `lumina-jinsilhan-ujeong-japanese-suno.md` |
 | **Tình Bạn Chân Thật** (VI v1) | `lumina-jinsilhan-ujeong-vietnamese-suno.md` |
 | **진실한 우정 5어 색인** | `lumina-jinsilhan-ujeong-multilingual-suno.md` |
+| **웃어 웃어** (KO v1 · 11-2) | `lumina-useo-useo-suno.md` |
+| **笑吧笑吧** (ZH v1) | `lumina-useo-useo-chinese-suno.md` |
+| **Smile Smile** (EN v1) | `lumina-useo-useo-english-suno.md` |
+| **笑って笑って** (JA v1) | `lumina-useo-useo-japanese-suno.md` |
+| **Cười Lên Cười Lên** (VI v1) | `lumina-useo-useo-vietnamese-suno.md` |
+| **웃어 웃어 5어 색인** | `lumina-useo-useo-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
