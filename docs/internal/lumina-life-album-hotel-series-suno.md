@@ -277,6 +277,12 @@
 | **パンダよ 泣かないで** (JA v1) | `lumina-pandaya-uljima-japanese-suno.md` |
 | **Gấu Trúc Ơi Đừng Khóc** (VI v1) | `lumina-pandaya-uljima-vietnamese-suno.md` |
 | **판다야 울지마 5어 색인** | `lumina-pandaya-uljima-multilingual-suno.md` |
+| **기억 지우개** (KO v1 · 1-2) | `lumina-gieok-jiugae-suno.md` |
+| **记忆橡皮擦** (ZH v1) | `lumina-gieok-jiugae-chinese-suno.md` |
+| **Memory Eraser** (EN v1) | `lumina-gieok-jiugae-english-suno.md` |
+| **記憶の消しゴム** (JA v1) | `lumina-gieok-jiugae-japanese-suno.md` |
+| **Cục Tẩy Ký Ức** (VI v1) | `lumina-gieok-jiugae-vietnamese-suno.md` |
+| **기억 지우개 5어 색인** | `lumina-gieok-jiugae-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
