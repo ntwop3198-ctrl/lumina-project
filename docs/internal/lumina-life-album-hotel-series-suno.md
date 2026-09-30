@@ -325,6 +325,12 @@
 | **しぼんでまた咲く花** (JA v1) | `lumina-omeuryeotda-pineun-kkot-japanese-suno.md` |
 | **Đóa Hoa Khép Rồi Lại Nở** (VI v1) | `lumina-omeuryeotda-pineun-kkot-vietnamese-suno.md` |
 | **오므렸다 피는 꽃 5어 색인** | `lumina-omeuryeotda-pineun-kkot-multilingual-suno.md` |
+| **말문** (KO v1 · 4-2) | `lumina-malmun-suno.md` |
+| **话到嘴边** (ZH v1) | `lumina-malmun-chinese-suno.md` |
+| **Lost for Words** (EN v1) | `lumina-malmun-english-suno.md` |
+| **言葉につまる** (JA v1) | `lumina-malmun-japanese-suno.md` |
+| **Lặng Lời** (VI v1) | `lumina-malmun-vietnamese-suno.md` |
+| **말문 5어 색인** | `lumina-malmun-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
