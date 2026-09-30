@@ -361,6 +361,9 @@
 | **会いたいよ 娘よ** (JA v1) | `lumina-bogo-sipda-ddala-japanese-suno.md` |
 | **Bố Nhớ Con Gái** (VI v1) | `lumina-bogo-sipda-ddala-vietnamese-suno.md` |
 | **보고 싶다 딸아 5어 색인** | `lumina-bogo-sipda-ddala-multilingual-suno.md` |
+| **전생 원수** (KO v1 · 1-1 · VI만) | `lumina-jeonsaeng-wonsu-suno.md` |
+| **Oan Gia Kiếp Trước** (VI v1) | `lumina-jeonsaeng-wonsu-vietnamese-suno.md` |
+| **전생 원수 KO·VI 색인** | `lumina-jeonsaeng-wonsu-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
