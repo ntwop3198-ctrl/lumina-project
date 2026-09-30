@@ -319,6 +319,12 @@
 | **道が少しずれただけ** (JA v1) | `lumina-giri-jom-eogeunnasseul-ppun-japanese-suno.md` |
 | **Chỉ Là Lệch Đường Một Chút** (VI v1) | `lumina-giri-jom-eogeunnasseul-ppun-vietnamese-suno.md` |
 | **길이 좀 어긋났을 뿐 5어 색인** | `lumina-giri-jom-eogeunnasseul-ppun-multilingual-suno.md` |
+| **오므렸다 피는 꽃** (KO v1 · 4-2) | `lumina-omeuryeotda-pineun-kkot-suno.md` |
+| **合起又绽放的花** (ZH v1) | `lumina-omeuryeotda-pineun-kkot-chinese-suno.md` |
+| **The Flower That Closes and Blooms** (EN v1) | `lumina-omeuryeotda-pineun-kkot-english-suno.md` |
+| **しぼんでまた咲く花** (JA v1) | `lumina-omeuryeotda-pineun-kkot-japanese-suno.md` |
+| **Đóa Hoa Khép Rồi Lại Nở** (VI v1) | `lumina-omeuryeotda-pineun-kkot-vietnamese-suno.md` |
+| **오므렸다 피는 꽃 5어 색인** | `lumina-omeuryeotda-pineun-kkot-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
