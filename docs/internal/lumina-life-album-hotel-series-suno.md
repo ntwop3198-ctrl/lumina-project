@@ -369,6 +369,11 @@
 | **君はいつ僕と行くのか** (JA v1) | `lumina-wenqing-heshi-sui-wo-zou-japanese-suno.md` |
 | **Hỏi Em Bao Giờ Theo Anh Đi** (VI v1) | `lumina-wenqing-heshi-sui-wo-zou-vietnamese-suno.md` |
 | **问卿何时随我走 4어 색인** | `lumina-wenqing-heshi-sui-wo-zou-multilingual-suno.md` |
+| **반 마지기 밭을 한평생** (KO v1 · 1-1 · 半亩良田一生守) | `lumina-banmu-liangtian-yishengshou-suno.md` |
+| **Half an Acre, a Lifetime Kept** (EN v1) | `lumina-banmu-liangtian-yishengshou-english-suno.md` |
+| **半畝の田を 一生守る** (JA v1) | `lumina-banmu-liangtian-yishengshou-japanese-suno.md` |
+| **Nửa Mẫu Ruộng Giữ Trọn Đời** (VI v1) | `lumina-banmu-liangtian-yishengshou-vietnamese-suno.md` |
+| **半亩良田一生守 4어 색인** | `lumina-banmu-liangtian-yishengshou-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
