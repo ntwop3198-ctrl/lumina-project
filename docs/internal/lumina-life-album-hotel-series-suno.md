@@ -379,6 +379,11 @@
 | **茶碗一杯の酒** (JA v1) | `lumina-yiwanjiu-japanese-suno.md` |
 | **Một Bát Rượu** (VI v1) | `lumina-yiwanjiu-vietnamese-suno.md` |
 | **一碗酒 4어 색인** | `lumina-yiwanjiu-multilingual-suno.md` |
+| **남은 그 한 사람** (KO v1 · 2-4 · 剩下的那一个) | `lumina-shengxiade-nayige-suno.md` |
+| **The One Who Stayed** (EN v1) | `lumina-shengxiade-nayige-english-suno.md` |
+| **残ったひとり** (JA v1) | `lumina-shengxiade-nayige-japanese-suno.md` |
+| **Người Còn Lại** (VI v1) | `lumina-shengxiade-nayige-vietnamese-suno.md` |
+| **剩下的那一个 4어 색인** | `lumina-shengxiade-nayige-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
