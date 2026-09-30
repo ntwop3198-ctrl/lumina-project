@@ -1,7 +1,8 @@
 # 如你本来 (Just As You Are ·  있는 그대로)
 
 > **있는 그대로** 中文 의역版 · Acoustic Ballad · 2026-06-12  
-> 언어 **简体中文 100%** · 한국어 원곡: `lumina-just-as-you-are-korean-suno.md`
+> 언어 **简体中文 100%** · 한국어 원곡: `lumina-just-as-you-are-korean-suno.md`  
+> 제목 **如你本来** · 你本属于自己 **폐기** · 本来的你는 후렴 훅과 안 맞음
 
 ---
 

@@ -24,7 +24,7 @@
 
 | 곡 | 문서 |
 |----|------|
-| 있는 그대로 (+ 5개국어) | `lumina-just-as-you-are-korean-suno.md` |
+| 있는 그대로 (+ 5개국어 · 1-4) | `lumina-just-as-you-are-korean-suno.md` |
 | 고무신 | `lumina-gomu-shin-taiwan-girl-suno.md` |
 | 낙엽 지듯 | `lumina-autumn-leaves-like-fall-suno.md` |
 | 완이화 | `lumina-wan-e-hwa-suno.md` |
@@ -395,6 +395,8 @@
 | **会うたびに** (JA v1) | `lumina-mannalsurok-japanese-suno.md` |
 | **Mỗi Lần Gặp Nhau** (VI v1) | `lumina-mannalsurok-vietnamese-suno.md` |
 | **만날수록 5어 색인** | `lumina-mannalsurok-multilingual-suno.md` |
+| **1축 제목 판교** (가시내·1-3 없음) | `lumina-suno-title-list-axis1.md` |
+| **부르하통하의 가시내** (KO 혼용 · 1-2) | `lumina-bulatongha-thorn-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |

@@ -19,6 +19,7 @@
 |------|------|
 | 매대 | **4-2 안부** — 길을 돌아도 가고 있다고 다독이는 말. **1-3 칸은 매대 정본에 없다**. **2-4 인생 잠언 아님**. **스무 살의 문 앞에서**(4-2)와 **다른 곡**. |
 | A안 | 只是路走偏了一点 / Just a Little Off the Path / 道が少しずれただけ / Chỉ Là Lệch Đường Một Chút · 전문 |
+| ZH 제목 | **只是路走偏了一点** · 只是不顺路는 이별로 읽힘 · **폐기** |
 | B안 | 道が少し外れただけ / Chỉ Là Lạc Lối Đôi Chút · `(English translation of Verse 1)` 자리표시 · 스타일에 빼기 항목 잔류 · **폐기** |
 | 브리지 | 구소구고구기 · 진공묘유 **없음** · 넣지 않음 |
 | 인트로·아웃트로 | `(acoustic guitar only)` → `[Acoustic guitar only]` · `(guitar fade out)` → `[Guitar fade out]` |
