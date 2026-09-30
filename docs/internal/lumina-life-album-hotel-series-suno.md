@@ -313,6 +313,12 @@
 | **痛みも贈り物だった** (JA v1) | `lumina-apeumdo-seonmurieosseo-japanese-suno.md` |
 | **Nỗi Đau Cũng Là Món Quà** (VI v1) | `lumina-apeumdo-seonmurieosseo-vietnamese-suno.md` |
 | **아픔도 선물이었어 5어 색인** | `lumina-apeumdo-seonmurieosseo-multilingual-suno.md` |
+| **길이 좀 어긋났을 뿐** (KO v1 · 4-2) | `lumina-giri-jom-eogeunnasseul-ppun-suno.md` |
+| **只是路走偏了一点** (ZH v1) | `lumina-giri-jom-eogeunnasseul-ppun-chinese-suno.md` |
+| **Just a Little Off the Path** (EN v1) | `lumina-giri-jom-eogeunnasseul-ppun-english-suno.md` |
+| **道が少しずれただけ** (JA v1) | `lumina-giri-jom-eogeunnasseul-ppun-japanese-suno.md` |
+| **Chỉ Là Lệch Đường Một Chút** (VI v1) | `lumina-giri-jom-eogeunnasseul-ppun-vietnamese-suno.md` |
+| **길이 좀 어긋났을 뿐 5어 색인** | `lumina-giri-jom-eogeunnasseul-ppun-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
