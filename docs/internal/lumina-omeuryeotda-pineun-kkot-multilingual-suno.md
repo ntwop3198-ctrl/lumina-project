@@ -19,7 +19,7 @@
 |------|------|
 | 매대 | **4-2 안부** — 오므려도 괜찮다고 다독이는 말. **1-3 칸은 매대 정본에 없다**. **길이 좀 어긋났을 뿐**(4-2)과 **다른 곡**. |
 | A안 | 合起又绽放的花 / The Flower That Closes and Blooms / しぼんでまた咲く花 / Đóa Hoa Khép Rồi Lại Nở · 전문 |
-| B안 | 聚拢复绽的花 / The Flower That Folds / つぼんで咲く花 / Hoa Khép Rồi Nở · 장황한 발췌 · **폐기** |
+| B안 | 聚拢复绽的花 / The Flower That Folds / つぼんで咲く花 / Hoa Khép Rồi Nở · A Flower That Closes to Bloom (The Dandelion's Rain) / 闭合只为再盛开 (雨中的蒲公英) / つぼみのまま、また咲く花 (雨の日のたんぽぽ) / Khép Lại Để Lại Nở Hoa (Bồ Công Anh Dưới Mưa) · healing·J-pop·Chinese acoustic 스타일 · 장황한 발췌 · **폐기** |
 | 브리지 | 구소구고구기 · 진공묘유 **없음** · 넣지 않음 |
 | 구역 표시 | `[Intro: soft piano and acoustic guitar]` · `[Interlude: piano]` · `[Outro: piano fading]` · `[End]` 원곡대로 |
 | 스타일 | `acoustic pop ballad` · Korean 표기 **아님** · 빼기 항목은 **제외 스타일** · `70bpm` |
