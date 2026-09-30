@@ -1,6 +1,22 @@
 # 부르하통하의 가시내 (화방 아가씨에게 · 다국어 통합)
 
-> Suno 붙여넣기용 · 한국어 위주
+> Suno 붙여넣기용 · 한국어 위주  
+> **1-2 이별** · 가시내 = 아가씨 · 刺/thorn/とげ/Gai **폐기** (2026-09-30)  
+> 파일명 `thorn`은 옛 오역 잔재다. 제목·가사에서 쓰지 않는다.
+
+## Title
+
+| 어 | DistroKid·Suno |
+|----|----------------|
+| KO | **부르하통하의 가시내** |
+| ZH | **布尔哈通河的姑娘** |
+| EN | **The Girl by the Buerhatong River** |
+| JA | **ブルハトン河の娘** |
+| VI | **Cô Gái Bên Sông Bu'erhatong** |
+
+```
+부르하통하의 가시내
+```
 
 ## Style
 
@@ -35,19 +51,19 @@ Chinese root rock, folk rock, electric guitar riff, trumpet, earthy, serenade, m
 米尼啊, 你想让我留下吗
 我怕你会, 变得可怜
 从韩国回来, 连眼神都不给
-把我的魂, 抛下又捡起的河边刺
+把我的魂, 抛下又捡起的河边姑娘
 
 [Chorus - EN]
 Mini, did you want me to stay
 I feared you'd grow too pitiful
 After Korea you would not meet my eyes
-A riverside thorn that lifted up my soul and let it fall
+A riverside girl that lifted up my soul and let it fall
 
 [Chorus - JP]
 ミニよ, 僕を留めたかったのか
 君が情けなくなるのが, 怖かった
 韓国から帰って, 目も合わせず
-魂を持ち上げ, 置き去りにした川辺のとげ
+魂を持ち上げ, 置き去りにした川辺の娘
 
 [Verse 2]
 길었던 여름방학, 보고 싶어 미쳤던 날
@@ -116,19 +132,19 @@ I quietly hold that season's you
 그 시절의 너를, 강물에 흘려보낸다
 
 [Final Chorus - ZH]
-米尼啊, 不再叫你带刺的姑娘
+米尼啊, 不再叫你坏丫头
 布尔哈通河的晚霞, 还在燃烧
 什么也不问, 只微微一笑
 把那个时代的你, 交给流水
 
 [Final Chorus - EN]
-Mini, I won't call you thorn girl anymore
+Mini, I won't call you a bad girl anymore
 Bulatongha's sunset still burns red
 I ask for nothing, only smile and let go
 That season's you, I send down the river
 
 [Final Chorus - JP]
-ミニよ, とげ娘とは呼ばない
+ミニよ, 悪い娘とは呼ばない
 ブルハトンハの夕焼け, まだ赤く燃えて
 何も問わず, 微笑むだけ
 あの頃の君を, 川に流す
@@ -195,9 +211,9 @@ No resentment now, no bitter blame
 
 [Final Chorus]
 미니야, 나쁜 가시내라 부르지 않을게
-米尼啊, 不再叫你带刺的姑娘
-Mini, I won't call you thorn girl anymore
-ミニよ, とげ娘とは呼ばない
+米尼啊, 不再叫你坏丫头
+Mini, I won't call you a bad girl anymore
+ミニよ, 悪い娘とは呼ばない
 부르하통하 노을, 강물에 흘려보낸다
 
 [Outro]

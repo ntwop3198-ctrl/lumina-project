@@ -19,6 +19,7 @@
 |------|------|
 | 매대 | **1-2 이별** — 지울 수 없는 그리움. **11-4 수면·쉼 아님**. |
 | A안 | 遗忘咒 / New Obliviator / 忘却の呪文 / Thần Chú Lãng Quên · 전문 |
+| VI 제목 | **Thần Chú Lãng Quên** 유지 · DistroKid 병기 `(New Obliviator)`는 유통 때 선택 |
 | B안 | 전 어 New Obliviator · [Build-up] [Fading Out] [My precious one] · 발췌 · **폐기** |
 | 후렴 주문 | KO **오블리비아테** · 번역판 **Obliviate** 영어 철자 |
 | 브리지 | **구소구고구기** · **진공묘유** 한글 |
