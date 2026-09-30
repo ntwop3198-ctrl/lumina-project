@@ -364,6 +364,11 @@
 | **전생 원수** (KO v1 · 1-1 · VI만) | `lumina-jeonsaeng-wonsu-suno.md` |
 | **Oan Gia Kiếp Trước** (VI v1) | `lumina-jeonsaeng-wonsu-vietnamese-suno.md` |
 | **전생 원수 KO·VI 색인** | `lumina-jeonsaeng-wonsu-multilingual-suno.md` |
+| **그대 언제 나를 따라가려오** (KO v1 · 1-1 · 问卿何时随我走) | `lumina-wenqing-heshi-sui-wo-zou-suno.md` |
+| **Tell Me When You'll Come With Me** (EN v1) | `lumina-wenqing-heshi-sui-wo-zou-english-suno.md` |
+| **君はいつ僕と行くのか** (JA v1) | `lumina-wenqing-heshi-sui-wo-zou-japanese-suno.md` |
+| **Hỏi Em Bao Giờ Theo Anh Đi** (VI v1) | `lumina-wenqing-heshi-sui-wo-zou-vietnamese-suno.md` |
+| **问卿何时随我走 4어 색인** | `lumina-wenqing-heshi-sui-wo-zou-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
