@@ -331,6 +331,12 @@
 | **言葉につまる** (JA v1) | `lumina-malmun-japanese-suno.md` |
 | **Lặng Lời** (VI v1) | `lumina-malmun-vietnamese-suno.md` |
 | **말문 5어 색인** | `lumina-malmun-multilingual-suno.md` |
+| **천년만년 너 하나만** (KO v1 · 1-1) | `lumina-cheonnyeonmannyeon-neo-hanaman-suno.md` |
+| **千年万年只有你** (ZH v1) | `lumina-cheonnyeonmannyeon-neo-hanaman-chinese-suno.md` |
+| **Only You for a Thousand Years** (EN v1) | `lumina-cheonnyeonmannyeon-neo-hanaman-english-suno.md` |
+| **千年万年 お前ひとり** (JA v1) | `lumina-cheonnyeonmannyeon-neo-hanaman-japanese-suno.md` |
+| **Ngàn Năm Vạn Năm Chỉ Mình Em** (VI v1) | `lumina-cheonnyeonmannyeon-neo-hanaman-vietnamese-suno.md` |
+| **천년만년 너 하나만 5어 색인** | `lumina-cheonnyeonmannyeon-neo-hanaman-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
