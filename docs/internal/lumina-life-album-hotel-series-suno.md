@@ -301,6 +301,12 @@
 | **もう一度書く僕ら** (JA v1) | `lumina-dasi-sseuneun-uri-japanese-suno.md` |
 | **Viết Lại Chúng Ta** (VI v1) | `lumina-dasi-sseuneun-uri-vietnamese-suno.md` |
 | **다시 쓰는 우리 5어 색인** | `lumina-dasi-sseuneun-uri-multilingual-suno.md` |
+| **스무 살의 문 앞에서** (KO v1 · 4-2) | `lumina-seumusarui-mun-apeseo-suno.md` |
+| **在二十岁的门前** (ZH v1) | `lumina-seumusarui-mun-apeseo-chinese-suno.md` |
+| **At the Door of Twenty** (EN v1) | `lumina-seumusarui-mun-apeseo-english-suno.md` |
+| **二十歳の扉の前で** (JA v1) | `lumina-seumusarui-mun-apeseo-japanese-suno.md` |
+| **Trước Cánh Cửa Tuổi Hai Mươi** (VI v1) | `lumina-seumusarui-mun-apeseo-vietnamese-suno.md` |
+| **스무 살의 문 앞에서 5어 색인** | `lumina-seumusarui-mun-apeseo-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
