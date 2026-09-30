@@ -374,6 +374,11 @@
 | **半畝の田を 一生守る** (JA v1) | `lumina-banmu-liangtian-yishengshou-japanese-suno.md` |
 | **Nửa Mẫu Ruộng Giữ Trọn Đời** (VI v1) | `lumina-banmu-liangtian-yishengshou-vietnamese-suno.md` |
 | **半亩良田一生守 4어 색인** | `lumina-banmu-liangtian-yishengshou-multilingual-suno.md` |
+| **술 한 사발** (KO v1 · 4-2 · 一碗酒) | `lumina-yiwanjiu-suno.md` |
+| **One Bowl of Wine** (EN v1) | `lumina-yiwanjiu-english-suno.md` |
+| **茶碗一杯の酒** (JA v1) | `lumina-yiwanjiu-japanese-suno.md` |
+| **Một Bát Rượu** (VI v1) | `lumina-yiwanjiu-vietnamese-suno.md` |
+| **一碗酒 4어 색인** | `lumina-yiwanjiu-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
