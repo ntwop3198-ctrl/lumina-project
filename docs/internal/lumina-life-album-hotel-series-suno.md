@@ -384,6 +384,11 @@
 | **残ったひとり** (JA v1) | `lumina-shengxiade-nayige-japanese-suno.md` |
 | **Người Còn Lại** (VI v1) | `lumina-shengxiade-nayige-vietnamese-suno.md` |
 | **剩下的那一个 4어 색인** | `lumina-shengxiade-nayige-multilingual-suno.md` |
+| **진심으로 당신을 사랑했소** (KO v1 · 1-2 · 我真心爱过你) | `lumina-wozhenxin-aiguoni-suno.md` |
+| **I Truly Loved You** (EN v1) | `lumina-wozhenxin-aiguoni-english-suno.md` |
+| **本気でお前を愛していた** (JA v1) | `lumina-wozhenxin-aiguoni-japanese-suno.md` |
+| **Anh Đã Thật Lòng Yêu Em** (VI v1) | `lumina-wozhenxin-aiguoni-vietnamese-suno.md` |
+| **我真心爱过你 4어 색인** | `lumina-wozhenxin-aiguoni-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
