@@ -337,6 +337,12 @@
 | **千年万年 お前ひとり** (JA v1) | `lumina-cheonnyeonmannyeon-neo-hanaman-japanese-suno.md` |
 | **Ngàn Năm Vạn Năm Chỉ Mình Em** (VI v1) | `lumina-cheonnyeonmannyeon-neo-hanaman-vietnamese-suno.md` |
 | **천년만년 너 하나만 5어 색인** | `lumina-cheonnyeonmannyeon-neo-hanaman-multilingual-suno.md` |
+| **어머니 보고 싶습니다** (KO v1 · 1-4) | `lumina-eomeoni-bogo-sipseumnida-suno.md` |
+| **妈妈，我想您** (ZH v1) | `lumina-eomeoni-bogo-sipseumnida-chinese-suno.md` |
+| **I Miss You, Mother** (EN v1) | `lumina-eomeoni-bogo-sipseumnida-english-suno.md` |
+| **母さん、会いたいです** (JA v1) | `lumina-eomeoni-bogo-sipseumnida-japanese-suno.md` |
+| **Mẹ Ơi, Con Nhớ Mẹ** (VI v1) | `lumina-eomeoni-bogo-sipseumnida-vietnamese-suno.md` |
+| **어머니 보고 싶습니다 5어 색인** | `lumina-eomeoni-bogo-sipseumnida-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
