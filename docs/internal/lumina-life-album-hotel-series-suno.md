@@ -343,6 +343,12 @@
 | **母さん、会いたいです** (JA v1) | `lumina-eomeoni-bogo-sipseumnida-japanese-suno.md` |
 | **Mẹ Ơi, Con Nhớ Mẹ** (VI v1) | `lumina-eomeoni-bogo-sipseumnida-vietnamese-suno.md` |
 | **어머니 보고 싶습니다 5어 색인** | `lumina-eomeoni-bogo-sipseumnida-multilingual-suno.md` |
+| **미안하다 내 딸아** (KO v1 · 1-4) | `lumina-mianhada-nae-ttara-suno.md` |
+| **对不起 我的女儿** (ZH v1) | `lumina-mianhada-nae-ttara-chinese-suno.md` |
+| **I'm Sorry, My Daughter** (EN v1) | `lumina-mianhada-nae-ttara-english-suno.md` |
+| **ごめんな 娘よ** (JA v1) | `lumina-mianhada-nae-ttara-japanese-suno.md` |
+| **Bố Xin Lỗi Con Gái** (VI v1) | `lumina-mianhada-nae-ttara-vietnamese-suno.md` |
+| **미안하다 내 딸아 5어 색인** | `lumina-mianhada-nae-ttara-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
