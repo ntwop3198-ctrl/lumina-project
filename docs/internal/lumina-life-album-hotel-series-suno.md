@@ -349,6 +349,12 @@
 | **ごめんな 娘よ** (JA v1) | `lumina-mianhada-nae-ttara-japanese-suno.md` |
 | **Bố Xin Lỗi Con Gái** (VI v1) | `lumina-mianhada-nae-ttara-vietnamese-suno.md` |
 | **미안하다 내 딸아 5어 색인** | `lumina-mianhada-nae-ttara-multilingual-suno.md` |
+| **꽃길만 걸어라** (KO v1 · 1-4) | `lumina-kkotgilman-georeora-suno.md` |
+| **愿你只走花路** (ZH v1) | `lumina-kkotgilman-georeora-chinese-suno.md` |
+| **Walk Only on Flower Paths** (EN v1) | `lumina-kkotgilman-georeora-english-suno.md` |
+| **花道だけを歩いてくれ** (JA v1) | `lumina-kkotgilman-georeora-japanese-suno.md` |
+| **Con Chỉ Bước Trên Đường Hoa** (VI v1) | `lumina-kkotgilman-georeora-vietnamese-suno.md` |
+| **꽃길만 걸어라 5어 색인** | `lumina-kkotgilman-georeora-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
