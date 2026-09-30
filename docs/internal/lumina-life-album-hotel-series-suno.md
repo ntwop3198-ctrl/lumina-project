@@ -389,6 +389,12 @@
 | **本気でお前を愛していた** (JA v1) | `lumina-wozhenxin-aiguoni-japanese-suno.md` |
 | **Anh Đã Thật Lòng Yêu Em** (VI v1) | `lumina-wozhenxin-aiguoni-vietnamese-suno.md` |
 | **我真心爱过你 4어 색인** | `lumina-wozhenxin-aiguoni-multilingual-suno.md` |
+| **만날수록** (KO v1 · 2-4) | `lumina-mannalsurok-suno.md` |
+| **越见情越厚** (ZH v1) | `lumina-mannalsurok-chinese-suno.md` |
+| **The More We Meet** (EN v1) | `lumina-mannalsurok-english-suno.md` |
+| **会うたびに** (JA v1) | `lumina-mannalsurok-japanese-suno.md` |
+| **Mỗi Lần Gặp Nhau** (VI v1) | `lumina-mannalsurok-vietnamese-suno.md` |
+| **만날수록 5어 색인** | `lumina-mannalsurok-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
