@@ -403,6 +403,12 @@
 | **ミサイルも空なり** (JA v1) | `lumina-misaildo-gong-japanese-suno.md` |
 | **Tên Lửa Cũng Là Không** (VI v1) | `lumina-misaildo-gong-vietnamese-suno.md` |
 | **미사일도 공이다 5어 색인** | `lumina-misaildo-gong-multilingual-suno.md` |
+| **맛있는 약속** (KO v1 · 브랜드송 · 컴포즈커피) | `lumina-masissneun-yaksok-suno.md` |
+| **美味的约定** (ZH v1) | `lumina-masissneun-yaksok-chinese-suno.md` |
+| **A Delicious Promise** (EN v1) | `lumina-masissneun-yaksok-english-suno.md` |
+| **おいしい約束** (JA v1) | `lumina-masissneun-yaksok-japanese-suno.md` |
+| **Lời Hứa Ngon Lành** (VI v1) | `lumina-masissneun-yaksok-vietnamese-suno.md` |
+| **맛있는 약속 5어 색인** | `lumina-masissneun-yaksok-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
