@@ -397,6 +397,12 @@
 | **만날수록 5어 색인** | `lumina-mannalsurok-multilingual-suno.md` |
 | **1축 제목 판교** (가시내·1-3 없음) | `lumina-suno-title-list-axis1.md` |
 | **부르하통하의 가시내** (KO 혼용 · 1-2) | `lumina-bulatongha-thorn-multilingual-suno.md` |
+| **미사일도 공이다** (KO v1 · 2-3) | `lumina-misaildo-gong-suno.md` |
+| **导弹也是空** (ZH v1) | `lumina-misaildo-gong-chinese-suno.md` |
+| **Even Missiles Are Empty** (EN v1) | `lumina-misaildo-gong-english-suno.md` |
+| **ミサイルも空なり** (JA v1) | `lumina-misaildo-gong-japanese-suno.md` |
+| **Tên Lửa Cũng Là Không** (VI v1) | `lumina-misaildo-gong-vietnamese-suno.md` |
+| **미사일도 공이다 5어 색인** | `lumina-misaildo-gong-multilingual-suno.md` |
 | **財不入髒門** (한·중 v1.1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-suno.md` |
 | **財不入髒門** (ZH v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-chinese-suno.md` |
 | **Wealth Does Not Enter a Dirty Gate** (EN v1) | `lumina-caiburuzangmen-wealth-not-dirty-gate-english-suno.md` |
