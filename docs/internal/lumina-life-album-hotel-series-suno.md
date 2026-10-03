@@ -164,6 +164,7 @@
 | **루미나뮤직 14축 매대 정본** | `lumina-music-14-axis-shelf.md` |
 | **Suno 매대 설명서** (14축 아래) | `lumina-suno-shelf-taxonomy.md` |
 | **10·12 짧은 이름 폐기** | `lumina-axis-10-12-taxonomy-lock.md` |
+| **옛 곡 「없다」꼬리표 검토표** | `lumina-14-axis-old-tag-review.md` |
 | **잊어야만 하는데** (KO v1 · 1-2) | `lumina-ijeoyaman-haneunde-suno.md` |
 | **I Should Forget** (EN v1) | `lumina-ijeoyaman-haneunde-english-suno.md` |
 | **忘れなきゃいけないのに** (JA v1) | `lumina-ijeoyaman-haneunde-japanese-suno.md` |
