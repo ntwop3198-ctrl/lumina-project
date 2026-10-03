@@ -1,6 +1,6 @@
 # 爱的伤痕 (사랑의 상처 · Scars of Love · 中文)
 
-> **离别 · 回忆 · 心内之灯** · **简体中文 100%**  
+> **1-2 이별·그리움 · 离别 · 回忆 · 心内之灯** · **简体中文 100%**  
 > **v4 Suno 作业用最终** (제목 확정) · 2026-06-17  
 > 副题: *Scars of Love · 爱的伤痕*  
 > KO: `lumina-sarang-ui-heunjeok-traces-of-love-suno.md` (v4)  

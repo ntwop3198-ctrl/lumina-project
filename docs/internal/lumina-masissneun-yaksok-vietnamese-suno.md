@@ -1,6 +1,6 @@
 # Lời Hứa Ngon Lành
 
-> **브랜드송 · 컴포즈커피 · 맛있는 약속 5어 · 구소구고구기 · 진공묘유** · Bolero ballad · **88 bpm** · **VI v1**  
+> **13 브랜드 헌정 · 컴포즈커피 · 맛있는 약속 5어 · 구소구고구기 · 진공묘유** · Bolero ballad · **88 bpm** · **VI v1**  
 > **v1 Suno 작업용 최종** (멘티 VI A안 + Cursor 판교) · 2026-10-01  
 > KO: `lumina-masissneun-yaksok-suno.md`  
 > 색인: `lumina-masissneun-yaksok-multilingual-suno.md`  
@@ -96,5 +96,5 @@ Hôm nay vẫn vẹn nguyên giữ trọn
 
 | Item | State |
 |------|-------|
-| **VI v1** | **브랜드송 잠금** |
+| **VI v1** | **13 브랜드 헌정 잠금** |
 | 品牌歌 | **컴포즈커피** |

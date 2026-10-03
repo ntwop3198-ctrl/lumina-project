@@ -1,6 +1,6 @@
 # One Bowl of Wine
 
-> **4-2 안부 · 一碗酒 4어** · Northern folk ballad · **74 bpm** · **EN v1**  
+> **2-4 인생 잠언 · 一碗酒 4어** · Northern folk ballad · **74 bpm** · **EN v1**  
 > **v1 Suno 작업용 최종** (멘티 EN 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-yiwanjiu-suno.md`  
 > 색인: `lumina-yiwanjiu-multilingual-suno.md`  
@@ -119,5 +119,5 @@ With someone beside you it isn't over
 
 | Item | State |
 |------|-------|
-| **EN v1** | **4-2 잠금** |
+| **EN v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |

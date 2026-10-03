@@ -1,6 +1,6 @@
 # 길이 좀 어긋났을 뿐
 
-> **4-2 안부 · 오늘 하루** · Folk ballad · **72 bpm** · **KO v1**  
+> **1-3 위로·치유 · 오늘 하루** · Folk ballad · **72 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘토 원곡 + Cursor 판교) · 2026-09-30  
 > ZH: `lumina-giri-jom-eogeunnasseul-ppun-chinese-suno.md`  
 > EN: `lumina-giri-jom-eogeunnasseul-ppun-english-suno.md`  
@@ -106,7 +106,7 @@ EDM, trap, rap, autotune, heavy drums, aggressive rock, trot, choir, over-emotio
 | **구소구고구기 · 진공묘유** | **없음** · 넣지 않음 |
 | **인트로·아웃트로** | `(acoustic guitar only)` → `[Acoustic guitar only]` · `(guitar fade out)` → `[Guitar fade out]` |
 | **스타일** | `folk ballad` · Korean 표기 **아님** · 빼기 항목은 **제외 스타일**로 |
-| **매대** | **4-2 안부** · 1-3 칸 **없음** · **2-4 인생 잠언 아님** · **스무 살의 문 앞에서**(4-2)와 **다른 곡** |
+| **매대** | **1-3 위로·치유** · **2-4 인생 잠언 아님** · **스무 살의 문 앞에서**(1-3)와 **다른 곡** |
 
 ---
 
@@ -114,5 +114,5 @@ EDM, trap, rap, autotune, heavy drums, aggressive rock, trot, choir, over-emotio
 
 | Item | State |
 |------|-------|
-| **KO v1** | **4-2 잠금** |
+| **KO v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

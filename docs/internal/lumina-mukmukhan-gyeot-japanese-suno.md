@@ -1,6 +1,6 @@
 # 黙ってそばに（聴く人）
 
-> **4-2 안부 · 묵묵한 곁 5어 · 구소구고구기 · 진공묘유** · Warm acoustic folk ballad · **72 bpm** · **JA v1**  
+> **1-3 위로·치유 · 묵묵한 곁 5어 · 구소구고구기 · 진공묘유** · Warm acoustic folk ballad · **72 bpm** · **JA v1**  
 > **v1 Suno 작업용 최종** (멘티 JA 초안 + Cursor 판교) · 2026-09-29  
 > KO: `lumina-mukmukhan-gyeot-suno.md`  
 > 색인: `lumina-mukmukhan-gyeot-multilingual-suno.md`  
@@ -113,5 +113,5 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, power ballad, 
 
 | Item | State |
 |------|-------|
-| **JA v1** | **4-2 잠금** |
+| **JA v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

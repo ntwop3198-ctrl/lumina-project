@@ -1,6 +1,6 @@
 # 맛있는 약속
 
-> **브랜드송 · 컴포즈커피 · 구소구고구기 · 진공묘유** · Warm retro ballad · **88 bpm** · **KO v1**  
+> **13 브랜드 헌정 · 컴포즈커피 · 구소구고구기 · 진공묘유** · Warm retro ballad · **88 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘티 A안 뼈대 + 후렴 힌트 + Cursor 판교) · 2026-10-01  
 > ZH: `lumina-masissneun-yaksok-chinese-suno.md`  
 > EN: `lumina-masissneun-yaksok-english-suno.md`  
@@ -89,7 +89,7 @@ rap, EDM, heavy metal, autotune, screaming, trap, female vocal, rock, heavy drum
 | 원칙 | 본문 |
 |------|------|
 | **브랜드송** | **컴포즈커피** · 멘티 지시 · 상호 있음 |
-| **매대 번호** | **13 칸 없음**. 꼬리표는 **브랜드송 · 컴포즈커피 · 한국어판** |
+| **매대 번호** | **13 브랜드 헌정**. 꼬리표는 **13 브랜드 헌정 · 컴포즈커피 · 한국어판** |
 | **구소구고구기 · 진공묘유** | 브리지 **한글** · 求小求苦求己 · 真空妙有 **아님** |
 | **상호** | 후렴 **Compose Coffee** · Compose |
 | **얼씨구 좋다 절씨구 좋다** | KO 흥 구호 · 번역판은 각 언어 흥 구호 |
@@ -102,5 +102,5 @@ rap, EDM, heavy metal, autotune, screaming, trap, female vocal, rock, heavy drum
 
 | Item | State |
 |------|-------|
-| **KO v1** | **브랜드송 잠금** |
+| **KO v1** | **13 브랜드 헌정 잠금** |
 | 品牌歌 | **컴포즈커피** |

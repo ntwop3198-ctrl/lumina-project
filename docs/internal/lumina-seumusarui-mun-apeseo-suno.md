@@ -1,6 +1,6 @@
 # 스무 살의 문 앞에서
 
-> **4-2 안부 · 스무 살 · 구소구고구기 · 진공묘유** · Healing ballad · **82 bpm** · **KO v1**  
+> **1-3 위로·치유 · 스무 살 · 구소구고구기 · 진공묘유** · Healing ballad · **82 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘토 원곡 + Cursor 판교) · 2026-09-30  
 > ZH: `lumina-seumusarui-mun-apeseo-chinese-suno.md`  
 > EN: `lumina-seumusarui-mun-apeseo-english-suno.md`  
@@ -121,7 +121,7 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, K-pop
 | **인트로·아웃트로** | `(잔잔한 피아노, 낮은 현악)` → `[Gentle piano, low strings]` · `(잔잔하게 fade out)` → `[Gentle fade out]` |
 | **호칭** | 후렴까지 **너** · 아웃트로 **당신** |
 | **스타일** | `healing ballad` · Korean 표기 **아님** · healing은 분위기 |
-| **매대** | **4-2 안부** · 1-3 칸 **없음** · **문 앞에 서서**(1-2)와 **다른 곡** · 1-4 가족애 **아님** |
+| **매대** | **1-3 위로·치유** · **문 앞에 서서**(1-2)와 **다른 곡** · 1-4 가족애 **아님** |
 
 ---
 
@@ -129,5 +129,5 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, K-pop
 
 | Item | State |
 |------|-------|
-| **KO v1** | **4-2 잠금** |
+| **KO v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

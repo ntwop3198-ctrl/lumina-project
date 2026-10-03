@@ -17,7 +17,7 @@
 
 | 항목 | 잠금 |
 |------|------|
-| 매대 | **2-3 성찰·초월** — 집착을 내려놓으면 미사일도 공. **7-1 불교 칸은 매대 정본에 없다**. **2-4 인생 잠언 아님**. 효능·평화 약속 **아님**. |
+| 매대 | **2-3 성찰·초월** — 집착을 내려놓으면 미사일도 공. **2-4 인생 잠언 아님**. 효능·평화 약속 **아님**. |
 | A안 | 导弹也是空 / Even Missiles Are Empty / ミサイルも空なり / Tên Lửa Cũng Là Không · 전문 |
 | B안 | Even Missiles Are Emptiness (Sunyata) / 导弹也是空 (Missiles Are Also Emptiness) / ミサイルも空（くう）である / Tên Lửa Cũng Là Không (Missiles Are Also Void) · 空（くう）· 虚舟（…）괄호 · 祖先 · người ông · cõi Không · **폐기** |
 | 공 | KO **공** · ZH **空** · EN **empty** · JA 가사 **くう** · VI **không**. 가사에 `(空)` 없음. |

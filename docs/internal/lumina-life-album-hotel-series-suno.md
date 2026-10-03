@@ -161,7 +161,10 @@
 | **他人か恋人か** (JA v1) | `lumina-namira-nimira-japanese-suno.md` |
 | **Người Dưng Hay Người Thương** (VI v1) | `lumina-namira-nimira-vietnamese-suno.md` |
 | **남이라 님이라 5어 색인** | `lumina-namira-nimira-multilingual-suno.md` |
-| **Suno 매대 정본** (11축 하위 확정) | `lumina-suno-shelf-taxonomy.md` |
+| **루미나뮤직 14축 매대 정본** | `lumina-music-14-axis-shelf.md` |
+| **Suno 매대 설명서** (14축 아래) | `lumina-suno-shelf-taxonomy.md` |
+| **10·12 짧은 이름 폐기** | `lumina-axis-10-12-taxonomy-lock.md` |
+| **옛 곡 「없다」꼬리표 검토표** | `lumina-14-axis-old-tag-review.md` |
 | **잊어야만 하는데** (KO v1 · 1-2) | `lumina-ijeoyaman-haneunde-suno.md` |
 | **I Should Forget** (EN v1) | `lumina-ijeoyaman-haneunde-english-suno.md` |
 | **忘れなきゃいけないのに** (JA v1) | `lumina-ijeoyaman-haneunde-japanese-suno.md` |
@@ -253,13 +256,13 @@
 | **笑って笑って** (JA v1) | `lumina-useo-useo-japanese-suno.md` |
 | **Cười Lên Cười Lên** (VI v1) | `lumina-useo-useo-vietnamese-suno.md` |
 | **웃어 웃어 5어 색인** | `lumina-useo-useo-multilingual-suno.md` |
-| **내 몫의 거리 (지켜보는 온도)** (KO v1 · 4-2) | `lumina-nae-moksui-geori-suno.md` |
+| **내 몫의 거리 (지켜보는 온도)** (KO v1 · 1-3) | `lumina-nae-moksui-geori-suno.md` |
 | **属于我的距离（守望的温度）** (ZH v1) | `lumina-nae-moksui-geori-chinese-suno.md` |
 | **My Share of Distance (The Warmth of Watching)** (EN v1) | `lumina-nae-moksui-geori-english-suno.md` |
 | **私の分の距離（見守る温度）** (JA v1) | `lumina-nae-moksui-geori-japanese-suno.md` |
 | **Khoảng Cách Của Riêng Tôi (Hơi Ấm Dõi Theo)** (VI v1) | `lumina-nae-moksui-geori-vietnamese-suno.md` |
 | **내 몫의 거리 5어 색인** | `lumina-nae-moksui-geori-multilingual-suno.md` |
-| **묵묵한 곁 (들어주는 사람)** (KO v1 · 4-2) | `lumina-mukmukhan-gyeot-suno.md` |
+| **묵묵한 곁 (들어주는 사람)** (KO v1 · 1-3) | `lumina-mukmukhan-gyeot-suno.md` |
 | **默默的陪伴（倾听的人）** (ZH v1) | `lumina-mukmukhan-gyeot-chinese-suno.md` |
 | **Quietly by Your Side (The One Who Listens)** (EN v1) | `lumina-mukmukhan-gyeot-english-suno.md` |
 | **黙ってそばに（聴く人）** (JA v1) | `lumina-mukmukhan-gyeot-japanese-suno.md` |
@@ -301,7 +304,7 @@
 | **もう一度書く僕ら** (JA v1) | `lumina-dasi-sseuneun-uri-japanese-suno.md` |
 | **Viết Lại Chúng Ta** (VI v1) | `lumina-dasi-sseuneun-uri-vietnamese-suno.md` |
 | **다시 쓰는 우리 5어 색인** | `lumina-dasi-sseuneun-uri-multilingual-suno.md` |
-| **스무 살의 문 앞에서** (KO v1 · 4-2) | `lumina-seumusarui-mun-apeseo-suno.md` |
+| **스무 살의 문 앞에서** (KO v1 · 1-3) | `lumina-seumusarui-mun-apeseo-suno.md` |
 | **在二十岁的门前** (ZH v1) | `lumina-seumusarui-mun-apeseo-chinese-suno.md` |
 | **At the Door of Twenty** (EN v1) | `lumina-seumusarui-mun-apeseo-english-suno.md` |
 | **二十歳の扉の前で** (JA v1) | `lumina-seumusarui-mun-apeseo-japanese-suno.md` |
@@ -313,19 +316,19 @@
 | **痛みも贈り物だった** (JA v1) | `lumina-apeumdo-seonmurieosseo-japanese-suno.md` |
 | **Nỗi Đau Cũng Là Món Quà** (VI v1) | `lumina-apeumdo-seonmurieosseo-vietnamese-suno.md` |
 | **아픔도 선물이었어 5어 색인** | `lumina-apeumdo-seonmurieosseo-multilingual-suno.md` |
-| **길이 좀 어긋났을 뿐** (KO v1 · 4-2) | `lumina-giri-jom-eogeunnasseul-ppun-suno.md` |
+| **길이 좀 어긋났을 뿐** (KO v1 · 1-3) | `lumina-giri-jom-eogeunnasseul-ppun-suno.md` |
 | **只是路走偏了一点** (ZH v1) | `lumina-giri-jom-eogeunnasseul-ppun-chinese-suno.md` |
 | **Just a Little Off the Path** (EN v1) | `lumina-giri-jom-eogeunnasseul-ppun-english-suno.md` |
 | **道が少しずれただけ** (JA v1) | `lumina-giri-jom-eogeunnasseul-ppun-japanese-suno.md` |
 | **Chỉ Là Lệch Đường Một Chút** (VI v1) | `lumina-giri-jom-eogeunnasseul-ppun-vietnamese-suno.md` |
 | **길이 좀 어긋났을 뿐 5어 색인** | `lumina-giri-jom-eogeunnasseul-ppun-multilingual-suno.md` |
-| **오므렸다 피는 꽃** (KO v1 · 4-2) | `lumina-omeuryeotda-pineun-kkot-suno.md` |
+| **오므렸다 피는 꽃** (KO v1 · 1-3) | `lumina-omeuryeotda-pineun-kkot-suno.md` |
 | **合起又绽放的花** (ZH v1) | `lumina-omeuryeotda-pineun-kkot-chinese-suno.md` |
 | **The Flower That Closes and Blooms** (EN v1) | `lumina-omeuryeotda-pineun-kkot-english-suno.md` |
 | **しぼんでまた咲く花** (JA v1) | `lumina-omeuryeotda-pineun-kkot-japanese-suno.md` |
 | **Đóa Hoa Khép Rồi Lại Nở** (VI v1) | `lumina-omeuryeotda-pineun-kkot-vietnamese-suno.md` |
 | **오므렸다 피는 꽃 5어 색인** | `lumina-omeuryeotda-pineun-kkot-multilingual-suno.md` |
-| **말문** (KO v1 · 4-2) | `lumina-malmun-suno.md` |
+| **말문** (KO v1 · 2-4) | `lumina-malmun-suno.md` |
 | **话到嘴边** (ZH v1) | `lumina-malmun-chinese-suno.md` |
 | **Lost for Words** (EN v1) | `lumina-malmun-english-suno.md` |
 | **言葉につまる** (JA v1) | `lumina-malmun-japanese-suno.md` |
@@ -374,7 +377,7 @@
 | **半畝の田を 一生守る** (JA v1) | `lumina-banmu-liangtian-yishengshou-japanese-suno.md` |
 | **Nửa Mẫu Ruộng Giữ Trọn Đời** (VI v1) | `lumina-banmu-liangtian-yishengshou-vietnamese-suno.md` |
 | **半亩良田一生守 4어 색인** | `lumina-banmu-liangtian-yishengshou-multilingual-suno.md` |
-| **술 한 사발** (KO v1 · 4-2 · 一碗酒) | `lumina-yiwanjiu-suno.md` |
+| **술 한 사발** (KO v1 · 2-4 · 一碗酒) | `lumina-yiwanjiu-suno.md` |
 | **One Bowl of Wine** (EN v1) | `lumina-yiwanjiu-english-suno.md` |
 | **茶碗一杯の酒** (JA v1) | `lumina-yiwanjiu-japanese-suno.md` |
 | **Một Bát Rượu** (VI v1) | `lumina-yiwanjiu-vietnamese-suno.md` |
@@ -395,7 +398,7 @@
 | **会うたびに** (JA v1) | `lumina-mannalsurok-japanese-suno.md` |
 | **Mỗi Lần Gặp Nhau** (VI v1) | `lumina-mannalsurok-vietnamese-suno.md` |
 | **만날수록 5어 색인** | `lumina-mannalsurok-multilingual-suno.md` |
-| **1축 제목 판교** (가시내·1-3 없음) | `lumina-suno-title-list-axis1.md` |
+| **1축 제목 판교** (가시내) | `lumina-suno-title-list-axis1.md` |
 | **부르하통하의 가시내** (KO 혼용 · 1-2) | `lumina-bulatongha-thorn-multilingual-suno.md` |
 | **미사일도 공이다** (KO v1 · 2-3) | `lumina-misaildo-gong-suno.md` |
 | **导弹也是空** (ZH v1) | `lumina-misaildo-gong-chinese-suno.md` |
@@ -403,7 +406,7 @@
 | **ミサイルも空なり** (JA v1) | `lumina-misaildo-gong-japanese-suno.md` |
 | **Tên Lửa Cũng Là Không** (VI v1) | `lumina-misaildo-gong-vietnamese-suno.md` |
 | **미사일도 공이다 5어 색인** | `lumina-misaildo-gong-multilingual-suno.md` |
-| **맛있는 약속** (KO v1 · 브랜드송 · 컴포즈커피) | `lumina-masissneun-yaksok-suno.md` |
+| **맛있는 약속** (KO v1 · 13 · 컴포즈커피) | `lumina-masissneun-yaksok-suno.md` |
 | **美味的约定** (ZH v1) | `lumina-masissneun-yaksok-chinese-suno.md` |
 | **A Delicious Promise** (EN v1) | `lumina-masissneun-yaksok-english-suno.md` |
 | **おいしい約束** (JA v1) | `lumina-masissneun-yaksok-japanese-suno.md` |

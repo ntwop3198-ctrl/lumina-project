@@ -1,6 +1,6 @@
 # Lặng Lời
 
-> **4-2 안부 · 말문 5어** · Folk ballad · **70 bpm** · **VI v1**  
+> **2-4 인생 잠언 · 말문 5어** · Folk ballad · **70 bpm** · **VI v1**  
 > **v1 Suno 작업용 최종** (멘티 VI 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-malmun-suno.md`  
 > 색인: `lumina-malmun-multilingual-suno.md`  
@@ -107,5 +107,5 @@ Rồi quay lưng đi
 
 | Item | State |
 |------|-------|
-| **VI v1** | **4-2 잠금** |
+| **VI v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |
