@@ -1,6 +1,6 @@
 # 내 몫의 거리 (지켜보는 온도)
 
-> **4-2 안부 · 지켜보는 거리 · 구소구고구기 · 진공묘유** · Warm acoustic ballad · **74 bpm** · **KO v1**  
+> **1-3 위로·치유 · 지켜보는 거리 · 구소구고구기 · 진공묘유** · Warm acoustic ballad · **74 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘토 원곡 + Cursor 판교) · 2026-09-29  
 > ZH: `lumina-nae-moksui-geori-chinese-suno.md`  
 > EN: `lumina-nae-moksui-geori-english-suno.md`  
@@ -108,8 +108,8 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, power ballad, 
 | **인트로·아웃트로** | `(잔잔한 피아노)` → `[Gentle piano]` · `(피아노 잔향)` → `[Piano reverb tail]` |
 | **부제** | `(지켜보는 온도)`는 가사 지시 **아님** · 제목 부제 |
 | **스타일** | `warm acoustic ballad` · Korean 표기 **아님** · power ballad **제외** |
-| **매대** | **4-2 안부** · 1-3 칸 **없음** · 1-2 연애 **아님** |
-| **11-4** | 곁에서 지키는 안부 · **수면·쉼 아님** |
+| **매대** | **1-3 위로·치유** · 1-2 연애 **아님** |
+| **11-4** | 곁에서 지키는 말 · **수면·쉼 아님** |
 
 ---
 
@@ -117,5 +117,5 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, power ballad, 
 
 | Item | State |
 |------|-------|
-| **KO v1** | **4-2 잠금** |
+| **KO v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

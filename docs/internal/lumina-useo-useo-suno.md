@@ -143,7 +143,7 @@ rap, trap, EDM, rock, heavy drums, autotune, male vocal, choir, K-pop
 | **부르는 괄호** | 영어 추임새·카운트다운 → `[Whispered:]` · `[Spoken:]` · `[Shouted countdown:]` · `[Soft whisper:]` · **가사로 옮기지 않음** |
 | **연주 지시** | 영어 메타 |
 | **스타일** | `emotional pop ballad` · `84bpm` · upbeat **제외 목록에서 뺌** |
-| **매대** | **11-2 마음·스트레스** · 1-3 칸 **없음** |
+| **매대** | **11-2 마음·스트레스** |
 | **11-4** | 카타르시스·일어섬 · **수면·쉼 아님** |
 
 ---

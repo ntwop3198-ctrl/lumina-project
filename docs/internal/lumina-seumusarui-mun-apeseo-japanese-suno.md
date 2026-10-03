@@ -1,6 +1,6 @@
 # 二十歳の扉の前で
 
-> **4-2 안부 · 스무 살의 문 앞에서 5어 · 구소구고구기 · 진공묘유** · Healing ballad · **82 bpm** · **JA v1**  
+> **1-3 위로·치유 · 스무 살의 문 앞에서 5어 · 구소구고구기 · 진공묘유** · Healing ballad · **82 bpm** · **JA v1**  
 > **v1 Suno 작업용 최종** (멘티 JA 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-seumusarui-mun-apeseo-suno.md`  
 > 색인: `lumina-seumusarui-mun-apeseo-multilingual-suno.md`  
@@ -126,5 +126,5 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, J-pop idol, K-
 
 | Item | State |
 |------|-------|
-| **JA v1** | **4-2 잠금** |
+| **JA v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

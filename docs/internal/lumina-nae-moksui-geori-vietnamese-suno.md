@@ -1,6 +1,6 @@
 # Khoảng Cách Của Riêng Tôi (Hơi Ấm Dõi Theo)
 
-> **4-2 안부 · 내 몫의 거리 5어 · 구소구고구기 · 진공묘유** · Warm acoustic ballad · **74 bpm** · **VI v1**  
+> **1-3 위로·치유 · 내 몫의 거리 5어 · 구소구고구기 · 진공묘유** · Warm acoustic ballad · **74 bpm** · **VI v1**  
 > **v1 Suno 작업용 최종** (멘티 VI 초안 + Cursor 판교) · 2026-09-29  
 > KO: `lumina-nae-moksui-geori-suno.md`  
 > 색인: `lumina-nae-moksui-geori-multilingual-suno.md`  
@@ -113,5 +113,5 @@ Lặng lẽ cổ vũ một ngày của người
 
 | Item | State |
 |------|-------|
-| **VI v1** | **4-2 잠금** |
+| **VI v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

@@ -1,6 +1,6 @@
 # Trước Cánh Cửa Tuổi Hai Mươi
 
-> **4-2 안부 · 스무 살의 문 앞에서 5어 · 구소구고구기 · 진공묘유** · Healing ballad · **82 bpm** · **VI v1**  
+> **1-3 위로·치유 · 스무 살의 문 앞에서 5어 · 구소구고구기 · 진공묘유** · Healing ballad · **82 bpm** · **VI v1**  
 > **v1 Suno 작업용 최종** (멘티 VI 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-seumusarui-mun-apeseo-suno.md`  
 > 색인: `lumina-seumusarui-mun-apeseo-multilingual-suno.md`  
@@ -126,5 +126,5 @@ Bạn chẳng bao giờ một mình đâu
 
 | Item | State |
 |------|-------|
-| **VI v1** | **4-2 잠금** |
+| **VI v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

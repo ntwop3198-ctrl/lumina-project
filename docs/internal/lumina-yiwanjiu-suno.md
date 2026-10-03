@@ -1,6 +1,6 @@
 # 술 한 사발
 
-> **4-2 안부 · 一碗酒 4어 · 남성 듀엣 · 반 마지기** · Northern folk ballad · **74 bpm** · **KO v1**  
+> **2-4 인생 잠언 · 一碗酒 4어 · 남성 듀엣 · 반 마지기** · Northern folk ballad · **74 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘티 KO 초안 + Cursor 판교) · 2026-09-30  
 > 원곡: **一碗酒** (중국어) · 이번 판에 ZH 번역 **없음**  
 > EN: `lumina-yiwanjiu-english-suno.md`  
@@ -117,7 +117,7 @@ fast tempo, EDM, rap, autotune, heavy drums, female vocal, preachy, orchestral g
 | **파트** | `[Voice A, the one who lost]` · `[Voice B, the one who kept]` · `[Duet Harmony]` 유지 |
 | **말투** | 하게체 **자네 · ~소 · ~네** |
 | **스타일** | `Chinese-style northern folk ballad` · 이얼후·삼현 유지 · `74bpm` |
-| **매대** | **4-2 안부** · **1-3 칸은 매대 정본에 없다** · 「말문」(4-2)과 같은 칸 · **다른 곡** · 「问卿何时随我走」·「半亩良田一生守」(1-1)와 **다른 곡** · 세 번째 이야기로 나란히 · 이번 판 **ZH 없음** |
+| **매대** | **2-4 인생 잠언** · 「말문」(2-4)과 같은 칸 · **다른 곡** · 「问卿何时随我走」·「半亩良田一生守」(1-1)와 **다른 곡** · 세 번째 이야기로 나란히 · 이번 판 **ZH 없음** |
 
 ---
 
@@ -125,5 +125,5 @@ fast tempo, EDM, rap, autotune, heavy drums, female vocal, preachy, orchestral g
 
 | Item | State |
 |------|-------|
-| **KO v1** | **4-2 잠금** |
+| **KO v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |

@@ -93,7 +93,7 @@ EDM, rock, heavy drums, trap, autotune, aggressive vocals, orchestral bombast, s
 | **인트로** | 원곡에 연주 지시 `()` 없음 · `[Intro]` **만들지 않음** |
 | **이모지** | 원곡 말미 😄 **뺌** |
 | **스타일** | `folk` · Korean 표기 **아님** · healing 효능 태그 **아님** · `72bpm` |
-| **매대** | **2-3 성찰·초월** · **7-1 불교 칸 없음** · 2-4 인생 잠언 **아님** |
+| **매대** | **2-3 성찰·초월** · 2-4 인생 잠언 **아님** |
 
 ---
 

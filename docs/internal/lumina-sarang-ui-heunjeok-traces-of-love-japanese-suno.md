@@ -1,6 +1,6 @@
 # 愛の傷痕
 
-> **1-2 이별 · 사랑의 상처 5어** · Emotional ballad · **68 bpm** · **JA v1**  
+> **1-2 이별·그리움 · 사랑의 상처 5어** · Emotional ballad · **68 bpm** · **JA v1**  
 > **v1 Suno 작업용 최종** (멘티 JA 초안 + Cursor 판교) · 2026-09-29  
 > KO: `lumina-sarang-ui-heunjeok-traces-of-love-suno.md`  
 > 색인: `lumina-sarang-ui-heunjeok-traces-of-love-trilingual-suno.md`  

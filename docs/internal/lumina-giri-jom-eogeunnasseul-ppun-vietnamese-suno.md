@@ -1,6 +1,6 @@
 # Chỉ Là Lệch Đường Một Chút
 
-> **4-2 안부 · 길이 좀 어긋났을 뿐 5어** · Folk ballad · **72 bpm** · **VI v1**  
+> **1-3 위로·치유 · 길이 좀 어긋났을 뿐 5어** · Folk ballad · **72 bpm** · **VI v1**  
 > **v1 Suno 작업용 최종** (멘티 VI 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-giri-jom-eogeunnasseul-ppun-suno.md`  
 > 색인: `lumina-giri-jom-eogeunnasseul-ppun-multilingual-suno.md`  
@@ -111,5 +111,5 @@ Trời rồi sẽ sáng
 
 | Item | State |
 |------|-------|
-| **VI v1** | **4-2 잠금** |
+| **VI v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

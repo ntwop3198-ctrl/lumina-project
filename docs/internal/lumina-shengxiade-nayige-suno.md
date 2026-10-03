@@ -108,7 +108,7 @@ fast tempo, EDM, rap, autotune, heavy drums, female vocal, preachy, orchestral g
 | **구소구고구기 · 진공묘유** | **없음** · 넣지 않음 |
 | **메타** | 영문 `[]` · `[Intro: erhu and sanxian]` · `[Outro: erhu fading]` |
 | **스타일** | `Chinese-style northern folk ballad` · 이얼후·삼현 유지 · `76bpm` |
-| **매대** | **2-4 인생 잠언** · 1-1 사랑·인연 **아님** · 「친구입니다」(2-4)와 같은 칸 · **다른 곡** · 「一碗酒」(4-2)와 **다른 곡** · 결은 이어지나 칸은 다름 · 이번 판 **ZH 없음** |
+| **매대** | **2-4 인생 잠언** · 1-1 사랑·인연 **아님** · 「친구입니다」(2-4)와 같은 칸 · **다른 곡** · 「一碗酒」(2-4)와 같은 칸 · **다른 곡** · 이번 판 **ZH 없음** |
 
 ---
 

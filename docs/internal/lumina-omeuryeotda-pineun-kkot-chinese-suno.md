@@ -1,6 +1,6 @@
 # 合起又绽放的花
 
-> **4-2 안부 · 오므렸다 피는 꽃 5어** · Acoustic pop ballad · **70 bpm** · **ZH v1**  
+> **1-3 위로·치유 · 오므렸다 피는 꽃 5어** · Acoustic pop ballad · **70 bpm** · **ZH v1**  
 > **v1 Suno 작업용 최종** (멘티 ZH 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-omeuryeotda-pineun-kkot-suno.md`  
 > 색인: `lumina-omeuryeotda-pineun-kkot-multilingual-suno.md`  
@@ -122,5 +122,5 @@ trot, EDM, heavy drums, autotune, belting, rap, rock guitar, idol pop, breathy w
 
 | Item | State |
 |------|-------|
-| **ZH v1** | **4-2 잠금** |
+| **ZH v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

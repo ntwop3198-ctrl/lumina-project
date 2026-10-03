@@ -1,6 +1,6 @@
 # 言葉につまる
 
-> **4-2 안부 · 말문 5어** · Folk ballad · **70 bpm** · **JA v1**  
+> **2-4 인생 잠언 · 말문 5어** · Folk ballad · **70 bpm** · **JA v1**  
 > **v1 Suno 작업용 최종** (멘티 JA 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-malmun-suno.md`  
 > 색인: `lumina-malmun-multilingual-suno.md`  
@@ -107,5 +107,5 @@ EDM, trap, rap, autotune, heavy drums, aggressive rock, trot, choir, over-emotio
 
 | Item | State |
 |------|-------|
-| **JA v1** | **4-2 잠금** |
+| **JA v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |

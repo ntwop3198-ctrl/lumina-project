@@ -1,6 +1,6 @@
 # 茶碗一杯の酒
 
-> **4-2 안부 · 一碗酒 4어** · Northern folk ballad · **74 bpm** · **JA v1**  
+> **2-4 인생 잠언 · 一碗酒 4어** · Northern folk ballad · **74 bpm** · **JA v1**  
 > **v1 Suno 작업용 최종** (멘티 JA 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-yiwanjiu-suno.md`  
 > 색인: `lumina-yiwanjiu-multilingual-suno.md`  
@@ -120,5 +120,5 @@ fast tempo, EDM, rap, autotune, heavy drums, female vocal, preachy, orchestral g
 
 | Item | State |
 |------|-------|
-| **JA v1** | **4-2 잠금** |
+| **JA v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |
