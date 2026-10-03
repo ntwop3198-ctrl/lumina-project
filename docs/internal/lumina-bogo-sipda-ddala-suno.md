@@ -1,41 +1,55 @@
-# 보고 싶다 딸아 (I Miss You, Daughter)
+# 보고 싶다 딸아
 
-> **아버지의 편지** · 공주 · 첫 말「아빠」·기다림 · 2026-06-13  
-> 언어 **한국어 100%** · **v1 정본** · 루미나님 가사 · Cursor Suno 정본  
-> **비공개 우선** — DistroKid·Suno Library 전 **공주·가족 동의** 필수
+> **1-4 가족애 · 공주 · 첫 말 아빠 · 먼발치** · Acoustic folk ballad · **75 bpm** · **KO v1**  
+> **v1 Suno 작업용 최종** (멘토 원곡 + Cursor 판교) · 2026-09-30  
+> ZH: `lumina-bogo-sipda-ddala-chinese-suno.md`  
+> EN: `lumina-bogo-sipda-ddala-english-suno.md`  
+> JA: `lumina-bogo-sipda-ddala-japanese-suno.md`  
+> VI: `lumina-bogo-sipda-ddala-vietnamese-suno.md`  
+> 5어: `lumina-bogo-sipda-ddala-multilingual-suno.md`  
+> 붙여넣기: `lumina-bogo-sipda-ddala-zh-en-ja-vi-suno-paste.md`
+
+멀리서 바라본다. 효능이 아니다.
 
 ---
 
-## Title (Suno 제목란)
+## Title
 
 ```
 보고 싶다 딸아
 ```
 
----
-
-## Style (Suno 스타일란)
-
-```
-Korean acoustic folk ballad, warm and emotional,
-father's gentle male vocal, acoustic guitar strumming,
-nostalgic and heartfelt, tender not epic,
-70~80bpm, fade out ending
-```
-
-> 공주 실명·학교·주소·혼인 맥락 — **Style·가사란에 넣지 않음**. `(fade out)` — Style만.
+보컬 **남성** · 다정한 아빠 · 그리움 · 웅장하지 않게
 
 ---
 
-## Lyrics (Suno 가사란 — 붙여넣기용 · v1 정본)
+## Style
+
+```
+acoustic folk ballad, warm and emotional, father's gentle male vocal, acoustic guitar strumming, nostalgic and heartfelt, tender not epic, 75bpm, fade out ending, Korean only
+```
+
+---
+
+## Exclude Styles
+
+```
+rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, epic orchestra, upbeat, K-pop
+```
+
+고급 설정: 기이함 **20%** · 스타일 영향 **70%** · 다양성 보통 · 개인화 끔
+
+---
+
+## Lyrics (v1)
 
 ```
 [Intro]
-(따스한 어쿠스틱 기타)
+[Warm acoustic guitar]
 
 [Verse 1]
 밥상 귀퉁이 잡고
-다리 부들부들 떨면서
+꼬마다리 부들부들 떨면서 일어서서는 환한 웃음 짓고
 아빠 하고 불렀던 너
 그날이 어제 같구나
 
@@ -80,77 +94,28 @@ nostalgic and heartfelt, tender not epic,
 언제나 여기 있을게
 
 [Outro]
-(기타 천천히 잦아들며)
+[Guitar slowly fading]
 아빠는 기다릴 수 있어
 보고 싶다 딸아
 ```
 
 ---
 
-## v1 구조
+## 잠금
 
-| 구간 | 내용 |
+| 원칙 | 본문 |
 |------|------|
-| Verse 1 | 첫 말 **아빠** · 밥상 귀퉁이 |
-| Chorus 1 | 20년이 지나도 **어제처럼** |
-| Verse 2 | 미끄럼틀 · **먼발치 기다림** |
-| Chorus 2 | **똥도 이쁘다** · 아장아장 |
-| Bridge | **멀리서 바라본다** · 햇님 같은 사랑 |
-| Final | **손 잡을 날까지 기다림** |
-
-## 대표 한 줄
-
-> **언젠가 네 손 잡을 날까지 — 아빠는 기다릴 수 있어.**
+| **구소구고구기 · 진공묘유** | **없음** · 넣지 않음 |
+| **인트로·아웃트로** | `(따스한 어쿠스틱 기타)` → `[Warm acoustic guitar]` · `(기타 천천히 잦아들며)` → `[Guitar slowly fading]` |
+| **공주** | 아빠가 딸을 부르는 애칭 · 「미안하다 내 딸아」·「꽃길만 걸어라」와 같음 |
+| **스타일** | `acoustic folk ballad` · Korean 표기 **아님** · `75bpm` |
+| **매대** | **1-4 가족애** · **미안하다 내 딸아**·**꽃길만 걸어라**(1-4)와 **다른 곡** · 연작으로 나란히 |
 
 ---
 
-## Suno 메모
+## Status
 
-| 항목 | 내용 |
-|------|------|
-| 2nd Chorus | 가사 **다름** — Suno가 반복 안 해도 됨 |
-| 톤 | **tender not epic** — 아버지 목소리 |
-| Bridge | 제목 **보고 싶다 딸아** — 감정 피크 |
-
----
-
-## 공개 주의
-
-| 항목 | 지침 |
-|------|------|
-| **공주** | **비공개·가족용** 기본 — 외부 발매 전 **딸·전 배우자 동의** |
-| 닉네임 | 가사 **공주** — 실명·SNS 태그 **금지** |
-| 풍자 3부작·은실 | **별도 앨범** — 본곡과 **분리** |
-
----
-
-## 연계 (감정 축)
-
-| 곡·문서 | 연결 |
-|---------|------|
-| 완이화 · 공주의 꽃 | `lumina-wan-e-hwa-suno.md` |
-| 있는 그대로 | `lumina-just-as-you-are-korean-suno.md` |
-| 먼 거리에서 | `lumina-from-a-distance-subong-park-suno.md` |
-| 할 일이 있다는 것 | `lumina-having-something-to-do-suno.md` |
-| 광주 공주 네 곡 | `lumina-gwangju-princess-four-songs-suno.md` |
-| **남매 (南妹)** | 엄마·부천 · `lumina-nammae-nanmei-suno.md` |
-| **中文 v2** | `lumina-bogo-sipda-ddala-chinese-suno.md` |
-| **English** | `lumina-bogo-sipda-ddala-english-suno.md` |
-| 거짓은 진실을 덮지 못한다 | `lumina-lies-cannot-cover-truth-suno.md` |
-
----
-
-## 맥락 (비가사)
-
-- 협의이혼 진행 · **멀리서 바라본다** — 있는 그대로·거리와 맞닿음
-- 오늘 **은실 푸대접** 다음 — **채워지는 한 조각**
-- Suno: **급하지 않음** — 가족에게 먼저 들려주기
-
----
-
-## DistroKid (참고)
-
-| 옵션 | 설명 |
-|------|------|
-| **비발매** | Suno 개인 보관 · 가족 공유만 |
-| 발매 시 | **비공개 EP「아빠의 편지」** 또는 단독 — 공주 동의 후
+| Item | State |
+|------|-------|
+| **KO v1** | **1-4 잠금** |
+| 品牌歌 | **해당 없음** |

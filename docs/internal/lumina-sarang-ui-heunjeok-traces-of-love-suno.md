@@ -1,10 +1,16 @@
 # 사랑의 상처 (Scars of Love)
 
-> **이별 · 추억 · 내면의 등불** · **KO** · **EN** · **ZH** `lumina-sarang-ui-heunjeok-traces-of-love-trilingual-suno.md`  
-> **v4 Suno 작업용 최종** · 2026-06-17  
+> **1-2 이별·그리움 · 추억 · 내면의 등불** · **KO** · **EN** · **ZH** · **JA** · **VI**  
+> **v4 Suno 작업용 최종** · 2026-06-17 · JA·VI 2026-09-29  
 > 부제: *Scars of Love · 사랑의 상처*  
 > **아크** — 아픔(1~3) → **Bridge 등불·할 일** → 희망(Outro) · `나를 등불로` · `할 일이 있다는 것`  
-> 이전 제목: *사랑의 흔적* (v3까지) · *흔적* (v1)
+> 이전 제목: *사랑의 흔적* (v3까지) · *흔적* (v1)  
+> EN: `lumina-sarang-ui-heunjeok-traces-of-love-english-suno.md`  
+> ZH: `lumina-sarang-ui-heunjeok-traces-of-love-chinese-suno.md`  
+> JA: `lumina-sarang-ui-heunjeok-traces-of-love-japanese-suno.md`  
+> VI: `lumina-sarang-ui-heunjeok-traces-of-love-vietnamese-suno.md`  
+> 5어: `lumina-sarang-ui-heunjeok-traces-of-love-trilingual-suno.md`  
+> JA·VI 붙여넣기: `lumina-sarang-ui-heunjeok-traces-of-love-ja-vi-suno-paste.md`
 
 ---
 
@@ -45,8 +51,7 @@ heartbreak, soul-stirring,
 ## Lyrics (Suno 가사란 — 붙여넣기용 · v4 최종)
 
 ```
-[Intro]
-(드라마틱 피아노, 조용히 시작)
+[Intro - Dramatic piano, quiet start]
 
 [Verse 1]
 함께 걷던 그 골목길

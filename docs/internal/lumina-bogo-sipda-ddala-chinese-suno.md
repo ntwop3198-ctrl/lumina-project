@@ -1,130 +1,117 @@
-# 想你，我的公主 (I Miss You, Daughter · 中文)
+# 想你了 女儿
 
-> **보고 싶다 딸아** 中文 **v2 正本** · 아버지의 편지 · 2026-06-13  
-> 언어 **简体中文 100%** · 한국어: `lumina-bogo-sipda-ddala-suno.md`  
-> **비공개 우선** — 发版前 **家人同意**
+> **1-4 가족애 · 보고 싶다 딸아 5어** · Acoustic folk ballad · **75 bpm** · **ZH v1**  
+> **v1 Suno 작업용 최종** (멘티 ZH 초안 + Cursor 판교) · 2026-09-30  
+> KO: `lumina-bogo-sipda-ddala-suno.md`  
+> 색인: `lumina-bogo-sipda-ddala-multilingual-suno.md`  
+> 붙여넣기: `lumina-bogo-sipda-ddala-zh-en-ja-vi-suno-paste.md`
 
----
-
-## Title (Suno 标题栏)
-
-```
-想你，我的公主
-```
+발췌본은 쓰지 않는다.
 
 ---
 
-## Style (Suno 风格栏)
+## Title
 
 ```
-Mandarin acoustic folk ballad, warm and emotional,
-father's gentle male vocal, acoustic guitar strumming,
-nostalgic and heartfelt, tender not epic,
-70~80bpm, fade out ending
+想你了 女儿
 ```
 
-> Suno 发音：**二十年(èrshí nián)** · **蹒跚(pán shān)** · **康庄(kāng zhuāng)** — 难读处括号注音。
+문서 한글: **보고 싶다 딸아** · 보컬 **남성** · 공주 **小公主**
 
 ---
 
-## Lyrics (Suno 歌词栏 — v2 正本)
+## Style
+
+```
+acoustic folk ballad, warm and emotional, father's gentle male vocal, acoustic guitar strumming, nostalgic and heartfelt, tender not epic, 75bpm, fade out ending, Mandarin Chinese only
+```
+
+---
+
+## Exclude Styles
+
+```
+rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, epic orchestra, upbeat, C-pop idol, K-pop
+```
+
+고급 설정: 기이함 **20%** · 스타일 영향 **70%** · 다양성 보통 · 개인화 끔
+
+---
+
+## Lyrics (v1)
 
 ```
 [Intro]
-(温暖的木吉他)
+[Warm acoustic guitar]
 
 [Verse 1]
-不会吐话的你用稚嫩的双手抓着饭桌的一角
-双腿微微颤颤满满站起来
-叫了一声爸爸
-那一天爸爸如同得到天下般幸福感如潮
+扶着饭桌的一角
+小腿颤颤巍巍地站起来 露出灿烂的笑
+喊了一声爸爸的你
+那一天 好像就在昨天
 
-别人家的孩子都先叫妈妈
+别人家都说 先叫的是妈妈
 你却先叫了爸爸
-公主啊你知道吗
-你就是这么别样的孩子
+小公主 你知不知道
+你真是个特别的孩子
 
 [Chorus]
-爸爸心里满满的幸福感
-虽然已经过了二十年(èrshí nián)
-对爸爸来说
-那记忆和幸福感依旧清晰如昨
+爸爸心里一阵发热
+都过去二十年了
+对爸爸来说 就像昨天
+记忆还那么清晰
 
 [Verse 2]
 在滑梯上面
-你就像刚升起的暖阳
-灿烂微笑
-这个记忆犹如眼前，至今回荡在爸爸眼前
+像刚刚升起的太阳
+笑得那么灿烂的你
+爸爸眼前还看得见
 
-偶尔你会迟归时，爸爸好担心公主身心
-爸爸在远处守候
+怕你回来得晚
+爸爸远远地等着
 直到听见你的脚步声
-眼睛都不肯离开你的影子
+眼睛一直不敢离开
 
 [Chorus]
-爸爸就连公主的便便都觉得可爱
-那个爸爸还在这里静候
-蹒跚(pán shān)学步的那双脚
-照亮了爸爸的整个世界
+说我们小公主连便便都可爱的
+那个爸爸 还在这里
+摇摇晃晃走路的小脚步
+让整个世界都亮了起来
 
 [Bridge]
-想你啊我的公主
-在远处默默望着你
-爸爸对公主的爱
-像太阳一样永远不会变
+想你了 女儿
+我只是远远地望着
+爸爸对小公主的爱
+会像太阳一样 永远不变
 
 [Final Chorus]
-直到有一天爸爸一定要牵上你的手，迎你走上康庄(kāng zhuāng)大道
-爸爸可以耐心静候
-想你啊我的公主
-公主永远在爸爸的心间
+直到有一天 能牵起你的手
+爸爸可以一直等
+想你了 女儿
+我会一直在这里
 
 [Outro]
-(吉他缓缓减弱)
-爸爸可以耐心静候
-想你啊我的公主
+[Guitar slowly fading]
+爸爸可以一直等
+想你了 女儿
 ```
 
 ---
 
-## v2 变更 (v1 → v2)
+## 잠금
 
-| 区间 | v2 |
-|------|-----|
-| Verse 1 | **不会吐话** · **稚嫩的双手** · **得到天下般幸福感如潮** |
-| Chorus 1 | **满满的幸福感** · 记忆**和幸福感** |
-| Verse 2 | **暖阳** · **回荡在爸爸眼前** · **迟归·担心公主身心** |
-| Chorus 2 | **静候** · **你的影子** |
-| Final | **康庄大道** · **耐心静候** · **在心间** |
-
-## v2 代表一句
-
-> **公主永远在爸爸的心间 — 爸爸可以耐心静候。**
+| 용어 | 정본 | 금지 |
+|------|------|------|
+| **想你了 女儿** | DistroKid·Suno 제목 | 想你，我的公主 · 6월 확장본 |
+| **똥도 이쁘다** | **连便便都可爱** | 돌려 말하기 |
+| **메타** | 영문 `[]` | 괄호 지문을 한어로 번역 |
+| **전문** | A안 전체 | 장황한 발췌 · 병음 괄호 |
 
 ---
 
-## Suno 备忘
+## Status
 
-| 项目 | 内容 |
-|------|------|
-| 拼音 | `二十年(èrshí nián)` `蹒跚(pán shān)` `康庄(kāng zhuāng)` |
-| 长句 | Verse 1 首行较长 — Suno **2~4版** 비교 |
-| 2nd Chorus | 歌词不同 — `[Chorus]` 2회 유지 |
-| 发布 | **暂缓** |
-
----
-
-## 关联
-
-| 文档 | 连接 |
-|------|------|
-| 한국어 정본 | `lumina-bogo-sipda-ddala-suno.md` |
-| **English** | `lumina-bogo-sipda-ddala-english-suno.md` |
-| 如你本来 | `lumina-just-as-you-are-chinese-suno.md` |
-| 从远处 | `lumina-from-a-distance-subong-park-suno.md` |
-
----
-
-## v1 归档
-
-v1 简译 — 2026-06-13 멘토·Cursor 초안（`抓着饭桌的角落` 版）→ **v2 루미나님·멘토 확장본** 으로 대체。
+| Item | State |
+|------|-------|
+| **ZH v1** | **1-4 잠금** |
+| 品牌歌 | **해당 없음** |

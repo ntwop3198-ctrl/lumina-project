@@ -5,7 +5,9 @@
 > 부제: *You in the Subconscious · 영혼 깊은 곳의 각성*  
 > ZH: `lumina-qianyishi-li-de-ni-you-in-the-subconscious-chinese-suno.md` (v1)  
 > EN: `lumina-qianyishi-li-de-ni-you-in-the-subconscious-english-suno.md` (v1)  
-> 三语: `lumina-qianyishi-li-de-ni-you-in-the-subconscious-multilingual-suno.md`  
+> JA: `lumina-qianyishi-li-de-ni-you-in-the-subconscious-japanese-suno.md` (v1 · 潜在意識の中の君)  
+> VI: `lumina-qianyishi-li-de-ni-you-in-the-subconscious-vietnamese-suno.md` (v1 · Anh Trong Tiềm Thức)  
+> 5어: `lumina-qianyishi-li-de-ni-you-in-the-subconscious-multilingual-suno.md`  
 > **아크** — 완벽한 윤곽 → 강한 자 본능 → **잠재의식의 너** → 온전함 → 알아봄·원래 있었어
 
 ---
@@ -177,6 +179,8 @@ building to emotional chorus, 78bpm, fade out ending, Korean only
 | 한국어 | **v1 ✅** (본문) |
 | 中文 | **v1 ✅** · `…-chinese-suno.md` |
 | English | **v1 ✅** · `…-english-suno.md` |
+| 日本語 | **v1 ✅** · `…-japanese-suno.md` · **潜在意識の中の君** |
+| Tiếng Việt | **v1 ✅** · `…-vietnamese-suno.md` · **Anh Trong Tiềm Thức** |
 
 ---
 

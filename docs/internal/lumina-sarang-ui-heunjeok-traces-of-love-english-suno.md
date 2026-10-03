@@ -1,6 +1,6 @@
 # Scars of Love (사랑의 상처 · English)
 
-> **Parting · memory · inner lamp** · **English only**  
+> **1-2 이별·그리움 · Parting · memory · inner lamp** · **English only**  
 > **v3 Suno 작업용 최종** (제목 확정) · 2026-06-17  
 > Subtitle: *Scars of Love · 사랑의 상처*  
 > KO: `lumina-sarang-ui-heunjeok-traces-of-love-suno.md` (v4)  
