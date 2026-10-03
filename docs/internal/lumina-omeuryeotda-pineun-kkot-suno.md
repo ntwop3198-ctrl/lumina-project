@@ -1,6 +1,6 @@
 # 오므렸다 피는 꽃
 
-> **4-2 안부 · 민들레** · Acoustic pop ballad · **70 bpm** · **KO v1**  
+> **1-3 위로·치유 · 민들레** · Acoustic pop ballad · **70 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘토 원곡 + Cursor 판교) · 2026-09-30  
 > ZH: `lumina-omeuryeotda-pineun-kkot-chinese-suno.md`  
 > EN: `lumina-omeuryeotda-pineun-kkot-english-suno.md`  
@@ -118,7 +118,7 @@ trot, EDM, heavy drums, autotune, belting, rap, rock guitar, idol pop, breathy w
 | **구소구고구기 · 진공묘유** | **없음** · 넣지 않음 |
 | **구역 표시** | `[Intro: soft piano and acoustic guitar]` · `[Interlude: piano]` · `[Outro: piano fading]` · `[End]` 원곡대로 |
 | **스타일** | `acoustic pop ballad` · Korean 표기 **아님** · 빼기 항목은 **제외 스타일** · `70bpm` |
-| **매대** | **4-2 안부** · 1-3 칸 **없음** · **길이 좀 어긋났을 뿐**(4-2)과 **다른 곡** |
+| **매대** | **1-3 위로·치유** · **길이 좀 어긋났을 뿐**(1-3)과 **다른 곡** |
 
 ---
 
@@ -126,5 +126,5 @@ trot, EDM, heavy drums, autotune, belting, rap, rock guitar, idol pop, breathy w
 
 | Item | State |
 |------|-------|
-| **KO v1** | **4-2 잠금** |
+| **KO v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

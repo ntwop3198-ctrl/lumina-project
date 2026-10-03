@@ -1,6 +1,6 @@
 # 属于我的距离（守望的温度）
 
-> **4-2 안부 · 내 몫의 거리 5어 · 구소구고구기 · 진공묘유** · Warm acoustic ballad · **74 bpm** · **ZH v1**  
+> **1-3 위로·치유 · 내 몫의 거리 5어 · 구소구고구기 · 진공묘유** · Warm acoustic ballad · **74 bpm** · **ZH v1**  
 > **v1 Suno 작업용 최종** (멘티 ZH 초안 + Cursor 판교) · 2026-09-29  
 > KO: `lumina-nae-moksui-geori-suno.md`  
 > 색인: `lumina-nae-moksui-geori-multilingual-suno.md`  
@@ -112,5 +112,5 @@ rap, trap, EDM, rock, heavy drums, autotune, female vocal, choir, power ballad, 
 
 | Item | State |
 |------|-------|
-| **ZH v1** | **4-2 잠금** |
+| **ZH v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |

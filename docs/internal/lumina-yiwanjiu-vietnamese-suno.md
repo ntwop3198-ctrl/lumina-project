@@ -1,6 +1,6 @@
 # Một Bát Rượu
 
-> **4-2 안부 · 一碗酒 4어** · Northern folk ballad · **74 bpm** · **VI v1**  
+> **2-4 인생 잠언 · 一碗酒 4어** · Northern folk ballad · **74 bpm** · **VI v1**  
 > **v1 Suno 작업용 최종** (멘티 VI 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-yiwanjiu-suno.md`  
 > 색인: `lumina-yiwanjiu-multilingual-suno.md`  
@@ -120,5 +120,5 @@ Có người bên cạnh thì chưa hết đâu
 
 | Item | State |
 |------|-------|
-| **VI v1** | **4-2 잠금** |
+| **VI v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |

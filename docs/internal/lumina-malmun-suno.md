@@ -1,6 +1,6 @@
 # 말문
 
-> **4-2 안부 · 술자리 · 말문이 막힌 날** · Folk ballad · **70 bpm** · **KO v1**  
+> **2-4 인생 잠언 · 술자리 · 말문이 막힌 날** · Folk ballad · **70 bpm** · **KO v1**  
 > **v1 Suno 작업용 최종** (멘토 원곡 + Cursor 판교) · 2026-09-30  
 > ZH: `lumina-malmun-chinese-suno.md`  
 > EN: `lumina-malmun-english-suno.md`  
@@ -102,7 +102,7 @@ EDM, trap, rap, autotune, heavy drums, aggressive rock, trot, choir, over-emotio
 | **구소구고구기 · 진공묘유** | **없음** · 넣지 않음 |
 | **인트로·아웃트로** | `(acoustic guitar only)` → `[Acoustic guitar only]` · `(guitar fade out)` → `[Guitar fade out]` |
 | **스타일** | `folk ballad` · Korean 표기 **아님** · 빼기 항목은 **제외 스타일** · `70bpm` |
-| **매대** | **4-2 안부** · 1-3 칸 **없음** · **묵묵한 곁**(4-2)과 같은 칸 · **다른 곡** · 1-4 가족애 **아님** |
+| **매대** | **2-4 인생 잠언** · **묵묵한 곁**(1-3)과 **다른 칸** · **다른 곡** · 1-4 가족애 **아님** |
 
 ---
 
@@ -110,5 +110,5 @@ EDM, trap, rap, autotune, heavy drums, aggressive rock, trot, choir, over-emotio
 
 | Item | State |
 |------|-------|
-| **KO v1** | **4-2 잠금** |
+| **KO v1** | **2-4 잠금** |
 | 品牌歌 | **해당 없음** |

@@ -1,6 +1,6 @@
 # A Delicious Promise
 
-> **브랜드송 · 컴포즈커피 · 맛있는 약속 5어 · 구소구고구기 · 진공묘유** · Country-folk ballad · **88 bpm** · **EN v1**  
+> **13 브랜드 헌정 · 컴포즈커피 · 맛있는 약속 5어 · 구소구고구기 · 진공묘유** · Country-folk ballad · **88 bpm** · **EN v1**  
 > **v1 Suno 작업용 최종** (멘티 EN A안 + Cursor 판교) · 2026-10-01  
 > KO: `lumina-masissneun-yaksok-suno.md`  
 > 색인: `lumina-masissneun-yaksok-multilingual-suno.md`  
@@ -96,5 +96,5 @@ We keep it today, just the same
 
 | Item | State |
 |------|-------|
-| **EN v1** | **브랜드송 잠금** |
+| **EN v1** | **13 브랜드 헌정 잠금** |
 | 品牌歌 | **컴포즈커피** |

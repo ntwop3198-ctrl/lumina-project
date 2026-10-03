@@ -1,6 +1,6 @@
 # Just a Little Off the Path
 
-> **4-2 안부 · 길이 좀 어긋났을 뿐 5어** · Folk ballad · **72 bpm** · **EN v1**  
+> **1-3 위로·치유 · 길이 좀 어긋났을 뿐 5어** · Folk ballad · **72 bpm** · **EN v1**  
 > **v1 Suno 작업용 최종** (멘티 EN 초안 + Cursor 판교) · 2026-09-30  
 > KO: `lumina-giri-jom-eogeunnasseul-ppun-suno.md`  
 > 색인: `lumina-giri-jom-eogeunnasseul-ppun-multilingual-suno.md`  
@@ -110,5 +110,5 @@ The road is long so let's go slow
 
 | Item | State |
 |------|-------|
-| **EN v1** | **4-2 잠금** |
+| **EN v1** | **1-3 잠금** |
 | 品牌歌 | **해당 없음** |
