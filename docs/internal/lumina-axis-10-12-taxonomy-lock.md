@@ -1,3 +1,5 @@
+폐기 — 2026-10-04. 정본은 lumina-music-14-axis-shelf.md
+
 # 10·12 짧은 이름 폐기 (설명서 부속)
 
 > 최상위 정본: `lumina-music-14-axis-shelf.md`  
