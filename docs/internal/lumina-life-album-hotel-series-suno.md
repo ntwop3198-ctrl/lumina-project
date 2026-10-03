@@ -161,8 +161,8 @@
 | **他人か恋人か** (JA v1) | `lumina-namira-nimira-japanese-suno.md` |
 | **Người Dưng Hay Người Thương** (VI v1) | `lumina-namira-nimira-vietnamese-suno.md` |
 | **남이라 님이라 5어 색인** | `lumina-namira-nimira-multilingual-suno.md` |
-| **Suno 매대 정본** (11축 하위 확정 · 2026-09-28) | `lumina-suno-shelf-taxonomy.md` |
-| **10·11·12축 판교** (새 칸 이름 폐기) | `lumina-axis-10-12-taxonomy-lock.md` |
+| **Suno 매대 정본** (전체 축 한 문서) | `lumina-suno-shelf-taxonomy.md` |
+| **10·12축 이름 폐기** | `lumina-axis-10-12-taxonomy-lock.md` |
 | **잊어야만 하는데** (KO v1 · 1-2) | `lumina-ijeoyaman-haneunde-suno.md` |
 | **I Should Forget** (EN v1) | `lumina-ijeoyaman-haneunde-english-suno.md` |
 | **忘れなきゃいけないのに** (JA v1) | `lumina-ijeoyaman-haneunde-japanese-suno.md` |
