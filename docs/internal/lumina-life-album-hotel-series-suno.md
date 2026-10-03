@@ -162,7 +162,7 @@
 | **Người Dưng Hay Người Thương** (VI v1) | `lumina-namira-nimira-vietnamese-suno.md` |
 | **남이라 님이라 5어 색인** | `lumina-namira-nimira-multilingual-suno.md` |
 | **Suno 매대 정본** (10축 태교·양육 · 11축 유지 · 12축 노동·숙련) | `lumina-suno-shelf-taxonomy.md` |
-| **10·11·12축 판교** (태교·건강·노동 골격) | `lumina-axis-10-12-taxonomy-lock.md` |
+| **10·11·12축 판교** (1차 골격 · 제미나이 2차 · 12-1 헌정 거절) | `lumina-axis-10-12-taxonomy-lock.md` |
 | **잊어야만 하는데** (KO v1 · 1-2) | `lumina-ijeoyaman-haneunde-suno.md` |
 | **I Should Forget** (EN v1) | `lumina-ijeoyaman-haneunde-english-suno.md` |
 | **忘れなきゃいけないのに** (JA v1) | `lumina-ijeoyaman-haneunde-japanese-suno.md` |
