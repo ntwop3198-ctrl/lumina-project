@@ -1,7 +1,7 @@
 # 정신 차리라, 동생아
 
 > **4-2 안부·요청곡 · 동생 · 구소구고구기** · Korean folk ballad · **72 bpm** · **KO v1**  
-> **v1 Suno 작업용 최종** (멘티 원곡 + Cursor 판교) · 2026-10-05  
+> **v1 Suno 작업용 최종** (멘티 원곡 + Cursor 판교) · 2026-10-06  
 > 같은 칸 · **다른 곡**: `lumina-janggila-jeongsincharira-suno.md` · `lumina-ilsan-ganeun-gil-suno.md`  
 > 5어: `lumina-jeongsin-charira-dongsaenga-multilingual-suno.md`
 
@@ -73,7 +73,6 @@ EDM, rap, autotune, heavy drums, orchestral swell, female vocal, choir
 누가 너를 부르겠냐
 
 [Interlude]
-[Harmonica]
 
 [Verse 3]
 돈 몇 푼 쥐여 주면 그날로 끝
