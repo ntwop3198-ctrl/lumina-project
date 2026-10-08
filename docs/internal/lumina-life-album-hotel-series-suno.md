@@ -579,6 +579,11 @@
 | **助けと思わぬ助け** (JA v1) | `lumina-geumganggyeong-04-bushi-bangzhu-japanese-suno.md` |
 | **Giúp mà như không giúp** (VI v1) | `lumina-geumganggyeong-04-bushi-bangzhu-vietnamese-suno.md` |
 | **不是帮助的帮助 5어 색인** | `lumina-geumganggyeong-04-multilingual-suno.md` |
+| **相即非相** (ZH v1 · 7-1 · 05) | `lumina-geumganggyeong-05-xiang-ji-fei-xiang-chinese-suno.md` |
+| **Form Is Not Form** (EN v1) | `lumina-geumganggyeong-05-xiang-ji-fei-xiang-english-suno.md` |
+| **かたちは かたちではない** (JA v1) | `lumina-geumganggyeong-05-xiang-ji-fei-xiang-japanese-suno.md` |
+| **Tướng chẳng phải tướng** (VI v1) | `lumina-geumganggyeong-05-xiang-ji-fei-xiang-vietnamese-suno.md` |
+| **相即非相 5어 색인** | `lumina-geumganggyeong-05-multilingual-suno.md` |
 
 ---
 
