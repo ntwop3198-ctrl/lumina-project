@@ -564,6 +564,11 @@
 | **足を洗い 座を敷いて坐った** (JA v1) | `lumina-geumganggyeong-01-xizu-fuzuo-erzuo-japanese-suno.md` |
 | **Rửa chân trải tòa ngồi xuống** (VI v1) | `lumina-geumganggyeong-01-xizu-fuzuo-erzuo-vietnamese-suno.md` |
 | **洗足敷座而坐 5어 색인** | `lumina-geumganggyeong-01-multilingual-suno.md` |
+| **不识趣的须菩提** (ZH v1 · 7-1 · 02) | `lumina-geumganggyeong-02-subhuti-chinese-suno.md` |
+| **Subhuti Cannot Read the Room** (EN v1) | `lumina-geumganggyeong-02-subhuti-english-suno.md` |
+| **空気の読めない須菩提** (JA v1) | `lumina-geumganggyeong-02-subhuti-japanese-suno.md` |
+| **Tu Bồ Đề chẳng biết ý** (VI v1) | `lumina-geumganggyeong-02-subhuti-vietnamese-suno.md` |
+| **不识趣的须菩提 5어 색인** | `lumina-geumganggyeong-02-multilingual-suno.md` |
 
 ---
 
