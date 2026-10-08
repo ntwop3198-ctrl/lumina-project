@@ -684,6 +684,11 @@
 | **如来が救った衆生はいない** (JA v1) | `lumina-geumganggyeong-25-rulai-meiyou-duguo-japanese-suno.md` |
 | **Như Lai Không Độ Chúng Sinh Nào** (VI v1) | `lumina-geumganggyeong-25-rulai-meiyou-duguo-vietnamese-suno.md` |
 | **如来没有度过众生 5어 색인** | `lumina-geumganggyeong-25-multilingual-suno.md` |
+| **法身无形** (ZH v1 · 7-1 · 26) | `lumina-geumganggyeong-26-fashen-wuxing-chinese-suno.md` |
+| **The Dharma Body Has No Form** (EN v1) | `lumina-geumganggyeong-26-fashen-wuxing-english-suno.md` |
+| **法身に形はない** (JA v1) | `lumina-geumganggyeong-26-fashen-wuxing-japanese-suno.md` |
+| **Pháp Thân Không Hình Tướng** (VI v1) | `lumina-geumganggyeong-26-fashen-wuxing-vietnamese-suno.md` |
+| **法身无形 5어 색인** | `lumina-geumganggyeong-26-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
