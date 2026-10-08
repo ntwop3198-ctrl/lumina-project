@@ -574,6 +574,11 @@
 | **わたしだ あなただと言えば 菩薩ではない** (JA v1) | `lumina-geumganggyeong-03-fen-ni-fen-wo-japanese-suno.md` |
 | **Phân ta phân người chẳng phải Bồ Tát** (VI v1) | `lumina-geumganggyeong-03-fen-ni-fen-wo-vietnamese-suno.md` |
 | **分你分我 即非菩萨 5어 색인** | `lumina-geumganggyeong-03-multilingual-suno.md` |
+| **不是帮助的帮助** (ZH v1 · 7-1 · 04) | `lumina-geumganggyeong-04-bushi-bangzhu-chinese-suno.md` |
+| **Help Without Helping** (EN v1) | `lumina-geumganggyeong-04-bushi-bangzhu-english-suno.md` |
+| **助けと思わぬ助け** (JA v1) | `lumina-geumganggyeong-04-bushi-bangzhu-japanese-suno.md` |
+| **Giúp mà như không giúp** (VI v1) | `lumina-geumganggyeong-04-bushi-bangzhu-vietnamese-suno.md` |
+| **不是帮助的帮助 5어 색인** | `lumina-geumganggyeong-04-multilingual-suno.md` |
 
 ---
 
