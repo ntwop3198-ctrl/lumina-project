@@ -619,6 +619,11 @@
 | **その場所が心のありか** (JA v1) | `lumina-geumganggyeong-12-nali-jiushi-xindi-japanese-suno.md` |
 | **Nơi Ấy Là Chốn Của Tâm** (VI v1) | `lumina-geumganggyeong-12-nali-jiushi-xindi-vietnamese-suno.md` |
 | **那里就是心地 5어 색인** | `lumina-geumganggyeong-12-multilingual-suno.md` |
+| **不求之愿** (ZH v1 · 7-1 · 13) | `lumina-geumganggyeong-13-buqiu-zhi-yuan-chinese-suno.md` |
+| **The Wish That Does Not Wish** (EN v1) | `lumina-geumganggyeong-13-buqiu-zhi-yuan-english-suno.md` |
+| **願わない願いが まことの願い** (JA v1) | `lumina-geumganggyeong-13-buqiu-zhi-yuan-japanese-suno.md` |
+| **Nguyện Không Cầu Là Nguyện Thật** (VI v1) | `lumina-geumganggyeong-13-buqiu-zhi-yuan-vietnamese-suno.md` |
+| **不求之愿 5어 색인** | `lumina-geumganggyeong-13-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
