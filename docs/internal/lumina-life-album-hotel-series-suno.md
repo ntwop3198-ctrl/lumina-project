@@ -609,6 +609,11 @@
 | **とどまらない心** (JA v1) | `lumina-geumganggyeong-10-ying-wu-suo-zhu-japanese-suno.md` |
 | **Tâm không chỗ trụ** (VI v1) | `lumina-geumganggyeong-10-ying-wu-suo-zhu-vietnamese-suno.md` |
 | **应无所住 5어 색인** | `lumina-geumganggyeong-10-multilingual-suno.md` |
+| **恒河沙** (ZH v1 · 7-1 · 11) | `lumina-geumganggyeong-11-henghesha-chinese-suno.md` |
+| **Sands of the Ganges** (EN v1) | `lumina-geumganggyeong-11-henghesha-english-suno.md` |
+| **ガンジスの砂** (JA v1) | `lumina-geumganggyeong-11-henghesha-japanese-suno.md` |
+| **Cát Sông Hằng** (VI v1) | `lumina-geumganggyeong-11-henghesha-vietnamese-suno.md` |
+| **恒河沙 5어 색인** | `lumina-geumganggyeong-11-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
