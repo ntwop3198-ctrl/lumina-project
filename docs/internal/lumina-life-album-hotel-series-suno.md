@@ -704,6 +704,11 @@
 | **如来は来ることも去ることもない** (JA v1) | `lumina-geumganggyeong-29-rulai-bulai-yebuqu-japanese-suno.md` |
 | **Như Lai Chẳng Đến Chẳng Đi** (VI v1) | `lumina-geumganggyeong-29-rulai-bulai-yebuqu-vietnamese-suno.md` |
 | **如来不来也不去 5어 색인** | `lumina-geumganggyeong-29-multilingual-suno.md` |
+| **世界非世界** (ZH v1 · 7-1 · 30) | `lumina-geumganggyeong-30-shijie-fei-shijie-chinese-suno.md` |
+| **The World Is Not the World** (EN v1) | `lumina-geumganggyeong-30-shijie-fei-shijie-english-suno.md` |
+| **世界は世界ではない** (JA v1) | `lumina-geumganggyeong-30-shijie-fei-shijie-japanese-suno.md` |
+| **Thế Giới Chẳng Phải Thế Giới** (VI v1) | `lumina-geumganggyeong-30-shijie-fei-shijie-vietnamese-suno.md` |
+| **世界非世界 5어 색인** | `lumina-geumganggyeong-30-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
