@@ -644,6 +644,11 @@
 | **法は法であり 法ではない** (JA v1) | `lumina-geumganggyeong-17-fashi-fa-ye-feifa-japanese-suno.md` |
 | **Pháp Là Pháp Mà Chẳng Phải Pháp** (VI v1) | `lumina-geumganggyeong-17-fashi-fa-ye-feifa-vietnamese-suno.md` |
 | **法是法 也非法 5어 색인** | `lumina-geumganggyeong-17-multilingual-suno.md` |
+| **别抓心 抓不住** (ZH v1 · 7-1 · 18) | `lumina-geumganggyeong-18-bie-zhua-xin-chinese-suno.md` |
+| **Don't Grab the Mind** (EN v1) | `lumina-geumganggyeong-18-bie-zhua-xin-english-suno.md` |
+| **心はつかむな つかめない** (JA v1) | `lumina-geumganggyeong-18-bie-zhua-xin-japanese-suno.md` |
+| **Đừng Nắm Tâm, Chẳng Nắm Được** (VI v1) | `lumina-geumganggyeong-18-bie-zhua-xin-vietnamese-suno.md` |
+| **别抓心 抓不住 5어 색인** | `lumina-geumganggyeong-18-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
