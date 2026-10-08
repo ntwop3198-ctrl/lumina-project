@@ -624,6 +624,11 @@
 | **願わない願いが まことの願い** (JA v1) | `lumina-geumganggyeong-13-buqiu-zhi-yuan-japanese-suno.md` |
 | **Nguyện Không Cầu Là Nguyện Thật** (VI v1) | `lumina-geumganggyeong-13-buqiu-zhi-yuan-vietnamese-suno.md` |
 | **不求之愿 5어 색인** | `lumina-geumganggyeong-13-multilingual-suno.md` |
+| **离相之处就是心地** (ZH v1 · 7-1 · 14) | `lumina-geumganggyeong-14-lixiang-zhichu-chinese-suno.md` |
+| **Beyond All Forms** (EN v1) | `lumina-geumganggyeong-14-lixiang-zhichu-english-suno.md` |
+| **相を離れた場所が心のありか** (JA v1) | `lumina-geumganggyeong-14-lixiang-zhichu-japanese-suno.md` |
+| **Lìa Tướng Là Chốn Của Tâm** (VI v1) | `lumina-geumganggyeong-14-lixiang-zhichu-vietnamese-suno.md` |
+| **离相之处就是心地 5어 색인** | `lumina-geumganggyeong-14-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
