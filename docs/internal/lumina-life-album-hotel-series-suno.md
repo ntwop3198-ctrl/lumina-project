@@ -594,6 +594,11 @@
 | **決まった悟りはない** (JA v1) | `lumina-geumganggyeong-07-wuyou-dingfa-japanese-suno.md` |
 | **Không có giác ngộ nhất định** (VI v1) | `lumina-geumganggyeong-07-wuyou-dingfa-vietnamese-suno.md` |
 | **无有定法 5어 색인** | `lumina-geumganggyeong-07-multilingual-suno.md` |
+| **佛法即非佛法** (ZH v1 · 7-1 · 08) | `lumina-geumganggyeong-08-fofa-ji-fei-fofa-chinese-suno.md` |
+| **The Dharma Is Not the Dharma** (EN v1) | `lumina-geumganggyeong-08-fofa-ji-fei-fofa-english-suno.md` |
+| **仏法は 仏法ではない** (JA v1) | `lumina-geumganggyeong-08-fofa-ji-fei-fofa-japanese-suno.md` |
+| **Phật pháp chẳng phải Phật pháp** (VI v1) | `lumina-geumganggyeong-08-fofa-ji-fei-fofa-vietnamese-suno.md` |
+| **佛法即非佛法 5어 색인** | `lumina-geumganggyeong-08-multilingual-suno.md` |
 
 ---
 
