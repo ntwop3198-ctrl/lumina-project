@@ -654,6 +654,11 @@
 | **福徳に実体はない** (JA v1) | `lumina-geumganggyeong-19-fude-wushiti-japanese-suno.md` |
 | **Phước Đức Không Có Thật Thể** (VI v1) | `lumina-geumganggyeong-19-fude-wushiti-vietnamese-suno.md` |
 | **福德无实体 5어 색인** | `lumina-geumganggyeong-19-multilingual-suno.md` |
+| **无相亦无形** (ZH v1 · 7-1 · 20) | `lumina-geumganggyeong-20-wuxiang-yi-wuxing-chinese-suno.md` |
+| **No Form, No Shape** (EN v1) | `lumina-geumganggyeong-20-wuxiang-yi-wuxing-english-suno.md` |
+| **相も形もない** (JA v1) | `lumina-geumganggyeong-20-wuxiang-yi-wuxing-japanese-suno.md` |
+| **Không Tướng Cũng Không Hình** (VI v1) | `lumina-geumganggyeong-20-wuxiang-yi-wuxing-vietnamese-suno.md` |
+| **无相亦无形 5어 색인** | `lumina-geumganggyeong-20-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
