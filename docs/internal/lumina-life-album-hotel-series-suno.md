@@ -589,6 +589,11 @@
 | **川を渡ったら いかだは置いていけ** (JA v1) | `lumina-geumganggyeong-06-guo-le-he-japanese-suno.md` |
 | **Qua sông rồi hãy bỏ bè** (VI v1) | `lumina-geumganggyeong-06-guo-le-he-vietnamese-suno.md` |
 | **过了河 就放下筏 5어 색인** | `lumina-geumganggyeong-06-multilingual-suno.md` |
+| **无有定法** (ZH v1 · 7-1 · 07) | `lumina-geumganggyeong-07-wuyou-dingfa-chinese-suno.md` |
+| **No Fixed Awakening** (EN v1) | `lumina-geumganggyeong-07-wuyou-dingfa-english-suno.md` |
+| **決まった悟りはない** (JA v1) | `lumina-geumganggyeong-07-wuyou-dingfa-japanese-suno.md` |
+| **Không có giác ngộ nhất định** (VI v1) | `lumina-geumganggyeong-07-wuyou-dingfa-vietnamese-suno.md` |
+| **无有定法 5어 색인** | `lumina-geumganggyeong-07-multilingual-suno.md` |
 
 ---
 
