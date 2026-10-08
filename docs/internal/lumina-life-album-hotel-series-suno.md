@@ -634,6 +634,11 @@
 | **信ひとつで** (JA v1) | `lumina-geumganggyeong-15-zhiping-yifen-xin-japanese-suno.md` |
 | **Chỉ Bằng Một Niềm Tin** (VI v1) | `lumina-geumganggyeong-15-zhiping-yifen-xin-vietnamese-suno.md` |
 | **只凭一份信 5어 색인** | `lumina-geumganggyeong-15-multilingual-suno.md` |
+| **以信洗业** (ZH v1 · 7-1 · 16) | `lumina-geumganggyeong-16-yixin-xiye-chinese-suno.md` |
+| **Washed by Faith** (EN v1) | `lumina-geumganggyeong-16-yixin-xiye-english-suno.md` |
+| **信で業を洗う** (JA v1) | `lumina-geumganggyeong-16-yixin-xiye-japanese-suno.md` |
+| **Lấy Niềm Tin Rửa Nghiệp** (VI v1) | `lumina-geumganggyeong-16-yixin-xiye-vietnamese-suno.md` |
+| **以信洗业 5어 색인** | `lumina-geumganggyeong-16-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
