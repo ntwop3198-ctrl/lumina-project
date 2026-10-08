@@ -659,6 +659,11 @@
 | **相も形もない** (JA v1) | `lumina-geumganggyeong-20-wuxiang-yi-wuxing-japanese-suno.md` |
 | **Không Tướng Cũng Không Hình** (VI v1) | `lumina-geumganggyeong-20-wuxiang-yi-wuxing-vietnamese-suno.md` |
 | **无相亦无形 5어 색인** | `lumina-geumganggyeong-20-multilingual-suno.md` |
+| **无法可说** (ZH v1 · 7-1 · 21) | `lumina-geumganggyeong-21-wufa-ke-shuo-chinese-suno.md` |
+| **No Dharma to Teach** (EN v1) | `lumina-geumganggyeong-21-wufa-ke-shuo-english-suno.md` |
+| **説くべき法はない** (JA v1) | `lumina-geumganggyeong-21-wufa-ke-shuo-japanese-suno.md` |
+| **Không Có Pháp Để Thuyết** (VI v1) | `lumina-geumganggyeong-21-wufa-ke-shuo-vietnamese-suno.md` |
+| **无法可说 5어 색인** | `lumina-geumganggyeong-21-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
