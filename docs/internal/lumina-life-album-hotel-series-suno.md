@@ -669,6 +669,11 @@
 | **得るべき法もない** (JA v1) | `lumina-geumganggyeong-22-wufa-ke-de-japanese-suno.md` |
 | **Không Có Pháp Để Đắc** (VI v1) | `lumina-geumganggyeong-22-wufa-ke-de-vietnamese-suno.md` |
 | **无法可得 5어 색인** | `lumina-geumganggyeong-22-multilingual-suno.md` |
+| **法无高下** (ZH v1 · 7-1 · 23) | `lumina-geumganggyeong-23-fa-wu-gaoxia-chinese-suno.md` |
+| **No High, No Low** (EN v1) | `lumina-geumganggyeong-23-fa-wu-gaoxia-english-suno.md` |
+| **法に高い低いはない** (JA v1) | `lumina-geumganggyeong-23-fa-wu-gaoxia-japanese-suno.md` |
+| **Pháp Không Có Cao Thấp** (VI v1) | `lumina-geumganggyeong-23-fa-wu-gaoxia-vietnamese-suno.md` |
+| **法无高下 5어 색인** | `lumina-geumganggyeong-23-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
