@@ -584,6 +584,11 @@
 | **かたちは かたちではない** (JA v1) | `lumina-geumganggyeong-05-xiang-ji-fei-xiang-japanese-suno.md` |
 | **Tướng chẳng phải tướng** (VI v1) | `lumina-geumganggyeong-05-xiang-ji-fei-xiang-vietnamese-suno.md` |
 | **相即非相 5어 색인** | `lumina-geumganggyeong-05-multilingual-suno.md` |
+| **过了河 就放下筏** (ZH v1 · 7-1 · 06) | `lumina-geumganggyeong-06-guo-le-he-chinese-suno.md` |
+| **Once Across, Leave the Raft** (EN v1) | `lumina-geumganggyeong-06-guo-le-he-english-suno.md` |
+| **川を渡ったら いかだは置いていけ** (JA v1) | `lumina-geumganggyeong-06-guo-le-he-japanese-suno.md` |
+| **Qua sông rồi hãy bỏ bè** (VI v1) | `lumina-geumganggyeong-06-guo-le-he-vietnamese-suno.md` |
+| **过了河 就放下筏 5어 색인** | `lumina-geumganggyeong-06-multilingual-suno.md` |
 
 ---
 
