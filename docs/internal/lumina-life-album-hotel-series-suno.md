@@ -689,6 +689,11 @@
 | **法身に形はない** (JA v1) | `lumina-geumganggyeong-26-fashen-wuxing-japanese-suno.md` |
 | **Pháp Thân Không Hình Tướng** (VI v1) | `lumina-geumganggyeong-26-fashen-wuxing-vietnamese-suno.md` |
 | **法身无形 5어 색인** | `lumina-geumganggyeong-26-multilingual-suno.md` |
+| **无相非无相** (ZH v1 · 7-1 · 27) | `lumina-geumganggyeong-27-wuxiang-fei-wuxiang-chinese-suno.md` |
+| **Formless Is Not Nothing** (EN v1) | `lumina-geumganggyeong-27-wuxiang-fei-wuxiang-english-suno.md` |
+| **無相は無相ではない** (JA v1) | `lumina-geumganggyeong-27-wuxiang-fei-wuxiang-japanese-suno.md` |
+| **Vô Tướng Chẳng Phải Là Không** (VI v1) | `lumina-geumganggyeong-27-wuxiang-fei-wuxiang-vietnamese-suno.md` |
+| **无相非无相 5어 색인** | `lumina-geumganggyeong-27-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
