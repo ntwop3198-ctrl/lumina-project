@@ -679,6 +679,11 @@
 | **須弥山より大きい** (JA v1) | `lumina-geumganggyeong-24-bi-xumi-shan-japanese-suno.md` |
 | **Lớn Hơn Núi Tu Di** (VI v1) | `lumina-geumganggyeong-24-bi-xumi-shan-vietnamese-suno.md` |
 | **比须弥山更大 5어 색인** | `lumina-geumganggyeong-24-multilingual-suno.md` |
+| **如来没有度过众生** (ZH v1 · 7-1 · 25) | `lumina-geumganggyeong-25-rulai-meiyou-duguo-chinese-suno.md` |
+| **The Tathagata Saved No One** (EN v1) | `lumina-geumganggyeong-25-rulai-meiyou-duguo-english-suno.md` |
+| **如来が救った衆生はいない** (JA v1) | `lumina-geumganggyeong-25-rulai-meiyou-duguo-japanese-suno.md` |
+| **Như Lai Không Độ Chúng Sinh Nào** (VI v1) | `lumina-geumganggyeong-25-rulai-meiyou-duguo-vietnamese-suno.md` |
+| **如来没有度过众生 5어 색인** | `lumina-geumganggyeong-25-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
