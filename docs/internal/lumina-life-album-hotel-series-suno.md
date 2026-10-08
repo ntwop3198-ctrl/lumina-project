@@ -664,6 +664,11 @@
 | **説くべき法はない** (JA v1) | `lumina-geumganggyeong-21-wufa-ke-shuo-japanese-suno.md` |
 | **Không Có Pháp Để Thuyết** (VI v1) | `lumina-geumganggyeong-21-wufa-ke-shuo-vietnamese-suno.md` |
 | **无法可说 5어 색인** | `lumina-geumganggyeong-21-multilingual-suno.md` |
+| **无法可得** (ZH v1 · 7-1 · 22) | `lumina-geumganggyeong-22-wufa-ke-de-chinese-suno.md` |
+| **Nothing to Gain** (EN v1) | `lumina-geumganggyeong-22-wufa-ke-de-english-suno.md` |
+| **得るべき法もない** (JA v1) | `lumina-geumganggyeong-22-wufa-ke-de-japanese-suno.md` |
+| **Không Có Pháp Để Đắc** (VI v1) | `lumina-geumganggyeong-22-wufa-ke-de-vietnamese-suno.md` |
+| **无法可得 5어 색인** | `lumina-geumganggyeong-22-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
