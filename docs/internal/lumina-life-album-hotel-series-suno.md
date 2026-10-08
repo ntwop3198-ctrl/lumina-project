@@ -569,6 +569,11 @@
 | **空気の読めない須菩提** (JA v1) | `lumina-geumganggyeong-02-subhuti-japanese-suno.md` |
 | **Tu Bồ Đề chẳng biết ý** (VI v1) | `lumina-geumganggyeong-02-subhuti-vietnamese-suno.md` |
 | **不识趣的须菩提 5어 색인** | `lumina-geumganggyeong-02-multilingual-suno.md` |
+| **分你分我 即非菩萨** (ZH v1 · 7-1 · 03) | `lumina-geumganggyeong-03-fen-ni-fen-wo-chinese-suno.md` |
+| **No Line Between Me and You** (EN v1) | `lumina-geumganggyeong-03-fen-ni-fen-wo-english-suno.md` |
+| **わたしだ あなただと言えば 菩薩ではない** (JA v1) | `lumina-geumganggyeong-03-fen-ni-fen-wo-japanese-suno.md` |
+| **Phân ta phân người chẳng phải Bồ Tát** (VI v1) | `lumina-geumganggyeong-03-fen-ni-fen-wo-vietnamese-suno.md` |
+| **分你分我 即非菩萨 5어 색인** | `lumina-geumganggyeong-03-multilingual-suno.md` |
 
 ---
 
