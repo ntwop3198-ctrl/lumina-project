@@ -694,6 +694,11 @@
 | **無相は無相ではない** (JA v1) | `lumina-geumganggyeong-27-wuxiang-fei-wuxiang-japanese-suno.md` |
 | **Vô Tướng Chẳng Phải Là Không** (VI v1) | `lumina-geumganggyeong-27-wuxiang-fei-wuxiang-vietnamese-suno.md` |
 | **无相非无相 5어 색인** | `lumina-geumganggyeong-27-multilingual-suno.md` |
+| **莫贪福德** (ZH v1 · 7-1 · 28) | `lumina-geumganggyeong-28-mo-tan-fude-chinese-suno.md` |
+| **Do Not Crave Merit** (EN v1) | `lumina-geumganggyeong-28-mo-tan-fude-english-suno.md` |
+| **福徳を貪るな** (JA v1) | `lumina-geumganggyeong-28-mo-tan-fude-japanese-suno.md` |
+| **Chớ Tham Phước Đức** (VI v1) | `lumina-geumganggyeong-28-mo-tan-fude-vietnamese-suno.md` |
+| **莫贪福德 5어 색인** | `lumina-geumganggyeong-28-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
