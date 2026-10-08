@@ -604,6 +604,15 @@
 | **かたちのない賞** (JA v1) | `lumina-geumganggyeong-09-wuxiang-zhi-shang-japanese-suno.md` |
 | **Giải thưởng không tướng** (VI v1) | `lumina-geumganggyeong-09-wuxiang-zhi-shang-vietnamese-suno.md` |
 | **无相之赏 5어 색인** | `lumina-geumganggyeong-09-multilingual-suno.md` |
+| **应无所住** (ZH v1 · 7-1 · 10) | `lumina-geumganggyeong-10-ying-wu-suo-zhu-chinese-suno.md` |
+| **A Mind That Dwells Nowhere** (EN v1) | `lumina-geumganggyeong-10-ying-wu-suo-zhu-english-suno.md` |
+| **とどまらない心** (JA v1) | `lumina-geumganggyeong-10-ying-wu-suo-zhu-japanese-suno.md` |
+| **Tâm không chỗ trụ** (VI v1) | `lumina-geumganggyeong-10-ying-wu-suo-zhu-vietnamese-suno.md` |
+| **应无所住 5어 색인** | `lumina-geumganggyeong-10-multilingual-suno.md` |
+| **应无所住.docx** | `应无所住.docx` |
+| **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
+| **とどまらない心.docx** | `とどまらない心.docx` |
+| **Tâm không chỗ trụ.docx** | `Tâm không chỗ trụ.docx` |
 
 ---
 
