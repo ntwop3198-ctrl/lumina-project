@@ -709,6 +709,11 @@
 | **世界は世界ではない** (JA v1) | `lumina-geumganggyeong-30-shijie-fei-shijie-japanese-suno.md` |
 | **Thế Giới Chẳng Phải Thế Giới** (VI v1) | `lumina-geumganggyeong-30-shijie-fei-shijie-vietnamese-suno.md` |
 | **世界非世界 5어 색인** | `lumina-geumganggyeong-30-multilingual-suno.md` |
+| **法相也莫生** (ZH v1 · 7-1 · 31) | `lumina-geumganggyeong-31-faxiang-ye-mosheng-chinese-suno.md` |
+| **Make No Form of Dharma** (EN v1) | `lumina-geumganggyeong-31-faxiang-ye-mosheng-english-suno.md` |
+| **法という相もつくるな** (JA v1) | `lumina-geumganggyeong-31-faxiang-ye-mosheng-japanese-suno.md` |
+| **Chớ Sinh Pháp Tướng** (VI v1) | `lumina-geumganggyeong-31-faxiang-ye-mosheng-vietnamese-suno.md` |
+| **法相也莫生 5어 색인** | `lumina-geumganggyeong-31-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
