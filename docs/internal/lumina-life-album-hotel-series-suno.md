@@ -714,6 +714,11 @@
 | **法という相もつくるな** (JA v1) | `lumina-geumganggyeong-31-faxiang-ye-mosheng-japanese-suno.md` |
 | **Chớ Sinh Pháp Tướng** (VI v1) | `lumina-geumganggyeong-31-faxiang-ye-mosheng-vietnamese-suno.md` |
 | **法相也莫生 5어 색인** | `lumina-geumganggyeong-31-multilingual-suno.md` |
+| **法如泡沫** (ZH v1 · 7-1 · 32) | `lumina-geumganggyeong-32-fa-ru-paomo-chinese-suno.md` |
+| **The Dharma Is Like a Bubble** (EN v1) | `lumina-geumganggyeong-32-fa-ru-paomo-english-suno.md` |
+| **法は泡のごとし** (JA v1) | `lumina-geumganggyeong-32-fa-ru-paomo-japanese-suno.md` |
+| **Pháp Như Bọt Nước** (VI v1) | `lumina-geumganggyeong-32-fa-ru-paomo-vietnamese-suno.md` |
+| **法如泡沫 5어 색인** | `lumina-geumganggyeong-32-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
