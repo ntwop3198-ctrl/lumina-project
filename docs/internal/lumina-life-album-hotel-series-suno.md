@@ -558,6 +558,12 @@
 | **チャンギル しっかりしろよ** (JA v1) | `lumina-janggila-jeongsincharira-japanese-suno.md` |
 | **Janggil Ơi Tỉnh Lại Đi** (VI v1) | `lumina-janggila-jeongsincharira-vietnamese-suno.md` |
 | **장길아 정신차리라 5어 색인** | `lumina-janggila-jeongsincharira-multilingual-suno.md` |
+| **金刚经 连作 색인** (7-1) | `lumina-geumganggyeong-series-suno.md` |
+| **洗足敷座而坐** (ZH v1 · 7-1 · 01) | `lumina-geumganggyeong-01-xizu-fuzuo-erzuo-chinese-suno.md` |
+| **Washed My Feet and Sat** (EN v1) | `lumina-geumganggyeong-01-xizu-fuzuo-erzuo-english-suno.md` |
+| **足を洗い 座を敷いて坐った** (JA v1) | `lumina-geumganggyeong-01-xizu-fuzuo-erzuo-japanese-suno.md` |
+| **Rửa chân trải tòa ngồi xuống** (VI v1) | `lumina-geumganggyeong-01-xizu-fuzuo-erzuo-vietnamese-suno.md` |
+| **洗足敷座而坐 5어 색인** | `lumina-geumganggyeong-01-multilingual-suno.md` |
 
 ---
 
