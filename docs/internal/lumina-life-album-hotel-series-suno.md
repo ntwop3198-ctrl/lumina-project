@@ -599,6 +599,11 @@
 | **仏法は 仏法ではない** (JA v1) | `lumina-geumganggyeong-08-fofa-ji-fei-fofa-japanese-suno.md` |
 | **Phật pháp chẳng phải Phật pháp** (VI v1) | `lumina-geumganggyeong-08-fofa-ji-fei-fofa-vietnamese-suno.md` |
 | **佛法即非佛法 5어 색인** | `lumina-geumganggyeong-08-multilingual-suno.md` |
+| **无相之赏** (ZH v1 · 7-1 · 09) | `lumina-geumganggyeong-09-wuxiang-zhi-shang-chinese-suno.md` |
+| **The Prize Without a Form** (EN v1) | `lumina-geumganggyeong-09-wuxiang-zhi-shang-english-suno.md` |
+| **かたちのない賞** (JA v1) | `lumina-geumganggyeong-09-wuxiang-zhi-shang-japanese-suno.md` |
+| **Giải thưởng không tướng** (VI v1) | `lumina-geumganggyeong-09-wuxiang-zhi-shang-vietnamese-suno.md` |
+| **无相之赏 5어 색인** | `lumina-geumganggyeong-09-multilingual-suno.md` |
 
 ---
 
