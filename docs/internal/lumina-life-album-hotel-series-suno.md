@@ -629,6 +629,11 @@
 | **相を離れた場所が心のありか** (JA v1) | `lumina-geumganggyeong-14-lixiang-zhichu-japanese-suno.md` |
 | **Lìa Tướng Là Chốn Của Tâm** (VI v1) | `lumina-geumganggyeong-14-lixiang-zhichu-vietnamese-suno.md` |
 | **离相之处就是心地 5어 색인** | `lumina-geumganggyeong-14-multilingual-suno.md` |
+| **只凭一份信** (ZH v1 · 7-1 · 15) | `lumina-geumganggyeong-15-zhiping-yifen-xin-chinese-suno.md` |
+| **On Faith Alone** (EN v1) | `lumina-geumganggyeong-15-zhiping-yifen-xin-english-suno.md` |
+| **信ひとつで** (JA v1) | `lumina-geumganggyeong-15-zhiping-yifen-xin-japanese-suno.md` |
+| **Chỉ Bằng Một Niềm Tin** (VI v1) | `lumina-geumganggyeong-15-zhiping-yifen-xin-vietnamese-suno.md` |
+| **只凭一份信 5어 색인** | `lumina-geumganggyeong-15-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
