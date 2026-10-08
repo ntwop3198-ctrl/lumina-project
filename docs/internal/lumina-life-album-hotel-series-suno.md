@@ -639,6 +639,11 @@
 | **信で業を洗う** (JA v1) | `lumina-geumganggyeong-16-yixin-xiye-japanese-suno.md` |
 | **Lấy Niềm Tin Rửa Nghiệp** (VI v1) | `lumina-geumganggyeong-16-yixin-xiye-vietnamese-suno.md` |
 | **以信洗业 5어 색인** | `lumina-geumganggyeong-16-multilingual-suno.md` |
+| **法是法 也非法** (ZH v1 · 7-1 · 17) | `lumina-geumganggyeong-17-fashi-fa-ye-feifa-chinese-suno.md` |
+| **The Dharma Is and Is Not** (EN v1) | `lumina-geumganggyeong-17-fashi-fa-ye-feifa-english-suno.md` |
+| **法は法であり 法ではない** (JA v1) | `lumina-geumganggyeong-17-fashi-fa-ye-feifa-japanese-suno.md` |
+| **Pháp Là Pháp Mà Chẳng Phải Pháp** (VI v1) | `lumina-geumganggyeong-17-fashi-fa-ye-feifa-vietnamese-suno.md` |
+| **法是法 也非法 5어 색인** | `lumina-geumganggyeong-17-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
