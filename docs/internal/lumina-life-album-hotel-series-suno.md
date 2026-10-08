@@ -699,6 +699,11 @@
 | **福徳を貪るな** (JA v1) | `lumina-geumganggyeong-28-mo-tan-fude-japanese-suno.md` |
 | **Chớ Tham Phước Đức** (VI v1) | `lumina-geumganggyeong-28-mo-tan-fude-vietnamese-suno.md` |
 | **莫贪福德 5어 색인** | `lumina-geumganggyeong-28-multilingual-suno.md` |
+| **如来不来也不去** (ZH v1 · 7-1 · 29) | `lumina-geumganggyeong-29-rulai-bulai-yebuqu-chinese-suno.md` |
+| **Neither Coming Nor Going** (EN v1) | `lumina-geumganggyeong-29-rulai-bulai-yebuqu-english-suno.md` |
+| **如来は来ることも去ることもない** (JA v1) | `lumina-geumganggyeong-29-rulai-bulai-yebuqu-japanese-suno.md` |
+| **Như Lai Chẳng Đến Chẳng Đi** (VI v1) | `lumina-geumganggyeong-29-rulai-bulai-yebuqu-vietnamese-suno.md` |
+| **如来不来也不去 5어 색인** | `lumina-geumganggyeong-29-multilingual-suno.md` |
 | **应无所住.docx** | `应无所住.docx` |
 | **A Mind That Dwells Nowhere.docx** | `A Mind That Dwells Nowhere.docx` |
 | **とどまらない心.docx** | `とどまらない心.docx` |
