@@ -327,6 +327,12 @@
 | **揺るがない信念** (JA v1) | `lumina-heundeulliji-anneun-mideum-japanese-suno.md` |
 | **Niềm Tin Không Lay Chuyển** (VI v1) | `lumina-heundeulliji-anneun-mideum-vietnamese-suno.md` |
 | **不动摇的信念 5어 색인** | `lumina-heundeulliji-anneun-mideum-multilingual-suno.md` |
+| **털고 간 사람들** (KO v1 · 7-1) | `lumina-teolgo-gan-saramdeul-suno.md` |
+| **拂衣而去的人们** (ZH v1) | `lumina-teolgo-gan-saramdeul-chinese-suno.md` |
+| **Those Who Brushed It Off** (EN v1) | `lumina-teolgo-gan-saramdeul-english-suno.md` |
+| **払って行った人たち** (JA v1) | `lumina-teolgo-gan-saramdeul-japanese-suno.md` |
+| **Những Người Phủi Tay Ra Đi** (VI v1) | `lumina-teolgo-gan-saramdeul-vietnamese-suno.md` |
+| **拂衣而去的人们 5어 색인** | `lumina-teolgo-gan-saramdeul-multilingual-suno.md` |
 
 ---
 
