@@ -279,6 +279,12 @@
 | **あったかい奴** (JA v1) | `lumina-na-hunhunhan-aiya-japanese-suno.md` |
 | **Chàng Trai Ấm Áp** (VI v1) | `lumina-na-hunhunhan-aiya-vietnamese-suno.md` |
 | **暖心的孩子 5어 색인** | `lumina-na-hunhunhan-aiya-multilingual-suno.md` |
+| **아무것도 안 하는 중** (KO v1 · 11-4) | `lumina-amugeosdo-an-haneun-jung-suno.md` |
+| **正在什么都不做** (ZH v1) | `lumina-amugeosdo-an-haneun-jung-chinese-suno.md` |
+| **Doing Nothing Right Now** (EN v1) | `lumina-amugeosdo-an-haneun-jung-english-suno.md` |
+| **ただいま何もしていません** (JA v1) | `lumina-amugeosdo-an-haneun-jung-japanese-suno.md` |
+| **Đang Không Làm Gì Cả** (VI v1) | `lumina-amugeosdo-an-haneun-jung-vietnamese-suno.md` |
+| **正在什么都不做 5어 색인** | `lumina-amugeosdo-an-haneun-jung-multilingual-suno.md` |
 
 ---
 
