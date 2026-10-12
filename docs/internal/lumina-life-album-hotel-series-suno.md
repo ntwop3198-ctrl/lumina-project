@@ -297,6 +297,12 @@
 | **行かなきゃ** (JA v1) | `lumina-nan-gaya-hae-japanese-suno.md` |
 | **Tôi Phải Đi** (VI v1) | `lumina-nan-gaya-hae-vietnamese-suno.md` |
 | **我得走 5어 색인** | `lumina-nan-gaya-hae-multilingual-suno.md` |
+| **내 힘으로 서는 삶** (KO v1 · 2-1) | `lumina-nae-himeuro-seoneun-salm-suno.md` |
+| **靠自己站起来的人生** (ZH v1) | `lumina-nae-himeuro-seoneun-salm-chinese-suno.md` |
+| **Standing on My Own** (EN v1) | `lumina-nae-himeuro-seoneun-salm-english-suno.md` |
+| **自分の力で立つ人生** (JA v1) | `lumina-nae-himeuro-seoneun-salm-japanese-suno.md` |
+| **Đứng Bằng Sức Mình** (VI v1) | `lumina-nae-himeuro-seoneun-salm-vietnamese-suno.md` |
+| **靠自己站起来的人生 5어 색인** | `lumina-nae-himeuro-seoneun-salm-multilingual-suno.md` |
 
 ---
 
