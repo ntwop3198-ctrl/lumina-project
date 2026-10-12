@@ -285,6 +285,12 @@
 | **ただいま何もしていません** (JA v1) | `lumina-amugeosdo-an-haneun-jung-japanese-suno.md` |
 | **Đang Không Làm Gì Cả** (VI v1) | `lumina-amugeosdo-an-haneun-jung-vietnamese-suno.md` |
 | **正在什么都不做 5어 색인** | `lumina-amugeosdo-an-haneun-jung-multilingual-suno.md` |
+| **이만하면 산 거지** (KO v1 · 6-1) | `lumina-imanhamyeon-san-geoji-suno.md` |
+| **这样也算活过了** (ZH v1) | `lumina-imanhamyeon-san-geoji-chinese-suno.md` |
+| **I'd Say That's Living** (EN v1) | `lumina-imanhamyeon-san-geoji-english-suno.md` |
+| **これなら生きたうちさ** (JA v1) | `lumina-imanhamyeon-san-geoji-japanese-suno.md` |
+| **Thế Cũng Là Sống Rồi** (VI v1) | `lumina-imanhamyeon-san-geoji-vietnamese-suno.md` |
+| **这样也算活过了 5어 색인** | `lumina-imanhamyeon-san-geoji-multilingual-suno.md` |
 
 ---
 
