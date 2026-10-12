@@ -309,6 +309,12 @@
 | **行動の格子** (JA v1) | `lumina-haengdong-ui-gyeokja-japanese-suno.md` |
 | **Ô Lưới Hành Động** (VI v1) | `lumina-haengdong-ui-gyeokja-vietnamese-suno.md` |
 | **行动的网格 5어 색인** | `lumina-haengdong-ui-gyeokja-multilingual-suno.md` |
+| **명확한 경로** (KO v1 · 2-2) | `lumina-myeonghwakhan-gyeongno-suno.md` |
+| **清晰的路径** (ZH v1) | `lumina-myeonghwakhan-gyeongno-chinese-suno.md` |
+| **A Clear Path** (EN v1) | `lumina-myeonghwakhan-gyeongno-english-suno.md` |
+| **明確な道筋** (JA v1) | `lumina-myeonghwakhan-gyeongno-japanese-suno.md` |
+| **Lộ Trình Rõ Ràng** (VI v1) | `lumina-myeonghwakhan-gyeongno-vietnamese-suno.md` |
+| **清晰的路径 5어 색인** | `lumina-myeonghwakhan-gyeongno-multilingual-suno.md` |
 
 ---
 
