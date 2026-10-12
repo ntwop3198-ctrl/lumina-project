@@ -233,6 +233,12 @@
 | **心がつくる重さ** (JA v1) | `lumina-maeumi-mandeun-muge-japanese-suno.md` |
 | **Sức Nặng Của Tâm** (VI v1) | `lumina-maeumi-mandeun-muge-vietnamese-suno.md` |
 | **心造的重量 5어 색인** | `lumina-maeumi-mandeun-muge-multilingual-suno.md` |
+| **내 안의 주인** (KO v1 · 2-1) | `lumina-nae-anui-juin-suno.md` |
+| **心中的主人** (ZH v1) | `lumina-nae-anui-juin-chinese-suno.md` |
+| **The Master Within** (EN v1) | `lumina-nae-anui-juin-english-suno.md` |
+| **内なる主人** (JA v1) | `lumina-nae-anui-juin-japanese-suno.md` |
+| **Người Chủ Bên Trong** (VI v1) | `lumina-nae-anui-juin-vietnamese-suno.md` |
+| **心中的主人 5어 색인** | `lumina-nae-anui-juin-multilingual-suno.md` |
 
 ---
 
