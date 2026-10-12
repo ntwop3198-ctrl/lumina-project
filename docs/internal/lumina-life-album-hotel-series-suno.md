@@ -223,6 +223,11 @@
 | **軽くなる生き方** (JA v1) | `lumina-gabyeowojineun-sal-japanese-suno.md` |
 | **Sống Nhẹ Nhàng Hơn** (VI v1) | `lumina-gabyeowojineun-sal-vietnamese-suno.md` |
 | **轻盈的人生 5어 색인** | `lumina-gabyeowojineun-sal-multilingual-suno.md` |
+| **两眼两耳一张嘴** (ZH v1 · 2-4) | `lumina-du-nun-du-gwi-han-ip-chinese-suno.md` |
+| **Two Eyes, Two Ears, One Mouth** (EN v1) | `lumina-du-nun-du-gwi-han-ip-english-suno.md` |
+| **目はふたつ 耳はふたつ 口はひとつ** (JA v1) | `lumina-du-nun-du-gwi-han-ip-japanese-suno.md` |
+| **Hai Mắt, Hai Tai, Một Miệng** (VI v1) | `lumina-du-nun-du-gwi-han-ip-vietnamese-suno.md` |
+| **两眼两耳一张嘴 5어 색인** | `lumina-du-nun-du-gwi-han-ip-multilingual-suno.md` |
 
 ---
 
