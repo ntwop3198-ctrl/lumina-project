@@ -291,6 +291,12 @@
 | **これなら生きたうちさ** (JA v1) | `lumina-imanhamyeon-san-geoji-japanese-suno.md` |
 | **Thế Cũng Là Sống Rồi** (VI v1) | `lumina-imanhamyeon-san-geoji-vietnamese-suno.md` |
 | **这样也算活过了 5어 색인** | `lumina-imanhamyeon-san-geoji-multilingual-suno.md` |
+| **난 가야 해** (KO v1 · 6-3) | `lumina-nan-gaya-hae-suno.md` |
+| **我得走** (ZH v1) | `lumina-nan-gaya-hae-chinese-suno.md` |
+| **I Have to Go** (EN v1) | `lumina-nan-gaya-hae-english-suno.md` |
+| **行かなきゃ** (JA v1) | `lumina-nan-gaya-hae-japanese-suno.md` |
+| **Tôi Phải Đi** (VI v1) | `lumina-nan-gaya-hae-vietnamese-suno.md` |
+| **我得走 5어 색인** | `lumina-nan-gaya-hae-multilingual-suno.md` |
 
 ---
 
