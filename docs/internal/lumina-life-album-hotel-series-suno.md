@@ -208,6 +208,11 @@
 | **Thật Chứ?** (VI v1) | `lumina-real-talk-groove-dance-vietnamese-suno.md` |
 | **4语索引** | `lumina-real-talk-groove-dance-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (ZH·EN·JA·VI · 구소 본문 행) | `lumina-real-talk-groove-dance-suno-paste.md` |
+| **心之所唤** (ZH v1 · 2-1) | `lumina-maeumi-bureuneun-geot-chinese-suno.md` |
+| **What the Heart Calls For** (EN v1) | `lumina-maeumi-bureuneun-geot-english-suno.md` |
+| **心が呼ぶもの** (JA v1) | `lumina-maeumi-bureuneun-geot-japanese-suno.md` |
+| **Điều Trái Tim Gọi Tên** (VI v1) | `lumina-maeumi-bureuneun-geot-vietnamese-suno.md` |
+| **心之所唤 5어 색인** | `lumina-maeumi-bureuneun-geot-multilingual-suno.md` |
 
 ---
 
