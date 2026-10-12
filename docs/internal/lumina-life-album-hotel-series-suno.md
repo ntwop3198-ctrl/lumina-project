@@ -213,6 +213,11 @@
 | **心が呼ぶもの** (JA v1) | `lumina-maeumi-bureuneun-geot-japanese-suno.md` |
 | **Điều Trái Tim Gọi Tên** (VI v1) | `lumina-maeumi-bureuneun-geot-vietnamese-suno.md` |
 | **心之所唤 5어 색인** | `lumina-maeumi-bureuneun-geot-multilingual-suno.md` |
+| **铁饭碗** (ZH v1 · 2-1) | `lumina-cheolbaptong-chinese-suno.md` |
+| **Iron Rice Bowl** (EN v1) | `lumina-cheolbaptong-english-suno.md` |
+| **手に職** (JA v1) | `lumina-cheolbaptong-japanese-suno.md` |
+| **Cần Câu Cơm** (VI v1) | `lumina-cheolbaptong-vietnamese-suno.md` |
+| **铁饭碗 5어 색인** | `lumina-cheolbaptong-multilingual-suno.md` |
 
 ---
 
