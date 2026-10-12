@@ -255,6 +255,12 @@
 | **ゆっくり流れるもの** (JA v1) | `lumina-cheoncheonhi-heureuneun-geot-japanese-suno.md` |
 | **Những Điều Trôi Chậm** (VI v1) | `lumina-cheoncheonhi-heureuneun-geot-vietnamese-suno.md` |
 | **慢慢流淌的 5어 색인** | `lumina-cheoncheonhi-heureuneun-geot-multilingual-suno.md` |
+| **식탁이라는 거울** (KO v1 · 2-1) | `lumina-siktag-iraneun-geoul-suno.md` |
+| **餐桌这面镜子** (ZH v1) | `lumina-siktag-iraneun-geoul-chinese-suno.md` |
+| **The Table as a Mirror** (EN v1) | `lumina-siktag-iraneun-geoul-english-suno.md` |
+| **食卓という鏡** (JA v1) | `lumina-siktag-iraneun-geoul-japanese-suno.md` |
+| **Bàn Ăn Là Tấm Gương** (VI v1) | `lumina-siktag-iraneun-geoul-vietnamese-suno.md` |
+| **餐桌这面镜子 5어 색인** | `lumina-siktag-iraneun-geoul-multilingual-suno.md` |
 
 ---
 
