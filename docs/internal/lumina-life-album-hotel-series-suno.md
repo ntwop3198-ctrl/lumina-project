@@ -267,6 +267,12 @@
 | **単純** (JA v1) | `lumina-dansun-japanese-suno.md` |
 | **Đơn Sơ** (VI v1) | `lumina-dansun-vietnamese-suno.md` |
 | **单纯 5어 색인** | `lumina-dansun-multilingual-suno.md` |
+| **아이참** (KO v1 · 2-3) | `lumina-aicham-suno.md` |
+| **哎呀真是** (ZH v1) | `lumina-aicham-chinese-suno.md` |
+| **Oh, Come On** (EN v1) | `lumina-aicham-english-suno.md` |
+| **あーもう** (JA v1) | `lumina-aicham-japanese-suno.md` |
+| **Ôi Trời** (VI v1) | `lumina-aicham-vietnamese-suno.md` |
+| **哎呀真是 5어 색인** | `lumina-aicham-multilingual-suno.md` |
 
 ---
 
