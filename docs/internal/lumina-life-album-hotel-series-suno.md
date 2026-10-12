@@ -321,6 +321,12 @@
 | **繰り返す言葉の力** (JA v1) | `lumina-doenoeneun-mal-ui-him-japanese-suno.md` |
 | **Sức Mạnh Của Lời Lặp Lại** (VI v1) | `lumina-doenoeneun-mal-ui-him-vietnamese-suno.md` |
 | **反复默念的力量 5어 색인** | `lumina-doenoeneun-mal-ui-him-multilingual-suno.md` |
+| **흔들리지 않는 믿음** (KO v1 · 2-2) | `lumina-heundeulliji-anneun-mideum-suno.md` |
+| **不动摇的信念** (ZH v1) | `lumina-heundeulliji-anneun-mideum-chinese-suno.md` |
+| **Unshaken Faith** (EN v1) | `lumina-heundeulliji-anneun-mideum-english-suno.md` |
+| **揺るがない信念** (JA v1) | `lumina-heundeulliji-anneun-mideum-japanese-suno.md` |
+| **Niềm Tin Không Lay Chuyển** (VI v1) | `lumina-heundeulliji-anneun-mideum-vietnamese-suno.md` |
+| **不动摇的信念 5어 색인** | `lumina-heundeulliji-anneun-mideum-multilingual-suno.md` |
 
 ---
 
