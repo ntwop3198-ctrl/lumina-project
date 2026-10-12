@@ -249,6 +249,12 @@
 | **寝台車人生** (JA v1) | `lumina-chimdaekan-insaeng-japanese-suno.md` |
 | **Đời Toa Giường Nằm** (VI v1) | `lumina-chimdaekan-insaeng-vietnamese-suno.md` |
 | **卧铺人生 5어 색인** | `lumina-chimdaekan-insaeng-multilingual-suno.md` |
+| **천천히 흐르는 것** (KO v1 · 2-1) | `lumina-cheoncheonhi-heureuneun-geot-suno.md` |
+| **慢慢流淌的** (ZH v1) | `lumina-cheoncheonhi-heureuneun-geot-chinese-suno.md` |
+| **What Flows Slowly** (EN v1) | `lumina-cheoncheonhi-heureuneun-geot-english-suno.md` |
+| **ゆっくり流れるもの** (JA v1) | `lumina-cheoncheonhi-heureuneun-geot-japanese-suno.md` |
+| **Những Điều Trôi Chậm** (VI v1) | `lumina-cheoncheonhi-heureuneun-geot-vietnamese-suno.md` |
+| **慢慢流淌的 5어 색인** | `lumina-cheoncheonhi-heureuneun-geot-multilingual-suno.md` |
 
 ---
 
