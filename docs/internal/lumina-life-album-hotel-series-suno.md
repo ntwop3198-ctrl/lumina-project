@@ -261,6 +261,12 @@
 | **食卓という鏡** (JA v1) | `lumina-siktag-iraneun-geoul-japanese-suno.md` |
 | **Bàn Ăn Là Tấm Gương** (VI v1) | `lumina-siktag-iraneun-geoul-vietnamese-suno.md` |
 | **餐桌这面镜子 5어 색인** | `lumina-siktag-iraneun-geoul-multilingual-suno.md` |
+| **단순** (KO v1 · 2-1) | `lumina-dansun-suno.md` |
+| **单纯** (ZH v1) | `lumina-dansun-chinese-suno.md` |
+| **Simplicity** (EN v1) | `lumina-dansun-english-suno.md` |
+| **単純** (JA v1) | `lumina-dansun-japanese-suno.md` |
+| **Đơn Sơ** (VI v1) | `lumina-dansun-vietnamese-suno.md` |
+| **单纯 5어 색인** | `lumina-dansun-multilingual-suno.md` |
 
 ---
 
