@@ -228,6 +228,11 @@
 | **目はふたつ 耳はふたつ 口はひとつ** (JA v1) | `lumina-du-nun-du-gwi-han-ip-japanese-suno.md` |
 | **Hai Mắt, Hai Tai, Một Miệng** (VI v1) | `lumina-du-nun-du-gwi-han-ip-vietnamese-suno.md` |
 | **两眼两耳一张嘴 5어 색인** | `lumina-du-nun-du-gwi-han-ip-multilingual-suno.md` |
+| **心造的重量** (ZH v1 · 11-2) | `lumina-maeumi-mandeun-muge-chinese-suno.md` |
+| **The Weight the Mind Makes** (EN v1) | `lumina-maeumi-mandeun-muge-english-suno.md` |
+| **心がつくる重さ** (JA v1) | `lumina-maeumi-mandeun-muge-japanese-suno.md` |
+| **Sức Nặng Của Tâm** (VI v1) | `lumina-maeumi-mandeun-muge-vietnamese-suno.md` |
+| **心造的重量 5어 색인** | `lumina-maeumi-mandeun-muge-multilingual-suno.md` |
 
 ---
 
