@@ -303,6 +303,12 @@
 | **自分の力で立つ人生** (JA v1) | `lumina-nae-himeuro-seoneun-salm-japanese-suno.md` |
 | **Đứng Bằng Sức Mình** (VI v1) | `lumina-nae-himeuro-seoneun-salm-vietnamese-suno.md` |
 | **靠自己站起来的人生 5어 색인** | `lumina-nae-himeuro-seoneun-salm-multilingual-suno.md` |
+| **행동의 격자** (KO v1 · 2-2) | `lumina-haengdong-ui-gyeokja-suno.md` |
+| **行动的网格** (ZH v1) | `lumina-haengdong-ui-gyeokja-chinese-suno.md` |
+| **Grid of Action** (EN v1) | `lumina-haengdong-ui-gyeokja-english-suno.md` |
+| **行動の格子** (JA v1) | `lumina-haengdong-ui-gyeokja-japanese-suno.md` |
+| **Ô Lưới Hành Động** (VI v1) | `lumina-haengdong-ui-gyeokja-vietnamese-suno.md` |
+| **行动的网格 5어 색인** | `lumina-haengdong-ui-gyeokja-multilingual-suno.md` |
 
 ---
 
