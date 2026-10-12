@@ -239,6 +239,11 @@
 | **内なる主人** (JA v1) | `lumina-nae-anui-juin-japanese-suno.md` |
 | **Người Chủ Bên Trong** (VI v1) | `lumina-nae-anui-juin-vietnamese-suno.md` |
 | **心中的主人 5어 색인** | `lumina-nae-anui-juin-multilingual-suno.md` |
+| **隐藏的重量** (ZH v1 · 11-2) | `lumina-sumgineun-muge-chinese-suno.md` |
+| **The Weight of Hiding** (EN v1) | `lumina-sumgineun-muge-english-suno.md` |
+| **隠すことの重さ** (JA v1) | `lumina-sumgineun-muge-japanese-suno.md` |
+| **Sức Nặng Của Che Giấu** (VI v1) | `lumina-sumgineun-muge-vietnamese-suno.md` |
+| **隐藏的重量 5어 색인** | `lumina-sumgineun-muge-multilingual-suno.md` |
 
 ---
 
