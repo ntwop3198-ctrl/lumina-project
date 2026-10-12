@@ -273,6 +273,12 @@
 | **あーもう** (JA v1) | `lumina-aicham-japanese-suno.md` |
 | **Ôi Trời** (VI v1) | `lumina-aicham-vietnamese-suno.md` |
 | **哎呀真是 5어 색인** | `lumina-aicham-multilingual-suno.md` |
+| **나 훈훈한 아이야** (KO v1 · 6-1) | `lumina-na-hunhunhan-aiya-suno.md` |
+| **暖心的孩子** (ZH v1) | `lumina-na-hunhunhan-aiya-chinese-suno.md` |
+| **Warm-Hearted Kid** (EN v1) | `lumina-na-hunhunhan-aiya-english-suno.md` |
+| **あったかい奴** (JA v1) | `lumina-na-hunhunhan-aiya-japanese-suno.md` |
+| **Chàng Trai Ấm Áp** (VI v1) | `lumina-na-hunhunhan-aiya-vietnamese-suno.md` |
+| **暖心的孩子 5어 색인** | `lumina-na-hunhunhan-aiya-multilingual-suno.md` |
 
 ---
 
