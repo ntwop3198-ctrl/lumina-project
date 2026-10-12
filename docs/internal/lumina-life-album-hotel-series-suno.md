@@ -333,6 +333,12 @@
 | **払って行った人たち** (JA v1) | `lumina-teolgo-gan-saramdeul-japanese-suno.md` |
 | **Những Người Phủi Tay Ra Đi** (VI v1) | `lumina-teolgo-gan-saramdeul-vietnamese-suno.md` |
 | **拂衣而去的人们 5어 색인** | `lumina-teolgo-gan-saramdeul-multilingual-suno.md` |
+| **四盞心燈** (YUE v1 · 7-1) | `lumina-si-zhan-xin-deng-cantonese-suno.md` |
+| **네 개의 마음등** (KO v1) | `lumina-si-zhan-xin-deng-suno.md` |
+| **Four Lamps of the Heart** (EN v1) | `lumina-si-zhan-xin-deng-english-suno.md` |
+| **四つの心の灯** (JA v1) | `lumina-si-zhan-xin-deng-japanese-suno.md` |
+| **Bốn Ngọn Tâm Đăng** (VI v1) | `lumina-si-zhan-xin-deng-vietnamese-suno.md` |
+| **四盞心燈 5어 색인** | `lumina-si-zhan-xin-deng-multilingual-suno.md` |
 
 ---
 
