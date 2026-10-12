@@ -218,6 +218,11 @@
 | **手に職** (JA v1) | `lumina-cheolbaptong-japanese-suno.md` |
 | **Cần Câu Cơm** (VI v1) | `lumina-cheolbaptong-vietnamese-suno.md` |
 | **铁饭碗 5어 색인** | `lumina-cheolbaptong-multilingual-suno.md` |
+| **轻盈的人生** (ZH v1 · 2-1) | `lumina-gabyeowojineun-sal-chinese-suno.md` |
+| **A Lighter Life** (EN v1) | `lumina-gabyeowojineun-sal-english-suno.md` |
+| **軽くなる生き方** (JA v1) | `lumina-gabyeowojineun-sal-japanese-suno.md` |
+| **Sống Nhẹ Nhàng Hơn** (VI v1) | `lumina-gabyeowojineun-sal-vietnamese-suno.md` |
+| **轻盈的人生 5어 색인** | `lumina-gabyeowojineun-sal-multilingual-suno.md` |
 
 ---
 
