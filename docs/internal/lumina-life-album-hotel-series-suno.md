@@ -315,6 +315,12 @@
 | **明確な道筋** (JA v1) | `lumina-myeonghwakhan-gyeongno-japanese-suno.md` |
 | **Lộ Trình Rõ Ràng** (VI v1) | `lumina-myeonghwakhan-gyeongno-vietnamese-suno.md` |
 | **清晰的路径 5어 색인** | `lumina-myeonghwakhan-gyeongno-multilingual-suno.md` |
+| **되뇌는 말의 힘** (KO v1 · 2-2) | `lumina-doenoeneun-mal-ui-him-suno.md` |
+| **反复默念的力量** (ZH v1) | `lumina-doenoeneun-mal-ui-him-chinese-suno.md` |
+| **The Power of Words Repeated** (EN v1) | `lumina-doenoeneun-mal-ui-him-english-suno.md` |
+| **繰り返す言葉の力** (JA v1) | `lumina-doenoeneun-mal-ui-him-japanese-suno.md` |
+| **Sức Mạnh Của Lời Lặp Lại** (VI v1) | `lumina-doenoeneun-mal-ui-him-vietnamese-suno.md` |
+| **反复默念的力量 5어 색인** | `lumina-doenoeneun-mal-ui-him-multilingual-suno.md` |
 
 ---
 
