@@ -244,6 +244,11 @@
 | **隠すことの重さ** (JA v1) | `lumina-sumgineun-muge-japanese-suno.md` |
 | **Sức Nặng Của Che Giấu** (VI v1) | `lumina-sumgineun-muge-vietnamese-suno.md` |
 | **隐藏的重量 5어 색인** | `lumina-sumgineun-muge-multilingual-suno.md` |
+| **卧铺人生** (ZH v1 · 2-4) | `lumina-chimdaekan-insaeng-chinese-suno.md` |
+| **Sleeper Train Life** (EN v1) | `lumina-chimdaekan-insaeng-english-suno.md` |
+| **寝台車人生** (JA v1) | `lumina-chimdaekan-insaeng-japanese-suno.md` |
+| **Đời Toa Giường Nằm** (VI v1) | `lumina-chimdaekan-insaeng-vietnamese-suno.md` |
+| **卧铺人生 5어 색인** | `lumina-chimdaekan-insaeng-multilingual-suno.md` |
 
 ---
 
