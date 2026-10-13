@@ -357,6 +357,12 @@
 | **耐え抜く者が勝つ** (JA v1) | `lumina-beotineun-jaga-iginda-japanese-suno.md` |
 | **Người Kiên Trì Sẽ Thắng** (VI v1) | `lumina-beotineun-jaga-iginda-vietnamese-suno.md` |
 | **坚持的人终会赢 5어 색인** | `lumina-beotineun-jaga-iginda-multilingual-suno.md` |
+| **전처가 배 아프도록 잘 살아라** (KO v1 · 6-3) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-suno.md` |
+| **好好活着 让前妻眼红** (ZH v1) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-chinese-suno.md` |
+| **Live So Well Your Ex Regrets It** (EN v1) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-english-suno.md` |
+| **元妻が悔しがるほど幸せに** (JA v1) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-japanese-suno.md` |
+| **Sống Thật Tốt Cho Vợ Cũ Phải Tiếc** (VI v1) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-vietnamese-suno.md` |
+| **好好活着 让前妻眼红 5어 색인** | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-multilingual-suno.md` |
 
 ---
 
