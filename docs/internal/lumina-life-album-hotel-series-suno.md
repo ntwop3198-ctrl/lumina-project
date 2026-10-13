@@ -363,6 +363,12 @@
 | **元妻が悔しがるほど幸せに** (JA v1) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-japanese-suno.md` |
 | **Sống Thật Tốt Cho Vợ Cũ Phải Tiếc** (VI v1) | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-vietnamese-suno.md` |
 | **好好活着 让前妻眼红 5어 색인** | `lumina-jeoncheoga-bae-apeudorok-jal-sarara-multilingual-suno.md` |
+| **나비의 외침** (KO v1 · 6-3) | `lumina-nabi-ui-oechim-suno.md` |
+| **蝴蝶的呼喊** (ZH v1) | `lumina-nabi-ui-oechim-chinese-suno.md` |
+| **The Butterfly's Call** (EN v1) | `lumina-nabi-ui-oechim-english-suno.md` |
+| **蝶の叫び** (JA v1) | `lumina-nabi-ui-oechim-japanese-suno.md` |
+| **Tiếng Gọi Của Bướm** (VI v1) | `lumina-nabi-ui-oechim-vietnamese-suno.md` |
+| **蝴蝶的呼喊 5어 색인** | `lumina-nabi-ui-oechim-multilingual-suno.md` |
 
 ---
 
