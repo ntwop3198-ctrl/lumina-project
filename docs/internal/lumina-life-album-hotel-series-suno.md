@@ -369,6 +369,12 @@
 | **蝶の叫び** (JA v1) | `lumina-nabi-ui-oechim-japanese-suno.md` |
 | **Tiếng Gọi Của Bướm** (VI v1) | `lumina-nabi-ui-oechim-vietnamese-suno.md` |
 | **蝴蝶的呼喊 5어 색인** | `lumina-nabi-ui-oechim-multilingual-suno.md` |
+| **달려라 적토마** (KO v1 · 6-3) | `lumina-dallyeora-jeoktoma-suno.md` |
+| **奔跑吧赤兔马** (ZH v1) | `lumina-dallyeora-jeoktoma-chinese-suno.md` |
+| **Run, Red Hare** (EN v1) | `lumina-dallyeora-jeoktoma-english-suno.md` |
+| **走れ赤兎馬** (JA v1) | `lumina-dallyeora-jeoktoma-japanese-suno.md` |
+| **Phi Đi Xích Thố** (VI v1) | `lumina-dallyeora-jeoktoma-vietnamese-suno.md` |
+| **奔跑吧赤兔马 5어 색인** | `lumina-dallyeora-jeoktoma-multilingual-suno.md` |
 
 ---
 
