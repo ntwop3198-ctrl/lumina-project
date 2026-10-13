@@ -375,6 +375,12 @@
 | **走れ赤兎馬** (JA v1) | `lumina-dallyeora-jeoktoma-japanese-suno.md` |
 | **Phi Đi Xích Thố** (VI v1) | `lumina-dallyeora-jeoktoma-vietnamese-suno.md` |
 | **奔跑吧赤兔马 5어 색인** | `lumina-dallyeora-jeoktoma-multilingual-suno.md` |
+| **마음의 작업실** (KO v1 · 2-2) | `lumina-maeumui-jageopsil-suno.md` |
+| **心灵的工作室** (ZH v1) | `lumina-maeumui-jageopsil-chinese-suno.md` |
+| **The Workshop of the Mind** (EN v1) | `lumina-maeumui-jageopsil-english-suno.md` |
+| **心の工房** (JA v1) | `lumina-maeumui-jageopsil-japanese-suno.md` |
+| **Xưởng Của Tâm Hồn** (VI v1) | `lumina-maeumui-jageopsil-vietnamese-suno.md` |
+| **心灵的工作室 5어 색인** | `lumina-maeumui-jageopsil-multilingual-suno.md` |
 
 ---
 
