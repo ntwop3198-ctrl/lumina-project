@@ -351,6 +351,12 @@
 | **明日の太陽** (JA v1) | `lumina-naeilui-taeyang-japanese-suno.md` |
 | **Mặt Trời Ngày Mai** (VI v1) | `lumina-naeilui-taeyang-vietnamese-suno.md` |
 | **明天的太阳 5어 색인** | `lumina-naeilui-taeyang-multilingual-suno.md` |
+| **버티는 자가 이긴다** (KO v1 · 6-3) | `lumina-beotineun-jaga-iginda-suno.md` |
+| **坚持的人终会赢** (ZH v1) | `lumina-beotineun-jaga-iginda-chinese-suno.md` |
+| **Those Who Endure Will Win** (EN v1) | `lumina-beotineun-jaga-iginda-english-suno.md` |
+| **耐え抜く者が勝つ** (JA v1) | `lumina-beotineun-jaga-iginda-japanese-suno.md` |
+| **Người Kiên Trì Sẽ Thắng** (VI v1) | `lumina-beotineun-jaga-iginda-vietnamese-suno.md` |
+| **坚持的人终会赢 5어 색인** | `lumina-beotineun-jaga-iginda-multilingual-suno.md` |
 
 ---
 
