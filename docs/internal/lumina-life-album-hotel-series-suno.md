@@ -339,6 +339,12 @@
 | **四つの心の灯** (JA v1) | `lumina-si-zhan-xin-deng-japanese-suno.md` |
 | **Bốn Ngọn Tâm Đăng** (VI v1) | `lumina-si-zhan-xin-deng-vietnamese-suno.md` |
 | **四盞心燈 5어 색인** | `lumina-si-zhan-xin-deng-multilingual-suno.md` |
+| **간절한 원** (KO v1 · 2-2) | `lumina-ganjeolhan-won-suno.md` |
+| **恳切的心愿** (ZH v1) | `lumina-ganjeolhan-won-chinese-suno.md` |
+| **A Burning Wish** (EN v1) | `lumina-ganjeolhan-won-english-suno.md` |
+| **切なる願い** (JA v1) | `lumina-ganjeolhan-won-japanese-suno.md` |
+| **Ước Nguyện Khẩn Thiết** (VI v1) | `lumina-ganjeolhan-won-vietnamese-suno.md` |
+| **恳切的心愿 5어 색인** | `lumina-ganjeolhan-won-multilingual-suno.md` |
 
 ---
 
