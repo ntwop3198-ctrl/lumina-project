@@ -345,6 +345,12 @@
 | **切なる願い** (JA v1) | `lumina-ganjeolhan-won-japanese-suno.md` |
 | **Ước Nguyện Khẩn Thiết** (VI v1) | `lumina-ganjeolhan-won-vietnamese-suno.md` |
 | **恳切的心愿 5어 색인** | `lumina-ganjeolhan-won-multilingual-suno.md` |
+| **내일의 태양** (KO v1 · 2-2) | `lumina-naeilui-taeyang-suno.md` |
+| **明天的太阳** (ZH v1) | `lumina-naeilui-taeyang-chinese-suno.md` |
+| **Tomorrow's Sun** (EN v1) | `lumina-naeilui-taeyang-english-suno.md` |
+| **明日の太陽** (JA v1) | `lumina-naeilui-taeyang-japanese-suno.md` |
+| **Mặt Trời Ngày Mai** (VI v1) | `lumina-naeilui-taeyang-vietnamese-suno.md` |
+| **明天的太阳 5어 색인** | `lumina-naeilui-taeyang-multilingual-suno.md` |
 
 ---
 
