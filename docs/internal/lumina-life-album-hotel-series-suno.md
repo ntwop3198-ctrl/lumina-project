@@ -381,6 +381,9 @@
 | **心の工房** (JA v1) | `lumina-maeumui-jageopsil-japanese-suno.md` |
 | **Xưởng Của Tâm Hồn** (VI v1) | `lumina-maeumui-jageopsil-vietnamese-suno.md` |
 | **心灵的工作室 5어 색인** | `lumina-maeumui-jageopsil-multilingual-suno.md` |
+| **산중 자족·깨침의 순간 24곡** (KO v1 · 7-1) | `lumina-sanjung-jajo-kkaechim-series-suno.md` |
+| **CD 1 붙여넣기** | `lumina-sanjung-jajo-kkaechim-cd1-ko-suno-paste.md` |
+| **CD 2 붙여넣기** | `lumina-sanjung-jajo-kkaechim-cd2-ko-suno-paste.md` |
 
 ---
 
