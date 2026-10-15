@@ -381,9 +381,12 @@
 | **心の工房** (JA v1) | `lumina-maeumui-jageopsil-japanese-suno.md` |
 | **Xưởng Của Tâm Hồn** (VI v1) | `lumina-maeumui-jageopsil-vietnamese-suno.md` |
 | **心灵的工作室 5어 색인** | `lumina-maeumui-jageopsil-multilingual-suno.md` |
-| **산중 자족·깨침의 순간 24곡** (KO v1 · 7-1) | `lumina-sanjung-jajo-kkaechim-series-suno.md` |
-| **CD 1 붙여넣기** | `lumina-sanjung-jajo-kkaechim-cd1-ko-suno-paste.md` |
-| **CD 2 붙여넣기** | `lumina-sanjung-jajo-kkaechim-cd2-ko-suno-paste.md` |
+| **산중 자족·깨침의 순간 24곡** (KO·ZH·EN·JA·VI v1 · 7-1) | `lumina-sanjung-jajo-kkaechim-series-suno.md` |
+| **KO CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-cd1-ko-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-cd2-ko-suno-paste.md` |
+| **ZH CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-zh-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-zh-cd2-suno-paste.md` |
+| **EN CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-en-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-en-cd2-suno-paste.md` |
+| **JA CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-ja-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-ja-cd2-suno-paste.md` |
+| **VI CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-vi-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-vi-cd2-suno-paste.md` |
 
 ---
 
