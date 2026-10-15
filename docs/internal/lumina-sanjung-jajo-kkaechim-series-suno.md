@@ -1,8 +1,12 @@
 # 산중 자족과 넉넉한 웃음 · 깨침의 순간
 
-> **7-1 불교** · 선시·선게 24곡 · **KO v1**  
-> **v1 Suno 작업용 최종** (멘티 보정본 + Cursor 판교) · 2026-10-14  
-> 붙여넣기: `lumina-sanjung-jajo-kkaechim-cd1-ko-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-cd2-ko-suno-paste.md`
+> **7-1 불교** · 선시·선게 24곡 · **KO v1 · ZH·EN·JA·VI v1**  
+> **v1 Suno 작업용 최종** (멘티 보정본 + Cursor 판교) · 2026-10-14 · 4어 2026-10-15  
+> KO: `lumina-sanjung-jajo-kkaechim-cd1-ko-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-cd2-ko-suno-paste.md`  
+> ZH: `lumina-sanjung-jajo-kkaechim-zh-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-zh-cd2-suno-paste.md`  
+> EN: `lumina-sanjung-jajo-kkaechim-en-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-en-cd2-suno-paste.md`  
+> JA: `lumina-sanjung-jajo-kkaechim-ja-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-ja-cd2-suno-paste.md`  
+> VI: `lumina-sanjung-jajo-kkaechim-vi-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-vi-cd2-suno-paste.md`
 
 발췌본은 쓰지 않는다. 빈손에 호미 들고, 본래 한 물건도 없네.
 
@@ -13,7 +17,7 @@
 **7-1 불교.** CD 1은 산중 자족·넉넉한 웃음. CD 2는 깨침의 순간.  
 **2-2 열쇠 연작이 아님.** **6-3이 아님.** **털고 간 사람들** · **四盞心燈**과 같은 칸, 다른 곡.
 
-5어 번역은 아직 열지 않는다. 이번 잠금은 **KO v1**.
+KO v1에 **ZH · EN · JA · VI v1**을 붙였다. 제미나이 4어 초안은 폐기.
 
 수노 v6 맨 위 곡 설명 칸은 **비운다.**  
 17번 출처 안내는 곡 설명 칸이 아니라 이 색인에만 둔다. **무진장니의 시로 전하는.**
@@ -78,5 +82,53 @@
 | 8·14번 | 가사 속 괄호 한자 **없음**. |
 | 메타 | `[Intro]` · `[End]`. 곡 설명 칸 비움. |
 | 기이함 | 곡마다 15~35. 스타일 영향 60~70. 다양성 보통. 개인화 끔. |
+
+---
+
+## 4어 판교 · ZH · EN · JA · VI v1
+
+| 항목 | 잠금 |
+|------|------|
+| A안 | 멘티 시승 연작 4개국어판. 2절·6줄 브리지. 언어별 시그니처. **채택** |
+| B안 | 제미나이 4어. 한글 시그니처 혼용. 로마자 브리지. 영어에도 한자 제목. 벌이 파리. **폐기** |
+| ZH 시그니처 | **求小求苦求己, 不向外求**. 브리지 1·2줄은 원시. 스타일 끝 **Mandarin only**. |
+| EN 시그니처 | **Seek the simple, face the hard, seek within**. 스타일 끝 **English only**. |
+| JA 시그니처 | **小を求め 苦を求め 己を求め, 外に求めず**. 스타일 끝 **Japanese only**. 제외에 **enka**. |
+| VI 시그니처 | **Cầu điều giản dị, đương đầu gian khó, tìm trong chính mình**. 스타일 끝 **Vietnamese only**. |
+| 진공묘유 | **1 · 13 · 24**만. ZH 真空妙有 · EN True emptiness wondrous being · JA 真空妙有 · VI Chân không diệu hữu. |
+| 제목 | ZH·JA는 원제. EN은 영어 제목. VI는 한월 독음. 8번은 **问道颂 / 問道頌**, 闻道颂 아님. |
+| 16번 | ZH·JA·VI 제목은 원제 독음. 가사에는 칼·검 장면 **없음**. EN 제목은 **One Glimpse of Peach Blossoms**. |
+| 22번 | 제목은 원제. 가사 주인공은 **벌 / 蜜蜂 / bee / 蜂 / ong**. 파리 아님. |
+| 메타 | `[Intro]` · `[End]`. 따옴표·괄호 없음. 곡 설명 칸 비움. |
+| 기이함 | 곡마다 15~35. 스타일 영향 60~70. 다양성 보통. 개인화 끔. |
+
+### 4어 제목
+
+| # | ZH | EN | JA | VI |
+|---|----|----|----|-----|
+| 1 | 空手把锄头 | Empty Hands Holding a Hoe | 空手把鋤頭 | Không Thủ Bả Sừ Đầu |
+| 2 | 插秧诗 | Stepping Back to Plant | 挿秧詩 | Sáp Ương Thi |
+| 3 | 千家饭 | Rice from a Thousand Homes | 千家飯 | Thiên Gia Phạn |
+| 4 | 杳杳寒山道 | The Far Road to Cold Mountain | 杳杳寒山道 | Diểu Diểu Hàn Sơn Đạo |
+| 5 | 一住寒山 | Once I Settled on Cold Mountain | 一住寒山 | Nhất Trú Hàn Sơn |
+| 6 | 答僧偈 | The Withered Tree | 答僧偈 | Đáp Tăng Kệ |
+| 7 | 东林寺酬韦丹刺史 | Not One Have I Seen | 東林寺酬韋丹刺史 | Đông Lâm Tự Thù Vi Đan Thứ Sử |
+| 8 | 问道颂 | A Single Stick of Incense | 問道頌 | Vấn Đạo Tụng |
+| 9 | 吹面不寒杨柳风 | Willow Wind | 吹面不寒楊柳風 | Xuy Diện Bất Hàn Dương Liễu Phong |
+| 10 | 垂钓偈 | An Empty Boat Full of Moonlight | 垂釣偈 | Thùy Điếu Kệ |
+| 11 | 山居诗 | Mountain Dwelling | 山居詩 | Sơn Cư Thi |
+| 12 | 金鸭香销锦绣帏 | Calling Little Jade | 金鴨香銷錦繍幃 | Kim Áp Hương Tiêu Cẩm Tú Vi |
+| 13 | 本来无一物 | Not a Single Thing | 本来無一物 | Bản Lai Vô Nhất Vật |
+| 14 | 信心铭 | Do Not Pick and Choose | 信心銘 | Tín Tâm Minh |
+| 15 | 悟道偈 | The Sound of Bamboo | 悟道偈 | Ngộ Đạo Kệ |
+| 16 | 三十年来寻剑客 | One Glimpse of Peach Blossoms | 三十年来尋剣客 | Tam Thập Niên Lai Tầm Kiếm Khách |
+| 17 | 嗅梅 | Spring on the Plum Branch | 嗅梅 | Khứu Mai |
+| 18 | 凌雪腊梅 | Plum Blossoms in the Snow | 凌雪臘梅 | Lăng Tuyết Lạp Mai |
+| 19 | 竹竿偈 | One Step Beyond the Pole | 竹竿偈 | Trúc Can Kệ |
+| 20 | 过水睹影 | My Reflection in the Stream | 過水睹影 | Quá Thủy Đổ Ảnh |
+| 21 | 辞北堂书 | A Letter to My Mother | 辞北堂書 | Từ Bắc Đường Thư |
+| 22 | 蝇子投窗 | Against the Paper Window | 蠅子投窓 | Dăng Tử Đầu Song |
+| 23 | 明珠一颗 | One Bright Pearl | 明珠一顆 | Minh Châu Nhất Khỏa |
+| 24 | 风铃 | The Wind Bell | 風鈴 | Phong Linh |
 
 빈손에 호미 들고, 본래 한 물건도 없네. 효능이 아니다.
