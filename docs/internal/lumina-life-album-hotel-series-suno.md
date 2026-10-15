@@ -387,6 +387,12 @@
 | **EN CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-en-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-en-cd2-suno-paste.md` |
 | **JA CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-ja-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-ja-cd2-suno-paste.md` |
 | **VI CD 1 · CD 2** | `lumina-sanjung-jajo-kkaechim-vi-cd1-suno-paste.md` · `lumina-sanjung-jajo-kkaechim-vi-cd2-suno-paste.md` |
+| **일곱 시부터 열한 시까지** (KO v1 · 13 브랜드 헌정) | `lumina-ilgop-sibuteo-yeolhan-si-suno.md` |
+| **从七点到十一点** (ZH v1) | `lumina-ilgop-sibuteo-yeolhan-si-chinese-suno.md` |
+| **From Seven to Eleven** (EN v1) | `lumina-ilgop-sibuteo-yeolhan-si-english-suno.md` |
+| **七時から十一時まで** (JA v1) | `lumina-ilgop-sibuteo-yeolhan-si-japanese-suno.md` |
+| **Từ Bảy Giờ Đến Mười Một Giờ** (VI v1) | `lumina-ilgop-sibuteo-yeolhan-si-vietnamese-suno.md` |
+| **从七点到十一点 5어 색인** | `lumina-ilgop-sibuteo-yeolhan-si-multilingual-suno.md` |
 
 ---
 
