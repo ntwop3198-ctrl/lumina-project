@@ -114,6 +114,12 @@
 | **大学まで出せば十分だと言った** (JA v1) | `lumina-daehakkkaji-dwaetdago-haenne-japanese-suno.md` |
 | **Cho học hết đại học là đủ** (VI v1) | `lumina-daehakkkaji-dwaetdago-haenne-vietnamese-suno.md` |
 | **대학까지 보냈으니 됐다고 했네 5어 색인** | `lumina-daehakkkaji-dwaetdago-haenne-multilingual-suno.md` |
+| **옮기려 했네** | `lumina-olmgiryeo-haenne-suno.md` |
+| **想要迁去** (ZH v1) | `lumina-olmgiryeo-haenne-chinese-suno.md` |
+| **He Meant to Move** (EN v1) | `lumina-olmgiryeo-haenne-english-suno.md` |
+| **移ろうとした** (JA v1) | `lumina-olmgiryeo-haenne-japanese-suno.md` |
+| **Đã định dời đi** (VI v1) | `lumina-olmgiryeo-haenne-vietnamese-suno.md` |
+| **옮기려 했네 5어 색인** | `lumina-olmgiryeo-haenne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
