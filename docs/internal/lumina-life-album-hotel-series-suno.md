@@ -102,6 +102,12 @@
 | **言葉で得た** (JA v1) | `lumina-mallo-eodeonne-japanese-suno.md` |
 | **Được bằng lời** (VI v1) | `lumina-mallo-eodeonne-vietnamese-suno.md` |
 | **말로 얻었네 5어 색인** | `lumina-mallo-eodeonne-multilingual-suno.md` |
+| **곧 온다고 했네** | `lumina-got-ondago-haenne-suno.md` |
+| **说很快就回来** (ZH v1) | `lumina-got-ondago-haenne-chinese-suno.md` |
+| **Said I Would Be Back Soon** (EN v1) | `lumina-got-ondago-haenne-english-suno.md` |
+| **すぐ戻ると言った** (JA v1) | `lumina-got-ondago-haenne-japanese-suno.md` |
+| **Đã hứa sẽ về ngay** (VI v1) | `lumina-got-ondago-haenne-vietnamese-suno.md` |
+| **곧 온다고 했네 5어 색인** | `lumina-got-ondago-haenne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
