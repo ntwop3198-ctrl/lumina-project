@@ -96,6 +96,12 @@
 | **二十八条を奉った** (JA v1) | `lumina-seumuyeodeol-jureul-ollinne-japanese-suno.md` |
 | **Dâng hai mươi tám điều** (VI v1) | `lumina-seumuyeodeol-jureul-ollinne-vietnamese-suno.md` |
 | **스물여덟 줄을 올렸네 5어 색인** | `lumina-seumuyeodeol-jureul-ollinne-multilingual-suno.md` |
+| **말로 얻었네** | `lumina-mallo-eodeonne-suno.md` |
+| **以言得之** (ZH v1) | `lumina-mallo-eodeonne-chinese-suno.md` |
+| **Won with Words** (EN v1) | `lumina-mallo-eodeonne-english-suno.md` |
+| **言葉で得た** (JA v1) | `lumina-mallo-eodeonne-japanese-suno.md` |
+| **Được bằng lời** (VI v1) | `lumina-mallo-eodeonne-vietnamese-suno.md` |
+| **말로 얻었네 5어 색인** | `lumina-mallo-eodeonne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
