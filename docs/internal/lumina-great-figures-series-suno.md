@@ -16,7 +16,7 @@
 | 5 | **장보고** | 바다의 왕 | — | 95 | `lumina-jang-bogo-king-of-the-sea-suno.md` | v2 ✅ |
 | 6 | **율곡 이이** | 개혁의 별 | 💵 5천원 | 85 | `lumina-yulgok-yi-i-star-of-reform-suno.md` | v2 ✅ |
 | 7 | **퇴계 이황** | 道의 빛 | 💵 1천원 | 78 | `lumina-toegye-yi-hwang-light-of-the-way-suno.md` | v2 ✅ |
-| 8 | **정약용 (다산)** | 다산의 노래 | — | 75 | `lumina-dasan-song-suno.md` | v1 ✅ |
+| 8 | **정약용 (다산)** | 다산의 노래 | — | 75 | `lumina-dasan-song-suno.md` | v2 ✅ KO·ZH·EN·JA·VI |
 
 ---
 
@@ -63,6 +63,8 @@
 | 율곡 | 개혁의 별이여 영원히 빛나라 |
 | 퇴계 | 도의 빛이여 영원히 빛나라 |
 | **다산** | **18년을 얻었어 — 등불은 우리 안에** |
+
+4어 정본: ZH `lumina-dasan-song-chinese-suno.md` · EN `lumina-dasan-song-english-suno.md` · JA `lumina-dasan-song-japanese-suno.md` · VI `lumina-dasan-song-vietnamese-suno.md` · 색인 `lumina-dasan-song-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)**
 
 ---
 

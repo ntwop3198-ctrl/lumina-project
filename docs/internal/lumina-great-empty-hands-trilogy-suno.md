@@ -17,7 +17,7 @@
 | # | 인물 | 제목 | 빈손의 의미 | BPM | 문서 | Suno |
 |---|------|------|-------------|-----|------|------|
 | 1 | **이순신** | 바다의 별 | 나라를 위해 **모든 것을 비운 충성** | 120 | `lumina-yi-sun-sin-star-of-the-sea-suno.md` | v4 ✅ |
-| 2 | **정약용 (다산)** | 다산의 노래 | 귀양 속 **500권 학문의 헌신** | 75 | `lumina-dasan-song-suno.md` | v1 ✅ |
+| 2 | **정약용 (다산)** | 다산의 노래 | 귀양 속 **500권 학문의 헌신** | 75 | `lumina-dasan-song-suno.md` | v2 ✅ KO·ZH·EN·JA·VI |
 | 3 | **간디** | 간디의 길 | **비폭력 실천**으로 평화를 연 빈손 | 72~76 | `lumina-gandhi-path-suno.md` | v1 ✅ |
 | 3-EN | **간디** | The Path of Gandhi | (EN v1) | 72~76 | `lumina-gandhi-path-english-suno.md` | v1 ✅ |
 
