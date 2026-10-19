@@ -132,6 +132,55 @@
 | **手を汚して譲った** (JA v1) | `lumina-sone-mutigo-neomgyeonne-japanese-suno.md` |
 | **Tay mình vấy bẩn rồi trao lại** (VI v1) | `lumina-sone-mutigo-neomgyeonne-vietnamese-suno.md` |
 | **손에 묻히고 넘겼네 5어 색인** | `lumina-sone-mutigo-neomgyeonne-multilingual-suno.md` |
+| **3-2 중화 · 삼국 인물 색인** | `lumina-zhonghua-three-kingdoms-series-suno.md` |
+| **늙을수록 굳세다** | `lumina-neulgeulsurok-gutseda-suno.md` |
+| **老当益壮** (ZH v1) | `lumina-neulgeulsurok-gutseda-chinese-suno.md` |
+| **Stronger with Age** (EN v1) | `lumina-neulgeulsurok-gutseda-english-suno.md` |
+| **老いてますます盛ん** (JA v1) | `lumina-neulgeulsurok-gutseda-japanese-suno.md` |
+| **Càng già càng vững** (VI v1) | `lumina-neulgeulsurok-gutseda-vietnamese-suno.md` |
+| **늙을수록 굳세다 5어 색인** | `lumina-neulgeulsurok-gutseda-multilingual-suno.md` |
+| **군율을 지킨 자** | `lumina-gunyureul-jikhin-ja-suno.md` |
+| **守住军律的人** (ZH v1) | `lumina-gunyureul-jikhin-ja-chinese-suno.md` |
+| **Keeper of the Ranks** (EN v1) | `lumina-gunyureul-jikhin-ja-english-suno.md` |
+| **軍律を守った者** (JA v1) | `lumina-gunyureul-jikhin-ja-japanese-suno.md` |
+| **Người giữ quân luật** (VI v1) | `lumina-gunyureul-jikhin-ja-vietnamese-suno.md` |
+| **군율을 지킨 자 5어 색인** | `lumina-gunyureul-jikhin-ja-multilingual-suno.md` |
+| **조조의 그림자** | `lumina-jojowi-geurimja-suno.md` |
+| **曹操的影子** (ZH v1) | `lumina-jojowi-geurimja-chinese-suno.md` |
+| **The Shadow of Cao Cao** (EN v1) | `lumina-jojowi-geurimja-english-suno.md` |
+| **曹操の影** (JA v1) | `lumina-jojowi-geurimja-japanese-suno.md` |
+| **Cái bóng của Tào Tháo** (VI v1) | `lumina-jojowi-geurimja-vietnamese-suno.md` |
+| **조조의 그림자 5어 색인** | `lumina-jojowi-geurimja-multilingual-suno.md` |
+| **괄목상대** | `lumina-gwalmok-sangdae-suno.md` |
+| **刮目相待** (ZH v1) | `lumina-gwalmok-sangdae-chinese-suno.md` |
+| **Look Again** (EN v1) | `lumina-gwalmok-sangdae-english-suno.md` |
+| **刮目して相待つ** (JA v1) | `lumina-gwalmok-sangdae-japanese-suno.md` |
+| **Quát mục tương đãi** (VI v1) | `lumina-gwalmok-sangdae-vietnamese-suno.md` |
+| **괄목상대 5어 색인** | `lumina-gwalmok-sangdae-multilingual-suno.md` |
+| **인내의 불꽃** | `lumina-innaeui-bulkkot-suno.md` |
+| **隐忍之火** (ZH v1) | `lumina-innaeui-bulkkot-chinese-suno.md` |
+| **The Patient Flame** (EN v1) | `lumina-innaeui-bulkkot-english-suno.md` |
+| **忍耐の炎** (JA v1) | `lumina-innaeui-bulkkot-japanese-suno.md` |
+| **Ngọn lửa nhẫn nại** (VI v1) | `lumina-innaeui-bulkkot-vietnamese-suno.md` |
+| **인내의 불꽃 5어 색인** | `lumina-innaeui-bulkkot-multilingual-suno.md` |
+| **곳간을 나누던 사람** | `lumina-gotganeul-nanudeon-saram-suno.md` |
+| **指囷相赠** (ZH v1) | `lumina-gotganeul-nanudeon-saram-chinese-suno.md` |
+| **The One Who Shared His Granary** (EN v1) | `lumina-gotganeul-nanudeon-saram-english-suno.md` |
+| **倉を分けた人** (JA v1) | `lumina-gotganeul-nanudeon-saram-japanese-suno.md` |
+| **Người chia kho thóc** (VI v1) | `lumina-gotganeul-nanudeon-saram-vietnamese-suno.md` |
+| **곳간을 나누던 사람 5어 색인** | `lumina-gotganeul-nanudeon-saram-multilingual-suno.md` |
+| **생자당여손중모** | `lumina-saengjadangyeo-sonjungmo-suno.md` |
+| **生子当如孙仲谋** (ZH v1) | `lumina-saengjadangyeo-sonjungmo-chinese-suno.md` |
+| **A Son Like Sun Zhongmou** (EN v1) | `lumina-saengjadangyeo-sonjungmo-english-suno.md` |
+| **子を生まば孫仲謀の如く** (JA v1) | `lumina-saengjadangyeo-sonjungmo-japanese-suno.md` |
+| **Sinh con nên như Tôn Trọng Mưu** (VI v1) | `lumina-saengjadangyeo-sonjungmo-vietnamese-suno.md` |
+| **생자당여손중모 5어 색인** | `lumina-saengjadangyeo-sonjungmo-multilingual-suno.md` |
+| **세 그루 복사나무** | `lumina-se-geuru-boksynamu-suno.md` |
+| **三棵桃树** (ZH v1) | `lumina-se-geuru-boksynamu-chinese-suno.md` |
+| **Three Peach Trees** (EN v1) | `lumina-se-geuru-boksynamu-english-suno.md` |
+| **三本の桃の木** (JA v1) | `lumina-se-geuru-boksynamu-japanese-suno.md` |
+| **Ba cây đào** (VI v1) | `lumina-se-geuru-boksynamu-vietnamese-suno.md` |
+| **세 그루 복사나무 5어 색인** | `lumina-se-geuru-boksynamu-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
