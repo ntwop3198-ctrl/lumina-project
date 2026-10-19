@@ -1,11 +1,11 @@
 # 〈위인 시리즈〉— Great Figures Series (2026-06-17)
 
-> **역사·예술·바다·성리학·실학** · 한·中·英 Suno 정본 · **15곡**  
+> **역사·예술·바다·성리학·실학** · 한·中·英 Suno 정본 · **16곡**  
 > 인덱스 — 개별 곡은 각 `lumina-*-suno.md`
 
 ---
 
-## 곡목 현황 — #15 유일한 추가 (2026-10-19)
+## 곡목 현황 — #16 정조 추가 (2026-10-19)
 
 | # | 인물 | 제목 | 화폐 | BPM | 문서 | Suno |
 |---|------|------|------|-----|------|------|
@@ -24,6 +24,7 @@
 | 13 | **서희 (장위공)** | 말로 얻었네 | — | 68 | `lumina-mallo-eodeonne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 | 14 | **장기려** | 곧 온다고 했네 | — | 58 | `lumina-got-ondago-haenne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 | 15 | **유일한** | 대학까지 보냈으니 됐다고 했네 | — | 64 | `lumina-daehakkkaji-dwaetdago-haenne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
+| 16 | **정조** | 옮기려 했네 | — | 62 | `lumina-olmgiryeo-haenne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 
 ---
 
@@ -58,6 +59,8 @@
     ↓
 64  유일한 (학비·가벼운 손)
     ↓
+62  정조 (옮기다·못 옮긴 성)
+    ↓
 72  신사임당 (우아한 서정)
     ↓
 78  퇴계 (명상·선비)
@@ -91,6 +94,7 @@
 | **서희** | **말로 얻었네 — 그 말에서 성 여섯이 나왔네** |
 | **장기려** | **곧 온다고 했네 — 그 말만 남았네** |
 | **유일한** | **대학까지 보냈으니 됐다고 했네 — 물려줄 것이 없다고 했네** |
+| **정조** | **옮기려 했네 — 쌓은 사람은 옮겨가지 못했네** |
 
 다산 4어: ZH `lumina-dasan-song-chinese-suno.md` · EN `lumina-dasan-song-english-suno.md` · JA `lumina-dasan-song-japanese-suno.md` · VI `lumina-dasan-song-vietnamese-suno.md` · 색인 `lumina-dasan-song-multilingual-suno.md`
 
@@ -108,13 +112,15 @@
 
 유일한 4어: ZH `lumina-daehakkkaji-dwaetdago-haenne-chinese-suno.md` · EN `lumina-daehakkkaji-dwaetdago-haenne-english-suno.md` · JA `lumina-daehakkkaji-dwaetdago-haenne-japanese-suno.md` · VI `lumina-daehakkkaji-dwaetdago-haenne-vietnamese-suno.md` · 색인 `lumina-daehakkkaji-dwaetdago-haenne-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)**
 
+정조 4어: ZH `lumina-olmgiryeo-haenne-chinese-suno.md` · EN `lumina-olmgiryeo-haenne-english-suno.md` · JA `lumina-olmgiryeo-haenne-japanese-suno.md` · VI `lumina-olmgiryeo-haenne-vietnamese-suno.md` · 색인 `lumina-olmgiryeo-haenne-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)**
+
 ---
 
 ## DistroKid — 배포 제안
 
 | 패키지 | 곡 | 가칭 |
 |--------|-----|------|
-| **풀 앨범** | #1~#15 (세종은 기존 트랙 연계) | *Lumina: Great Figures* |
+| **풀 앨범** | #1~#16 (세종은 기존 트랙 연계) | *Lumina: Great Figures* |
 | EP — 실학 | **다산** · (퇴계·율곡 연계 선택) | *Dasan & the Way* |
 | EP — 바다 | 이순신 · 장보고 | *Stars & Waves* |
 | EP — 모자 | 신사임당 · 율곡 | *Flowers & Reform* |
