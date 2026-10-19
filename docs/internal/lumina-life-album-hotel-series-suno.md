@@ -84,6 +84,12 @@
 | **帰っても居場所はなかった** (JA v1) | `lumina-dorawanneunde-jariga-eopseonne-japanese-suno.md` |
 | **Trở về không còn chỗ** (VI v1) | `lumina-dorawanneunde-jariga-eopseonne-vietnamese-suno.md` |
 | **돌아왔는데 자리가 없었네 5어 색인** | `lumina-dorawanneunde-jariga-eopseonne-multilingual-suno.md` |
+| **풀어주었네** | `lumina-pureojueonne-suno.md` |
+| **放归** (ZH v1) | `lumina-pureojueonne-chinese-suno.md` |
+| **He Set Them Free** (EN v1) | `lumina-pureojueonne-english-suno.md` |
+| **解き放った** (JA v1) | `lumina-pureojueonne-japanese-suno.md` |
+| **Đã thả ra** (VI v1) | `lumina-pureojueonne-vietnamese-suno.md` |
+| **풀어주었네 5어 색인** | `lumina-pureojueonne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
