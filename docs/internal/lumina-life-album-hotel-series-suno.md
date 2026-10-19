@@ -120,6 +120,12 @@
 | **移ろうとした** (JA v1) | `lumina-olmgiryeo-haenne-japanese-suno.md` |
 | **Đã định dời đi** (VI v1) | `lumina-olmgiryeo-haenne-vietnamese-suno.md` |
 | **옮기려 했네 5어 색인** | `lumina-olmgiryeo-haenne-multilingual-suno.md` |
+| **적어두고 나갔네** | `lumina-jeogeodugo-naganne-suno.md` |
+| **写下了才出去** (ZH v1) | `lumina-jeogeodugo-naganne-chinese-suno.md` |
+| **He Wrote It Down and Went Out** (EN v1) | `lumina-jeogeodugo-naganne-english-suno.md` |
+| **書き留めて出た** (JA v1) | `lumina-jeogeodugo-naganne-japanese-suno.md` |
+| **Ghi lại rồi ra trận** (VI v1) | `lumina-jeogeodugo-naganne-vietnamese-suno.md` |
+| **적어두고 나갔네 5어 색인** | `lumina-jeogeodugo-naganne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
