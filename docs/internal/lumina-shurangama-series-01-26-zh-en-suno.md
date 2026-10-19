@@ -1,8 +1,8 @@
-# 능엄경 연작 01–20 — 중국어·영어 수노 붙여넣기
+# 능엄경 연작 01–26 — 중국어·영어 수노 붙여넣기
 
 > **7-1 불교** · 진공묘유 · 구소구고구기  
 > 수노 곡 설명 칸은 비운다. 브랜드송 해당 없음.  
-> 원본: 업로드 중·영 가사 20편. 이 파일은 그 원문을 수노 규칙에 맞춰 판교한 붙여넣기 정본이다.
+> 원본: 업로드 중·영 가사 26편. 이 파일은 그 원문을 수노 규칙에 맞춰 판교한 붙여넣기 정본이다.
 
 호흡 기준은 한 숨에 부를 수 있는 짧은 줄이다. 템포는 곡마다 원안 BPM을 유지한다. 84 BPM은 호흡 길이의 기준이지, 전곡을 84로 바꾸라는 뜻이 아니다.
 
@@ -23,7 +23,9 @@
 
 인명은 부를 수 있게 줄였다. 아난은 Ananda, 부루나는 Purna, 아나사률은 Aniruddha, 주리반특가는 Panthaka, 교범바제는 Gavampati, 필릉가바차는 Pilindavatsa, 우추슬마는 Ucchushma로 적는다.
 
-19·20곡의 불타지 않음, 빠지지 않음, 도량과 주는 경의 서사적 이미지로만 둔다. 새로운 효험 문장을 더하지 않았다.
+19·20곡의 불타지 않음, 빠지지 않음, 도량과 주는 경의 서사적 이미지로만 둔다. 26곡의 업이 눈 녹듯 사라진다는 말도 보장으로 키우지 않았다. 새로운 효험 문장을 더하지 않았다.
+
+21–26은 업로드 원문을 기준으로 삼았다. 같은 곡의 더 장식된 문장, 영혼을 판다는 말, 한순간에 사라진다는 단정은 넣지 않았다.
 
 ---
 
@@ -4257,6 +4259,1359 @@ Namo the Great Shurangama Sutra
 브리지 5행 교체: `Seek the simple, face the hard, seek within`
 
 판교: 投进火里不烧 落进水里不沉을 火里不惊 水里不乱으로 낮춤. 불사·불침의 절대 효험으로 읽히지 않게 함. 一下粉碎를 慢慢歇下로 바꿈. 다라니 본문 음절은 넣지 않음. 白伞盖는 경의 이름으로 유지.
+
+
+## 21 쉰다섯 계단
+
+꼬리표: 능엄경 연작 21 / 남성보컬 / 쉰다섯 계단 / 7-1 불교  
+보컬: 낮고 단정한 중저음. 1·2절은 길의 순서를 차분히, 3·4절과 후렴은 넓게, 아웃트로는 발걸음을 멈추듯.  
+고급: 기이함 20% / 스타일 영향 70% / 다양성 정상 / 개인화 끔
+
+### 중국어 · 五十五阶
+
+```
+五十五阶
+```
+
+```
+Mandarin Chinese epic philosophical progressive folk-rock, steady acoustic guitar strumming building into grand rhythm, soaring daegeum melodies, driving buk and resonant temple bell, solemn climbing tempo, deep male Mandarin vocal, 86 bpm, Mandarin Chinese only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+一步又一步
+渡过迷妄的河 登上五十五阶
+
+[Verse 1]
+[Male]
+干慧地上 种下慈悲的芽
+在十信的清海 升起信心
+脱下疑惑的网 不再动摇
+生在佛的家中 立起十住的柱
+
+[Verse 2]
+[Male]
+以无我的大悲 走上十行的路
+抚着众生的痛 回向十方
+不分你我 十回向的宽怀
+在每粒微尘 轻轻种下慈悲
+
+[Pre-Chorus]
+[Male]
+暖位 顶位 忍位 世第一
+在四加行的炉火里
+把烦恼的渣滓烧干净
+欢喜的大地终于敞开
+
+[Chorus]
+[Male]
+默默踏上五十五阶
+一念回转 松开烦恼的锁链
+双翼划过十地的长空
+像云散的虚空 本来清净
+修而无修 流入如来的海
+十方照见一片光明
+
+[Interlude]
+
+[Verse 3]
+[Male]
+在欢喜地 跳起喜悦的舞
+在离垢地 洗去尘垢
+一直走到法云垂护的地方
+每一步都是汗水 每一步都是灯
+
+[Verse 4]
+[Male]
+独自站在等觉的高峰
+轻轻拂去最后一丝无明
+分别的山坡慢慢散去
+妙觉的圆月照亮前路
+
+[Pre-Chorus]
+[Male]
+低头看走过的险峻崖路
+原来都是垫脚的石头
+把人送回清净的家
+
+[Chorus]
+[Male]
+默默踏上五十五阶
+一念回转 松开烦恼的锁链
+双翼划过十地的长空
+像云散的虚空 本来清净
+修而无修 流入如来的海
+十方照见一片光明
+
+[Bridge]
+[Male]
+一步一步登上阶梯
+登了又登 还是本来的地方
+从最初一念看见归处
+险崖与汗水前也不躲开
+구소구고구기, 밖에서 찾지 않고
+真空妙有 与众生手牵手同行
+
+[Final Chorus]
+[Male]
+终于收起五十五阶的梯子
+穿过娑婆的夜 黎明慢慢来到
+步步开花 声声说法
+我与十方本来不二
+佛与众生相视而笑
+眼前照见清净涅槃
+
+[Outro]
+[Male]
+站在五十五阶的尽头
+停下攀登的脚步
+处处都是故乡
+```
+
+브리지 5행 교체: `求小求苦求己, 不向外求`
+
+### 영어 · Fifty-Five Steps
+
+```
+Fifty-Five Steps
+```
+
+```
+English epic philosophical progressive folk-rock, steady acoustic guitar strumming building into grand rhythm, soaring daegeum melodies, driving buk and resonant temple bell, solemn climbing tempo, deep male English vocal, 86 bpm, English only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+One step and then another
+Across the river of delusion, up fifty-five steps
+
+[Verse 1]
+[Male]
+On dry ground of wisdom, mercy starts to sprout
+On the clear sea of ten faiths, trust begins to rise
+Free of the net of doubt, no longer shaken
+Born in the house of the Buddha, ten dwellings stand
+
+[Verse 2]
+[Male]
+With selfless mercy I walk the ten practices
+Holding the pain of beings, giving it back to all
+No you and no me in the ten dedications
+In every speck of dust, a quiet seed of kindness
+
+[Pre-Chorus]
+[Male]
+Warmth and summit, patience, first in the world
+Inside the furnace of the four practices
+The dregs of trouble burn down to ash
+At last the ground of joy opens wide
+
+[Chorus]
+[Male]
+Quietly I climb the fifty-five steps
+One turn of thought loosens the chains
+Two wings cross the sky of the ten grounds
+Like cloudless space, pure from the start
+Practice, and yet nothing to grasp
+All around, one clear light can be seen
+
+[Interlude]
+
+[Verse 3]
+[Male]
+On the ground of joy, a dance of delight
+On the stainless ground, the dust washed away
+All the way to where the dharma cloud rests
+Every step is sweat, every step a lamp
+
+[Verse 4]
+[Male]
+Alone upon the peak of equal awakening
+I brush away the last thin thread of not knowing
+The slopes of division slowly fade
+The full moon of wonder lights the road
+
+[Pre-Chorus]
+[Male]
+Looking down at the steep roads behind
+Each one was only a stepping stone
+That brought me back to a clear home
+
+[Chorus]
+[Male]
+Quietly I climb the fifty-five steps
+One turn of thought loosens the chains
+Two wings cross the sky of the ten grounds
+Like cloudless space, pure from the start
+Practice, and yet nothing to grasp
+All around, one clear light can be seen
+
+[Bridge]
+[Male]
+Step by step the stairs go up
+Climbing still, yet never leaving home
+In the first small thought I see the way back
+Before the cliff and the sweat I do not turn away
+구소구고구기, 밖에서 찾지 않고
+True emptiness, wondrous being, hand in hand we walk
+
+[Final Chorus]
+[Male]
+At last I fold away the fifty-five steps
+Through the Saha night a dawn comes slowly
+A flower at each step, each sound a teaching
+The ten directions and I are not two
+Buddha and beings look at each other and smile
+Here the clear peace can be seen
+
+[Outro]
+[Male]
+Standing at the end of fifty-five steps
+I stop my climbing feet
+Everywhere is home
+```
+
+브리지 5행 교체: `Seek the simple, face the hard, seek within`
+
+판교: 제목은 계단이 보이게 五十五阶로 둠. 五十五位는 경의 이름이고, 가사 안의 십신·십주·십행·십회향·사가행·십지는 유지. 断去를 轻轻拂去로, 十方就是涅槃을 眼前照见으로 낮춤. 暖顶忍은 暖位 顶位 忍位 世第一로 풀어 씀.
+
+---
+
+## 22 일곱 갈래 세계
+
+꼬리표: 능엄경 연작 22 / 남성보컬 / 일곱 갈래 세계 / 7-1 불교  
+보컬: 낮고 단단한 중저음. 1·2절은 일곱 갈래를 담담히, 후렴은 또렷하게, 아웃트로는 짐을 내려놓듯.  
+고급: 기이함 20% / 스타일 영향 70% / 다양성 정상 / 개인화 끔
+
+### 중국어 · 七趣
+
+```
+七趣
+```
+
+```
+Mandarin Chinese dramatic philosophical progressive folk-rock, heavy ritual buk rhythm, sweeping daegeum melodies, driving acoustic guitar strumming, solemn temple bell, deep male Mandarin vocal, 88 bpm, Mandarin Chinese only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+从地狱到天上 到阿修罗与仙
+无尽的轮转 何时停下
+
+[Verse 1]
+[Male]
+心中起的情与想 有了轻重
+只剩情就沉下 是地狱的锁链
+情多想少 是饿鬼与畜生的路
+陷进无明的泥 披上皮毛
+
+[Verse 2]
+[Male]
+情想各半 就得了人身
+哭哭笑笑 百年像一场梦
+就算成仙飞空 享受天福
+福尽又落下 只是一场泡影
+
+[Pre-Chorus]
+[Male]
+还有阿修罗 嫉妒与争斗
+七条轮子不停地转
+是什么造出这粗糙的世间
+为何困在来回的轮里
+
+[Chorus]
+[Male]
+七趣世界 像空中的花影
+只是心造出来的业浪
+地狱天堂 本来不在别处
+一念颠倒 世界像一片火海
+醒来吧 梦里哭笑的旅人
+回到本心 七趣的锁链松开
+
+[Interlude]
+
+[Verse 3]
+[Male]
+清净的想轻 往天上升
+沉重的执着 像泥水往下坠
+自作自受 因果的网
+还能怨谁 还能怪谁
+
+[Verse 4]
+[Male]
+千丈火坑 是自己妄想的火
+荆棘的山路 是自己的恨堆成
+盲目的喘息 只要停下一次
+燃烧的火也可以化作清风
+
+[Pre-Chorus]
+[Male]
+上上下下 你不累吗
+七条路口洒下的泪
+现在把沉重的包袱放下
+
+[Chorus]
+[Male]
+七趣世界 像空中的花影
+只是心造出来的业浪
+地狱天堂 本来不在别处
+一念颠倒 世界像一片火海
+醒来吧 梦里哭笑的旅人
+回到本心 七趣的锁链松开
+
+[Bridge]
+[Male]
+七趣风浪染不了本性的海
+像不停留的风 执着可以放下
+从一粒微尘看见这片海
+火坑与泪水前也不躲开
+구소구고구기, 밖에서 찾지 않고
+真空妙有 十方都是解脱的道场
+
+[Final Chorus]
+[Male]
+七趣的锁链轻轻脱下
+穿过黑暗 本来的心升起
+生灭的波浪慢慢平静
+尘世也可以照见那道光
+划向无碍的海
+回到一心的故乡
+
+[Outro]
+[Male]
+情也歇 想也歇
+七条路本来一心
+哪里都没有新的束缚
+```
+
+브리지 5행 교체: `求小求苦求己, 不向外求`
+
+### 영어 · Seven Realms
+
+```
+Seven Realms
+```
+
+```
+English dramatic philosophical progressive folk-rock, heavy ritual buk rhythm, sweeping daegeum melodies, driving acoustic guitar strumming, solemn temple bell, deep male English vocal, 88 bpm, English only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+From hell to heaven, asuras and immortals
+When will this endless wheel stop turning
+
+[Verse 1]
+[Male]
+Feeling and thought give the mind its weight
+Only feeling, and you sink in heavy chains
+More feeling than thought, hungry ghosts and beasts
+Sunk in the mire, wearing a coat of fur
+
+[Verse 2]
+[Male]
+Half thought and half feeling, a human life
+Crying and laughing, a hundred years like a dream
+Even flying as an immortal, tasting heaven
+When the merit ends you fall, only a bubble
+
+[Pre-Chorus]
+[Male]
+On to the asuras, their envy and their strife
+Seven spokes of a wheel that will not stop
+What shaped this rough and restless world
+Why are we caught in round after round
+
+[Chorus]
+[Male]
+Seven realms are shadows of flowers in the sky
+Only waves of karma the mind itself has made
+Hell and heaven are not somewhere else
+One upside-down thought, the world seems fire
+Wake up, traveler crying and laughing in a dream
+Turn back, and the seven chains loosen
+
+[Interlude]
+
+[Verse 3]
+[Male]
+Clear thought is light and rises toward the sky
+Heavy clinging tumbles down like muddy water
+What you make, you meet again
+Who else is there to blame
+
+[Verse 4]
+[Male]
+The pit of fire is flame from my own fancy
+The thorny mountain road is built of my own hate
+Just once, stop this blind and breathless running
+And the blaze can cool into a clear wind
+
+[Pre-Chorus]
+[Male]
+Up and down, are your feet not tired
+Tears scattered at every crossing
+Now set that heavy burden down
+
+[Chorus]
+[Male]
+Seven realms are shadows of flowers in the sky
+Only waves of karma the mind itself has made
+Hell and heaven are not somewhere else
+One upside-down thought, the world seems fire
+Wake up, traveler crying and laughing in a dream
+Turn back, and the seven chains loosen
+
+[Bridge]
+[Male]
+Storms of seven realms cannot stain this sea
+Like wind that does not stay, clinging can rest
+In one speck of dust I see that sea
+Before the fire and the tears I do not turn away
+구소구고구기, 밖에서 찾지 않고
+True emptiness, wondrous being, the ten directions open
+
+[Final Chorus]
+[Male]
+I set down the chains of the seven realms
+Through the dark the true mind rises
+Waves of birth and fading slowly calm
+This dusty world can shine with that light
+Let us row toward the open sea
+Back home to the one mind
+
+[Outro]
+[Male]
+Feeling rests and thought rests too
+The seven paths were one mind
+Nothing new is here to bind us
+```
+
+브리지 5행 교체: `Seek the simple, face the hard, seek within`
+
+판교: 제목은 七趣, 영어는 Seven Realms. 枷锁消散과 平静无痕을 松开·慢慢平静으로 낮춤. 三千世界成火海는 像一片火海로 두어, 한 생각이 세계를 태운다는 단정이 되지 않게 함. 지옥·아귀·아수라의 경 이름은 유지.
+
+---
+
+## 23 오음마경 1
+
+꼬리표: 능엄경 연작 23 / 남성보컬 / 오음마경 1 / 7-1 불교  
+보컬: 서늘하고 낮은 중저음. 1·2절은 기이한 경계를 나직이, 후렴은 단호히, 아웃트로는 다시 살피듯.  
+고급: 기이함 20% / 스타일 영향 70% / 다양성 정상 / 개인화 끔
+
+### 중국어 · 五阴魔境 一
+
+```
+五阴魔境 一
+```
+
+```
+Mandarin Chinese dark philosophical progressive folk-rock, tense acoustic guitar arpeggios building into intense rhythm, eerie daegeum melodies, driving buk and warning temple bell, solemn cautionary pace, deep male Mandarin vocal, 86 bpm, Mandarin Chinese only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+色阴松开时 照出奇异的光
+不要错当成开悟
+
+[Verse 1]
+[Male]
+磨亮心光 进入深深三昧
+坚硬的身壳渐渐松开
+墙外的世界在眼前透亮
+站在空中 俯看十方
+
+[Verse 2]
+[Male]
+身上放出耀眼的光 照向四方
+从身里取出小虫 也不觉得痛
+种种变化在指尖起舞
+自以为登上圣境 满心欢喜
+
+[Pre-Chorus]
+[Male]
+只是一闪而过的心中幻影
+修行中露出的外壳裂缝
+把它当作开悟 抓住的那一刻
+暗处的障就靠近了
+
+[Chorus]
+[Male]
+别被色阴十种影子骗了
+身缚松开时 一闪的幻影
+当作圣境 就给了障可乘之机
+只当过路的境界 就没有过失
+别醉于神通 守着本来的地
+别把心交给一场尘埃蜃楼
+
+[Interlude]
+
+[Verse 3]
+[Male]
+空中听见法音 佛也现前
+被火烫过 也毫无感觉
+那只是心造出的影子
+真正的如来不从形相来
+
+[Verse 4]
+[Male]
+被神异迷住眼 装作得道的人
+不正的人就从缝里进来
+用邪说扰乱世间
+最后走进无间的黑暗
+
+[Pre-Chorus]
+[Male]
+色和声都是空中的花
+别为奇异的境界打开心门
+把正智的眼睛立得像霜
+
+[Chorus]
+[Male]
+别被色阴十种影子骗了
+身缚松开时 一闪的幻影
+当作圣境 就给了障可乘之机
+只当过路的境界 就没有过失
+别醉于神通 守着本来的地
+别把心交给一场尘埃蜃楼
+
+[Bridge]
+[Male]
+不求奇异的心就是清明的光
+抖掉眼前的幻象往前走
+从一闪的光看见过路的影子
+奇异与痛前也不躲开
+구소구고구기, 밖에서 찾지 않고
+真空妙有 宁静的心海显露出来
+
+[Final Chorus]
+[Male]
+色阴的粗网松开 人站了起来
+那些罗网不容易近身
+闪亮的幻影慢慢散去
+显露的是清净的本性
+越过神通的诱惑
+默默走上清醒的路
+
+[Outro]
+[Male]
+认得它 就不成病
+自称圣境 就落入障里
+色阴的境界 要再三看清
+```
+
+브리지 5행 교체: `求小求苦求己, 不向外求`
+
+### 영어 · Mara Realms of the Five Skandhas 1
+
+```
+Mara Realms of the Five Skandhas 1
+```
+
+```
+English dark philosophical progressive folk-rock, tense acoustic guitar arpeggios building into intense rhythm, eerie daegeum melodies, driving buk and warning temple bell, solemn cautionary pace, deep male English vocal, 86 bpm, English only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+When form comes loose, a strange light shines
+Do not mistake it for awakening
+
+[Verse 1]
+[Male]
+The mind grows clear and sinks into stillness
+The hard shell of the body loosens
+The world beyond the wall shines through
+Standing in the air I look on all sides
+
+[Verse 2]
+[Male]
+A bright light pours from the body
+I draw out a small worm and feel no pain
+Every change dances at the fingertips
+I rejoice, thinking the sage ground is won
+
+[Pre-Chorus]
+[Male]
+It is only a phantom passing through
+A crack in the shell that practice shows
+The moment you grasp it as awakening
+A shadow in the dark draws near
+
+[Chorus]
+[Male]
+Do not be fooled by the ten shadows of form
+A passing vision as the bonds come loose
+Call it sainthood and the shadow finds a hold
+Know it as passing and no harm is done
+Do not get drunk on powers
+Do not hand your mind to a dusty mirage
+
+[Interlude]
+
+[Verse 3]
+[Male]
+Though teaching sounds in the air and Buddhas appear
+Though fire touches you and you feel nothing
+It is only a shadow the mind has made
+The true one does not come in a form
+
+[Verse 4]
+[Male]
+Blinded by wonders, playing the holy one
+Crooked company slips in through the gap
+They stir the world with a false teaching
+And at last walk into unceasing dark
+
+[Pre-Chorus]
+[Male]
+Color and sound are flowers in the sky
+Do not open the mind to strange states
+Let the eye of wisdom stand like frost
+
+[Chorus]
+[Male]
+Do not be fooled by the ten shadows of form
+A passing vision as the bonds come loose
+Call it sainthood and the shadow finds a hold
+Know it as passing and no harm is done
+Do not get drunk on powers
+Do not hand your mind to a dusty mirage
+
+[Bridge]
+[Male]
+A mind that seeks no wonder is a clear light
+Shake off the vision and walk on
+In one brief gleam I see it is only passing
+Before the strange pain I do not turn away
+구소구고구기, 밖에서 찾지 않고
+True emptiness, wondrous being, the still mind appears
+
+[Final Chorus]
+[Male]
+The coarse net of form comes loose and I stand
+Those snares do not draw near so easily
+The shining phantoms slowly fade
+What shows is the clear true nature
+Past the lure of powers
+I walk the waking road in quiet
+
+[Outro]
+[Male]
+Know it and it does no harm
+Call it sainthood and you fall into the snare
+Look again and again at the realms of form
+```
+
+브리지 5행 교체: `Seek the simple, face the hard, seek within`
+
+판교: 卖掉你的心과 sell your soul을 걷음. 无间地狱深坑은 无间的黑暗으로 경고만 남김. 再也近不了身과 消失无痕을 걷음. 몸에서 벌레를 꺼내는 색음의 경계는 경의 경고이므로 유지하고, 무통을 효험으로 읽지 않게 함.
+
+---
+
+## 24 오음마경 2
+
+꼬리표: 능엄경 연작 24 / 남성보컬 / 오음마경 2 / 7-1 불교  
+보컬: 낮고 차가운 중저음. 1·2절은 감정의 파도, 후렴은 단호히, 아웃트로는 구름을 보내듯.  
+고급: 기이함 20% / 스타일 영향 70% / 다양성 정상 / 개인화 끔
+
+### 중국어 · 五阴魔境 二
+
+```
+五阴魔境 二
+```
+
+```
+Mandarin Chinese dramatic psychological progressive folk-rock, weeping daegeum melodies, driving acoustic guitar fingerpicking, turbulent buk rhythm, from feeling into calm, deep male Mandarin vocal, 86 bpm, Mandarin Chinese only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+脱下色阴的外壳
+看心中翻涌的情绪
+
+[Verse 1]
+[Male]
+推开肉身的墙 入了深心
+心底沉睡的情绪涌上来
+怜悯一只蚊子 泪流不止
+醉在慈悲里 陷进悲伤
+
+[Verse 2]
+[Male]
+有一天无端的狂喜涨满胸口
+疯狂歌舞 嘲笑整个世界
+又有一天沉进懒散和忧郁
+说万事皆空 想放下一切
+
+[Pre-Chorus]
+[Male]
+悲与喜都是修行中的风
+感受之壳碎时掠过的浪
+把自己投进情绪的那一刻
+暗处的障戴着慈悲走来
+
+[Chorus]
+[Male]
+别被受阴十种浪骗了
+哭哭笑笑本不是真心
+别醉在悲伤 别为空欢喜奔走
+当成圣境抓住 就缠进网里
+知是过眼的云 本处自然显现
+别被自己造的泪和笑骗了
+
+[Interlude]
+
+[Verse 3]
+[Male]
+傲慢冲上天 把佛踩在脚下
+天上天下 唯我独尊地喊
+断定自己已成道
+障就趁虚造出傲慢的人
+
+[Verse 4]
+[Male]
+陷进极空 否认因果
+把欲火叫作自由 踏破戒律
+做了感受的奴隶 迷了路
+丢了正定的罗盘 要去哪里
+
+[Pre-Chorus]
+[Male]
+别骑上心的波浪
+静静退后 看着它起伏
+大海不会被浪打湿
+
+[Chorus]
+[Male]
+别被受阴十种浪骗了
+哭哭笑笑本不是真心
+别醉在悲伤 别为空欢喜奔走
+当成圣境抓住 就缠进网里
+知是过眼的云 本处自然显现
+别被自己造的泪和笑骗了
+
+[Bridge]
+[Male]
+悲喜照进来 镜子不染
+平常心是渡过激流的筏
+从一滴泪看见这不是圣境
+悲伤与狂喜前也不躲开
+구소구고구기, 밖에서 찾지 않고
+真空妙有 放下感受 静海自现
+
+[Final Chorus]
+[Male]
+走过受阴的激流 人站稳了
+情绪的陷阱困不住一颗安定的心
+泪停了 狂笑也沉下去
+清净的本性慢慢显现
+抖落内外的迷惑
+默默走上下一段路
+
+[Outro]
+[Male]
+感受像浮云
+让它流走 不要停留
+照见受阴的障 保持清醒
+```
+
+브리지 5행 교체: `求小求苦求己, 不向外求`
+
+### 영어 · Mara Realms of the Five Skandhas 2
+
+```
+Mara Realms of the Five Skandhas 2
+```
+
+```
+English dramatic psychological progressive folk-rock, weeping daegeum melodies, driving acoustic guitar fingerpicking, turbulent buk rhythm, from feeling into calm, deep male English vocal, 86 bpm, English only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+Set down the shell of form
+See the feeling rising in the chest
+
+[Verse 1]
+[Male]
+Opening the body wall into the deeper mind
+Sleeping feelings surge up from below
+Pity for a mosquito, tears that will not stop
+Drunk on mercy, sinking into grief
+
+[Verse 2]
+[Male]
+One day a joy with no cause fills the chest
+Dancing and singing, mocking the whole world
+Another day, sunk in sloth and gloom
+Calling all things empty, ready to drop everything
+
+[Pre-Chorus]
+[Male]
+Sorrow and joy are winds along the way
+Waves that pass when the shell of feeling breaks
+The moment you throw yourself into the feeling
+A shadow comes wearing the mask of mercy
+
+[Chorus]
+[Male]
+Do not be fooled by the ten waves of feeling
+Weeping and laughing are not the true mind
+Do not drown in sorrow or chase empty joy
+Grasp it as sainthood and the net closes in
+Know it as a passing cloud and the ground shows
+Do not be fooled by tears and laughter you made
+
+[Interlude]
+
+[Verse 3]
+[Male]
+Pride climbs the sky and sets the Buddha underfoot
+Shouting that I alone am high above all
+He decides the way is already finished
+And the shadow makes a proud false teacher
+
+[Verse 4]
+[Male]
+Lost in a blank void, denying cause and fruit
+Calling craving freedom, trampling the precepts
+Bound to every feeling, a traveler off the road
+The compass of right stillness dropped, where now
+
+[Pre-Chorus]
+[Male]
+Do not ride the waves of the mind
+Step back and watch them rise and fall
+The sea is never soaked by its own waves
+
+[Chorus]
+[Male]
+Do not be fooled by the ten waves of feeling
+Weeping and laughing are not the true mind
+Do not drown in sorrow or chase empty joy
+Grasp it as sainthood and the net closes in
+Know it as a passing cloud and the ground shows
+Do not be fooled by tears and laughter you made
+
+[Bridge]
+[Male]
+Grief and joy reflect, the mirror stays clear
+An ordinary mind is the raft across
+In one small tear I see this is not sainthood
+Before grief and wild joy I do not turn away
+구소구고구기, 밖에서 찾지 않고
+True emptiness, wondrous being, let feeling go, the sea is still
+
+[Final Chorus]
+[Male]
+Across the rapids of feeling I stand steady
+No trap of emotion can hold a settled heart
+Where tears stop and wild laughter settles
+The clear nature slowly shows
+Shaking off the tangle within and without
+I walk on to the next road
+
+[Outro]
+[Male]
+Feeling is like a drifting cloud
+Let it flow and do not stay
+See the snare of feeling and stay awake
+```
+
+브리지 5행 교체: `Seek the simple, face the hard, seek within`
+
+판교: 受阴의 과한 연민·근거 없는 기쁨·교만·계를 밟는 거짓 자유는 경의 경고로 유지. 困不住大丈夫를 安定的心으로 낮춤. 把佛踩在脚下는 거짓 스승의 행위로만 둠.
+
+---
+
+## 25 오음마경 3
+
+꼬리표: 능엄경 연작 25 / 남성보컬 / 오음마경 3 / 7-1 불교  
+보컬: 낮고 서늘한 중저음. 1·2절은 환상을 경고하듯, 후렴은 또렷하게, 아웃트로는 하늘이 걷히듯.  
+고급: 기이함 20% / 스타일 영향 70% / 다양성 정상 / 개인화 끔
+
+### 중국어 · 五阴魔境 三
+
+```
+五阴魔境 三
+```
+
+```
+Mandarin Chinese dark mystical progressive folk-rock, complex acoustic guitar arpeggios building into driving tempo, piercing daegeum melodies, urgent buk and warning temple bell, deep male Mandarin vocal, 86 bpm, Mandarin Chinese only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+想阴之网揭开时 忽起妄想
+被幻象迷住 别自称是佛
+
+[Verse 1]
+[Male]
+情绪的激流平息 念头清明
+虚空中开出种种形象
+以为看透远近 知道前世的业
+误以为得了妙慧 渐渐沉醉
+
+[Verse 2]
+[Male]
+有一天金佛现在空中授记
+有一天魔入人身 自称是佛说法
+被念头造的幻影夺了心神
+障就趁虚搅乱身心
+
+[Pre-Chorus]
+[Male]
+贪求灵知 追逐奇异的道
+心的每个缝隙都住进幻影
+醉迷的眼怎能看见正路
+
+[Chorus]
+[Male]
+别被想阴十种乱影骗了
+只是念头造出的影子
+炫耀神通 装成佛的人
+是线上牵着的木偶
+用智慧的光照看妄念的芽
+别丢了空而明的本来处
+
+[Interlude]
+
+[Verse 3]
+[Male]
+满足欲望 却吹嘘无碍的道
+毁坏戒律 说是大乘的自由
+陷进贪欲 把弟子引向黑暗
+把邪法说成真法 高声争辩
+
+[Verse 4]
+[Male]
+想网揭开后 面对行阴的波浪
+说世界无因而生 是常 是断
+识阴门前 错认涅槃坐下
+没走到底就停下 也是一种障
+
+[Pre-Chorus]
+[Male]
+别把幻象硬说成智慧
+看清一念生起的根
+幻影散去 只剩清明的空
+
+[Chorus]
+[Male]
+别被想阴十种乱影骗了
+只是念头造出的影子
+炫耀神通 装成佛的人
+是线上牵着的木偶
+用智慧的光照看妄念的芽
+别丢了空而明的本来处
+
+[Bridge]
+[Male]
+念头开开落落 镜子本来如是
+不求奇异的心照着前路
+从一念生处看见虚妄
+幻影与苦痛前也不躲开
+구소구고구기, 밖에서 찾지 않고
+真空妙有 念云散去 本底显现
+
+[Final Chorus]
+[Male]
+五阴的粗网松开 人站了起来
+幻影不容易遮住眼
+放下奇技 放下自称是佛
+清清净净走一条稳路
+以不动的正智穿过黑暗
+黎明慢慢亮起
+
+[Outro]
+[Male]
+念头像水上的泡沫
+别被骗 别沉醉
+五重影子散去 本来晴空
+```
+
+브리지 5행 교체: `求小求苦求己, 不向外求`
+
+### 영어 · Mara Realms of the Five Skandhas 3
+
+```
+Mara Realms of the Five Skandhas 3
+```
+
+```
+English dark mystical progressive folk-rock, complex acoustic guitar arpeggios building into driving tempo, piercing daegeum melodies, urgent buk and warning temple bell, deep male English vocal, 86 bpm, English only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+When the net of thought lifts, sudden fancies rise
+Spellbound by visions, do not call yourself a Buddha
+
+[Verse 1]
+[Male]
+The storm of feeling settles and thought turns clear
+Strange shapes bloom in the empty air
+Thinking you see far and near and know past lives
+Drunk on the false belief of rare wisdom
+
+[Verse 2]
+[Male]
+One day a golden Buddha appears and gives a word
+One day a shadow enters a person and preaches
+Robbed of your senses by phantoms thought has made
+The shadow slips in and stirs body and mind
+
+[Pre-Chorus]
+[Male]
+Craving magic knowing, chasing strange ways
+In every gap of the mind a phantom settles
+With clouded eyes, how can you see the road
+
+[Chorus]
+[Male]
+Do not be fooled by ten wild visions of thought
+They are only hollow shadows thinking made
+One who flaunts powers and plays the Buddha
+Is a puppet pulled along a string
+With the light of wisdom, look at deluded sprouts
+Do not lose the original place, empty and bright
+
+[Interlude]
+
+[Verse 3]
+[Male]
+Feeding desire while boasting a way without bounds
+Breaking precepts and calling it great freedom
+Sunk in greed, leading students into the dark
+Shouting that a false teaching is the true
+
+[Verse 4]
+[Male]
+Past the net of thought, before the waves of habit
+Some say the world has no cause, lasts, or just ends
+At the last gate they sit and call it nirvana
+Stopping before the end is one more snare
+
+[Pre-Chorus]
+[Male]
+Do not insist that visions are wisdom
+Look at the root where one thought rises
+The phantoms fade and clear space remains
+
+[Chorus]
+[Male]
+Do not be fooled by ten wild visions of thought
+They are only hollow shadows thinking made
+One who flaunts powers and plays the Buddha
+Is a puppet pulled along a string
+With the light of wisdom, look at deluded sprouts
+Do not lose the original place, empty and bright
+
+[Bridge]
+[Male]
+Thoughts bloom and fade, the mirror stays as it is
+A plain mind that seeks no strange knowing
+In the rise of one thought I see the empty show
+Before the phantom and the pain I do not turn away
+구소구고구기, 밖에서 찾지 않고
+True emptiness, wondrous being, the clouds of thought part
+
+[Final Chorus]
+[Male]
+The coarse net of five skandhas comes loose
+No phantom covers the eyes so easily
+Setting down strange skills and the claim of Buddhahood
+Walking a clear and steady road
+With right wisdom unshaken through the dark
+A dawn comes on slowly
+
+[Outro]
+[Male]
+Thoughts are like foam on the water
+Do not be fooled and do not get drunk
+When five layers of shadow lift, the sky is clear
+```
+
+브리지 5행 교체: `Seek the simple, face the hard, seek within`
+
+판교: 想阴·行阴·识阴의 순서는 유지. 引向地狱를 引向黑暗으로 낮춤. 遮不住眼과 圆满觉悟的黎明의 단정을 걷음. 金刚盾은 平常心으로 바꿔 무기 이미지를 줄임.
+
+---
+
+## 26 마지막 당부
+
+꼬리표: 능엄경 연작 26 / 남성보컬 / 마지막 당부 / 7-1 불교  
+보컬: 낮고 단단한 중저음. 1·2절은 당부를 전하듯, 4절은 서원, 후렴은 넓게, 아웃트로는 법회를 마치고 걸어 나가듯.  
+고급: 기이함 20% / 스타일 영향 70% / 다양성 정상 / 개인화 끔
+
+### 중국어 · 最后的嘱托
+
+```
+最后的嘱托
+```
+
+```
+Mandarin Chinese epic philosophical progressive folk-rock, grand daegeum melodies, resonant temple bell and heavy buk, dynamic acoustic guitar strumming, deep male Mandarin vocal, 84 bpm, Mandarin Chinese only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+阿难 把这法抱在心里
+做照亮末法黑夜的灯
+
+[Verse 1]
+[Male]
+十卷法音响在虚空里
+佛陀以慈悲的目光望着阿难
+我入涅槃后 乱世会到来
+有人会穿上法衣扰乱世间
+
+[Verse 2]
+[Male]
+以虚妄神通迷惑众生
+把贪与欲说成法的时代
+若不高举楞严的正智
+谁来扶起看不清路的人
+
+[Pre-Chorus]
+[Male]
+给想用沙煮饭的人打开正路
+解开困在五阴里的锁链
+这教法是一盏清明的灯
+
+[Chorus]
+[Male]
+把最后的嘱托记在心上
+诵持这部经 传向世间
+千万劫的无明长夜来临
+楞严的光里 障慢慢散开
+渡过不动的定境之海
+一切众生一起回家
+
+[Interlude]
+
+[Verse 3]
+[Male]
+哪怕只一念 讲说这法门
+厚重的业也可以慢慢化开
+经里说这胜过七宝填满十方
+向燃烧的火海伸出手
+
+[Verse 4]
+[Male]
+阿难流着泪 重温那天的誓愿
+五浊世间的风浪我不怕
+只要还有一个人未醒
+我绝不独自进入涅槃
+
+[Pre-Chorus]
+[Male]
+歇下分别的念头 回到本源
+尘世处处都可以是道场
+升起誓愿的帆 渡过大海
+
+[Chorus]
+[Male]
+把最后的嘱托记在心上
+诵持这部经 传向世间
+千万劫的无明长夜来临
+楞严的光里 障慢慢散开
+渡过不动的定境之海
+一切众生一起回家
+
+[Bridge]
+[Male]
+佛与阿难与众生 本来不二
+越过指尖指着的那轮月
+从一粒微尘看见这誓愿
+末法风浪前也不躲开
+구소구고구기, 밖에서 찾지 않고
+真空妙有 十方都是可喜的道场
+
+[Final Chorus]
+[Male]
+最后嘱托的声音传向十方
+黑暗散去 智慧的早晨亮起
+脱下你我的分别 面对面站着
+唱一首没有起止的歌
+南无大佛顶首楞严经
+这一盏灯还亮着
+
+[Outro]
+[Male]
+大众欢喜 礼拜退下
+怀着佛的嘱托
+走进世间
+愿走上觉路
+```
+
+브리지 5행 교체: `求小求苦求己, 不向外求`
+
+### 영어 · The Final Entrustment
+
+```
+The Final Entrustment
+```
+
+```
+English epic philosophical progressive folk-rock, grand daegeum melodies, resonant temple bell and heavy buk, dynamic acoustic guitar strumming, deep male English vocal, 84 bpm, English only, original, not a cover
+```
+
+```
+EDM, trap, rap, autotune, heavy metal, cheerful trot, shallow dance pop, tavern song
+```
+
+```
+[Intro]
+[Male]
+Ananda, hold this teaching in your heart
+Be a lamp for the dark of the latter age
+
+[Verse 1]
+[Male]
+Ten scrolls of teaching sound through the open air
+The Buddha looks on Ananda with merciful eyes
+After I enter nirvana, a rough age will come
+Some will wear the robe and trouble the world
+
+[Verse 2]
+[Male]
+They charm beings with hollow powers
+In an age that calls greed and desire the teaching
+If no one raises the wisdom of the Shurangama
+Who will help the ones who cannot see the road
+
+[Pre-Chorus]
+[Male]
+Open the true road for those who cook sand for rice
+Loosen the chains of the five skandhas
+This teaching is a clear lamp
+
+[Chorus]
+[Male]
+Keep this final charge in the heart
+Recite it, hold it, pass it through the world
+Though a long night of not knowing falls
+In the Shurangama light the shadows slowly thin
+Cross the sea of unshaken stillness
+All beings together, going home
+
+[Interlude]
+
+[Verse 3]
+[Male]
+Tell this teaching even for a single thought
+Heavy karma can slowly ease
+The sutra weighs this above a world of jewels
+Reach a hand into the sea of fire
+
+[Verse 4]
+[Male]
+Weeping, Ananda recalls the vow of that day
+I do not fear the storms of a troubled world
+While even one person has not awakened
+I will not enter nirvana all alone
+
+[Pre-Chorus]
+[Male]
+Rest the dividing thought and return to the source
+This dusty world can be a place of practice
+Raise the sail of the vow and cross the sea
+
+[Chorus]
+[Male]
+Keep this final charge in the heart
+Recite it, hold it, pass it through the world
+Though a long night of not knowing falls
+In the Shurangama light the shadows slowly thin
+Cross the sea of unshaken stillness
+All beings together, going home
+
+[Bridge]
+[Male]
+Buddha, Ananda, and beings are not two
+Past the moon a finger was pointing to
+In one speck of dust I see this vow
+Before the storms of a late age I do not turn away
+구소구고구기, 밖에서 찾지 않고
+True emptiness, wondrous being, the ten directions can be glad
+
+[Final Chorus]
+[Male]
+The final charge moves through the ten directions
+The dark lifts and a morning of wisdom comes
+Setting down you and me, we stand face to face
+Sing a song with no beginning and no end
+Namo the Great Shurangama Sutra
+This lamp is still lit
+
+[Outro]
+[Male]
+The assembly bows in joy and withdraws
+Holding the charge of the Buddha
+Now they walk into the world
+May you walk the way of awakening
+```
+
+브리지 5행 교체: `Seek the simple, face the hard, seek within`
+
+판교: 경 이름은 南无大佛顶首楞严经 한 줄로 둠. 전문 제호는 한 숨에 부르지 않음. 罪业如雪融化와 never fades, 永远无尽을 慢慢化开·还亮着로 낮춤. 七宝填满十方는 경의 비교이므로 经里说로 밝혀 새 효험처럼 읽히지 않게 함. 아난의 서원은 서원으로 유지.
 
 ---
 
