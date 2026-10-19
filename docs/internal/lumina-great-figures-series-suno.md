@@ -1,11 +1,11 @@
 # 〈위인 시리즈〉— Great Figures Series (2026-06-17)
 
-> **역사·예술·바다·성리학·실학** · 한·中·英 Suno 정본 · **8곡**  
+> **역사·예술·바다·성리학·실학** · 한·中·英 Suno 정본 · **9곡**  
 > 인덱스 — 개별 곡은 각 `lumina-*-suno.md`
 
 ---
 
-## 곡목 현황 — #8 다산 추가 (2026-06-18)
+## 곡목 현황 — #9 마의태자 추가 (2026-10-19)
 
 | # | 인물 | 제목 | 화폐 | BPM | 문서 | Suno |
 |---|------|------|------|-----|------|------|
@@ -17,6 +17,7 @@
 | 6 | **율곡 이이** | 개혁의 별 | 💵 5천원 | 85 | `lumina-yulgok-yi-i-star-of-reform-suno.md` | v2 ✅ |
 | 7 | **퇴계 이황** | 道의 빛 | 💵 1천원 | 78 | `lumina-toegye-yi-hwang-light-of-the-way-suno.md` | v2 ✅ |
 | 8 | **정약용 (다산)** | 다산의 노래 | — | 75 | `lumina-dasan-song-suno.md` | v2 ✅ KO·ZH·EN·JA·VI |
+| 9 | **마의태자** | 산으로 갔네 | — | 58 | `lumina-saneuro-ganne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 
 ---
 
@@ -37,6 +38,8 @@
 ## BPM 아크
 
 ```
+58  마의태자 (절제 서사·산)
+    ↓
 72  신사임당 (우아한 서정)
     ↓
 78  퇴계 (명상·선비)
@@ -63,8 +66,11 @@
 | 율곡 | 개혁의 별이여 영원히 빛나라 |
 | 퇴계 | 도의 빛이여 영원히 빛나라 |
 | **다산** | **18년을 얻었어 — 등불은 우리 안에** |
+| **마의태자** | **산으로 갔네 — 입고 간 옷만 천 년을 남았네** |
 
-4어 정본: ZH `lumina-dasan-song-chinese-suno.md` · EN `lumina-dasan-song-english-suno.md` · JA `lumina-dasan-song-japanese-suno.md` · VI `lumina-dasan-song-vietnamese-suno.md` · 색인 `lumina-dasan-song-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)**
+다산 4어: ZH `lumina-dasan-song-chinese-suno.md` · EN `lumina-dasan-song-english-suno.md` · JA `lumina-dasan-song-japanese-suno.md` · VI `lumina-dasan-song-vietnamese-suno.md` · 색인 `lumina-dasan-song-multilingual-suno.md`
+
+마의태자 4어: ZH `lumina-saneuro-ganne-chinese-suno.md` · EN `lumina-saneuro-ganne-english-suno.md` · JA `lumina-saneuro-ganne-japanese-suno.md` · VI `lumina-saneuro-ganne-vietnamese-suno.md` · 색인 `lumina-saneuro-ganne-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)**
 
 ---
 
@@ -72,7 +78,7 @@
 
 | 패키지 | 곡 | 가칭 |
 |--------|-----|------|
-| **풀 앨범** | #1~#8 (세종은 기존 트랙 연계) | *Lumina: Great Figures* |
+| **풀 앨범** | #1~#9 (세종은 기존 트랙 연계) | *Lumina: Great Figures* |
 | EP — 실학 | **다산** · (퇴계·율곡 연계 선택) | *Dasan & the Way* |
 | EP — 바다 | 이순신 · 장보고 | *Stars & Waves* |
 | EP — 모자 | 신사임당 · 율곡 | *Flowers & Reform* |

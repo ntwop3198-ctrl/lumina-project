@@ -72,6 +72,12 @@
 | **茶山の歌** (JA v1) | `lumina-dasan-song-japanese-suno.md` |
 | **Bài ca Dasan** (VI v1) | `lumina-dasan-song-vietnamese-suno.md` |
 | **다산 5어 색인** | `lumina-dasan-song-multilingual-suno.md` |
+| **산으로 갔네** | `lumina-saneuro-ganne-suno.md` |
+| **上山去了** (ZH v1) | `lumina-saneuro-ganne-chinese-suno.md` |
+| **Into the Mountains** (EN v1) | `lumina-saneuro-ganne-english-suno.md` |
+| **山へ行った** (JA v1) | `lumina-saneuro-ganne-japanese-suno.md` |
+| **Đã vào núi** (VI v1) | `lumina-saneuro-ganne-vietnamese-suno.md` |
+| **산으로 갔네 5어 색인** | `lumina-saneuro-ganne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
