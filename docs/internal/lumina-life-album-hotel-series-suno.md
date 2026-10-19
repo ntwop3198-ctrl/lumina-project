@@ -78,6 +78,12 @@
 | **山へ行った** (JA v1) | `lumina-saneuro-ganne-japanese-suno.md` |
 | **Đã vào núi** (VI v1) | `lumina-saneuro-ganne-vietnamese-suno.md` |
 | **산으로 갔네 5어 색인** | `lumina-saneuro-ganne-multilingual-suno.md` |
+| **돌아왔는데 자리가 없었네** | `lumina-dorawanneunde-jariga-eopseonne-suno.md` |
+| **归来无位** (ZH v1) | `lumina-dorawanneunde-jariga-eopseonne-chinese-suno.md` |
+| **Came Home to No Place** (EN v1) | `lumina-dorawanneunde-jariga-eopseonne-english-suno.md` |
+| **帰っても居場所はなかった** (JA v1) | `lumina-dorawanneunde-jariga-eopseonne-japanese-suno.md` |
+| **Trở về không còn chỗ** (VI v1) | `lumina-dorawanneunde-jariga-eopseonne-vietnamese-suno.md` |
+| **돌아왔는데 자리가 없었네 5어 색인** | `lumina-dorawanneunde-jariga-eopseonne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
