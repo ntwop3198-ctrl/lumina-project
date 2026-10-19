@@ -133,6 +133,7 @@
 | **Tay mình vấy bẩn rồi trao lại** (VI v1) | `lumina-sone-mutigo-neomgyeonne-vietnamese-suno.md` |
 | **손에 묻히고 넘겼네 5어 색인** | `lumina-sone-mutigo-neomgyeonne-multilingual-suno.md` |
 | **3-2 중화 · 삼국 인물 색인** | `lumina-zhonghua-three-kingdoms-series-suno.md` |
+| **3-4 미국·영어권 색인** | `lumina-english-sphere-series-suno.md` |
 | **늙을수록 굳세다** | `lumina-neulgeulsurok-gutseda-suno.md` |
 | **老当益壮** (ZH v1) | `lumina-neulgeulsurok-gutseda-chinese-suno.md` |
 | **Stronger with Age** (EN v1) | `lumina-neulgeulsurok-gutseda-english-suno.md` |
@@ -181,6 +182,48 @@
 | **三本の桃の木** (JA v1) | `lumina-se-geuru-boksynamu-japanese-suno.md` |
 | **Ba cây đào** (VI v1) | `lumina-se-geuru-boksynamu-vietnamese-suno.md` |
 | **세 그루 복사나무 5어 색인** | `lumina-se-geuru-boksynamu-multilingual-suno.md` |
+| **고아원에 울린 메시아** | `lumina-goawone-ullin-mesia-suno.md` |
+| **孤儿院里的弥赛亚** (ZH v1) | `lumina-goawone-ullin-mesia-chinese-suno.md` |
+| **Messiah for the Foundlings** (EN v1) | `lumina-goawone-ullin-mesia-english-suno.md` |
+| **孤児院に響いたメサイア** (JA v1) | `lumina-goawone-ullin-mesia-japanese-suno.md` |
+| **Messiah vang trong cô nhi viện** (VI v1) | `lumina-goawone-ullin-mesia-vietnamese-suno.md` |
+| **고아원에 울린 메시아 5어 색인** | `lumina-goawone-ullin-mesia-multilingual-suno.md` |
+| **스크루지가 바뀐 밤** | `lumina-seukrujiga-bakkwin-bam-suno.md` |
+| **斯克鲁奇改变的那一夜** (ZH v1) | `lumina-seukrujiga-bakkwin-bam-chinese-suno.md` |
+| **The Night Scrooge Changed** (EN v1) | `lumina-seukrujiga-bakkwin-bam-english-suno.md` |
+| **スクルージが変わった夜** (JA v1) | `lumina-seukrujiga-bakkwin-bam-japanese-suno.md` |
+| **Đêm Scrooge thay đổi** (VI v1) | `lumina-seukrujiga-bakkwin-bam-vietnamese-suno.md` |
+| **스크루지가 바뀐 밤 5어 색인** | `lumina-seukrujiga-bakkwin-bam-multilingual-suno.md` |
+| **빵 세 덩이** | `lumina-ppang-se-deongi-suno.md` |
+| **三个面包** (ZH v1) | `lumina-ppang-se-deongi-chinese-suno.md` |
+| **Three Puffy Rolls** (EN v1) | `lumina-ppang-se-deongi-english-suno.md` |
+| **三つのパン** (JA v1) | `lumina-ppang-se-deongi-japanese-suno.md` |
+| **Ba ổ bánh mì** (VI v1) | `lumina-ppang-se-deongi-vietnamese-suno.md` |
+| **빵 세 덩이 5어 색인** | `lumina-ppang-se-deongi-multilingual-suno.md` |
+| **열세 가지 덕목** | `lumina-yeolse-gaji-deokmok-suno.md` |
+| **十三种美德** (ZH v1) | `lumina-yeolse-gaji-deokmok-chinese-suno.md` |
+| **Thirteen Virtues** (EN v1) | `lumina-yeolse-gaji-deokmok-english-suno.md` |
+| **十三の徳** (JA v1) | `lumina-yeolse-gaji-deokmok-japanese-suno.md` |
+| **Mười ba đức tính** (VI v1) | `lumina-yeolse-gaji-deokmok-vietnamese-suno.md` |
+| **열세 가지 덕목 5어 색인** | `lumina-yeolse-gaji-deokmok-multilingual-suno.md` |
+| **번개 낚는 연** | `lumina-beongae-nakneun-yeon-suno.md` |
+| **钓闪电的风筝** (ZH v1) | `lumina-beongae-nakneun-yeon-chinese-suno.md` |
+| **The Kite That Caught Lightning** (EN v1) | `lumina-beongae-nakneun-yeon-english-suno.md` |
+| **稲妻を釣る凧** (JA v1) | `lumina-beongae-nakneun-yeon-japanese-suno.md` |
+| **Cánh diều câu tia chớp** (VI v1) | `lumina-beongae-nakneun-yeon-vietnamese-suno.md` |
+| **번개 낚는 연 5어 색인** | `lumina-beongae-nakneun-yeon-multilingual-suno.md` |
+| **가난한 리처드의 달력** | `lumina-gananhan-richeodeu-dallyeok-suno.md` |
+| **穷理查年鉴** (ZH v1) | `lumina-gananhan-richeodeu-dallyeok-chinese-suno.md` |
+| **Poor Richard Almanack** (EN v1) | `lumina-gananhan-richeodeu-dallyeok-english-suno.md` |
+| **貧しいリチャードの暦** (JA v1) | `lumina-gananhan-richeodeu-dallyeok-japanese-suno.md` |
+| **Niên lịch của Richard nghèo** (VI v1) | `lumina-gananhan-richeodeu-dallyeok-vietnamese-suno.md` |
+| **가난한 리처드의 달력 5어 색인** | `lumina-gananhan-richeodeu-dallyeok-multilingual-suno.md` |
+| **낡은 책 표지** | `lumina-nalgeun-chaek-pyoji-suno.md` |
+| **旧书的封面** (ZH v1) | `lumina-nalgeun-chaek-pyoji-chinese-suno.md` |
+| **The Cover of an Old Book** (EN v1) | `lumina-nalgeun-chaek-pyoji-english-suno.md` |
+| **古い本の表紙** (JA v1) | `lumina-nalgeun-chaek-pyoji-japanese-suno.md` |
+| **Bìa cuốn sách cũ** (VI v1) | `lumina-nalgeun-chaek-pyoji-vietnamese-suno.md` |
+| **낡은 책 표지 5어 색인** | `lumina-nalgeun-chaek-pyoji-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |

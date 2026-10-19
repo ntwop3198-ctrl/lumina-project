@@ -28,7 +28,7 @@
 | 17 | **이순신** | 적어두고 나갔네 | 🪙 100원 | 62 | `lumina-jeogeodugo-naganne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 | 18 | **태종 이방원** | 손에 묻히고 넘겼네 | — | 66 | `lumina-sone-mutigo-neomgyeonne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 
-3-2 중화 삼국 8곡은 `lumina-zhonghua-three-kingdoms-series-suno.md`에 따로 둔다. 이 표는 **3-1 한국·고전서사**만.
+3-2 중화 삼국 8곡은 `lumina-zhonghua-three-kingdoms-series-suno.md`에 따로 둔다. 3-4 미국·영어권 7곡은 `lumina-english-sphere-series-suno.md`에 따로 둔다. 이 표는 **3-1 한국·고전서사**만.
 
 ---
 
