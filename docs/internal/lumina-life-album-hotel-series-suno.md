@@ -90,6 +90,12 @@
 | **解き放った** (JA v1) | `lumina-pureojueonne-japanese-suno.md` |
 | **Đã thả ra** (VI v1) | `lumina-pureojueonne-vietnamese-suno.md` |
 | **풀어주었네 5어 색인** | `lumina-pureojueonne-multilingual-suno.md` |
+| **스물여덟 줄을 올렸네** | `lumina-seumuyeodeol-jureul-ollinne-suno.md` |
+| **呈上二十八条** (ZH v1) | `lumina-seumuyeodeol-jureul-ollinne-chinese-suno.md` |
+| **Twenty-Eight Proposals** (EN v1) | `lumina-seumuyeodeol-jureul-ollinne-english-suno.md` |
+| **二十八条を奉った** (JA v1) | `lumina-seumuyeodeol-jureul-ollinne-japanese-suno.md` |
+| **Dâng hai mươi tám điều** (VI v1) | `lumina-seumuyeodeol-jureul-ollinne-vietnamese-suno.md` |
+| **스물여덟 줄을 올렸네 5어 색인** | `lumina-seumuyeodeol-jureul-ollinne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
