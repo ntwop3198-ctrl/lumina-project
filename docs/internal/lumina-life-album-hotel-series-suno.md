@@ -108,6 +108,12 @@
 | **すぐ戻ると言った** (JA v1) | `lumina-got-ondago-haenne-japanese-suno.md` |
 | **Đã hứa sẽ về ngay** (VI v1) | `lumina-got-ondago-haenne-vietnamese-suno.md` |
 | **곧 온다고 했네 5어 색인** | `lumina-got-ondago-haenne-multilingual-suno.md` |
+| **대학까지 보냈으니 됐다고 했네** | `lumina-daehakkkaji-dwaetdago-haenne-suno.md` |
+| **供到大学就够了** (ZH v1) | `lumina-daehakkkaji-dwaetdago-haenne-chinese-suno.md` |
+| **College Was Enough** (EN v1) | `lumina-daehakkkaji-dwaetdago-haenne-english-suno.md` |
+| **大学まで出せば十分だと言った** (JA v1) | `lumina-daehakkkaji-dwaetdago-haenne-japanese-suno.md` |
+| **Cho học hết đại học là đủ** (VI v1) | `lumina-daehakkkaji-dwaetdago-haenne-vietnamese-suno.md` |
+| **대학까지 보냈으니 됐다고 했네 5어 색인** | `lumina-daehakkkaji-dwaetdago-haenne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
