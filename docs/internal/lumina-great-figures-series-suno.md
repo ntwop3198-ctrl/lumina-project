@@ -1,11 +1,11 @@
 # 〈위인 시리즈〉— Great Figures Series (2026-06-17)
 
-> **역사·예술·바다·성리학·실학** · 한·中·英 Suno 정본 · **17곡**  
+> **역사·예술·바다·성리학·실학** · 한·中·英 Suno 정본 · **18곡**  
 > 인덱스 — 개별 곡은 각 `lumina-*-suno.md`
 
 ---
 
-## 곡목 현황 — #17 이순신 일기 추가 (2026-10-19)
+## 곡목 현황 — #18 태종 이방원 추가 (2026-10-19)
 
 | # | 인물 | 제목 | 화폐 | BPM | 문서 | Suno |
 |---|------|------|------|-----|------|------|
@@ -26,6 +26,7 @@
 | 15 | **유일한** | 대학까지 보냈으니 됐다고 했네 | — | 64 | `lumina-daehakkkaji-dwaetdago-haenne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 | 16 | **정조** | 옮기려 했네 | — | 62 | `lumina-olmgiryeo-haenne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 | 17 | **이순신** | 적어두고 나갔네 | 🪙 100원 | 62 | `lumina-jeogeodugo-naganne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
+| 18 | **태종 이방원** | 손에 묻히고 넘겼네 | — | 66 | `lumina-sone-mutigo-neomgyeonne-suno.md` | v1 ✅ KO·ZH·EN·JA·VI |
 
 ---
 
@@ -64,6 +65,8 @@
     ↓
 62  이순신 일기 (적어두고 나갔네)
     ↓
+66  태종 이방원 (묻히고 넘기다)
+    ↓
 72  신사임당 (우아한 서정)
     ↓
 78  퇴계 (명상·선비)
@@ -99,6 +102,7 @@
 | **장기려** | **곧 온다고 했네 — 그 말만 남았네** |
 | **유일한** | **대학까지 보냈으니 됐다고 했네 — 물려줄 것이 없다고 했네** |
 | **정조** | **옮기려 했네 — 쌓은 사람은 옮겨가지 못했네** |
+| **태종 이방원** | **손에 묻히고 넘겼네 — 앞에서 다 묻힌 사람이 있었기 때문이네** |
 
 다산 4어: ZH `lumina-dasan-song-chinese-suno.md` · EN `lumina-dasan-song-english-suno.md` · JA `lumina-dasan-song-japanese-suno.md` · VI `lumina-dasan-song-vietnamese-suno.md` · 색인 `lumina-dasan-song-multilingual-suno.md`
 
@@ -120,13 +124,15 @@
 
 이순신 일기 4어: ZH `lumina-jeogeodugo-naganne-chinese-suno.md` · EN `lumina-jeogeodugo-naganne-english-suno.md` · JA `lumina-jeogeodugo-naganne-japanese-suno.md` · VI `lumina-jeogeodugo-naganne-vietnamese-suno.md` · 색인 `lumina-jeogeodugo-naganne-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)** · 짝곡 **바다의 별**
 
+태종 이방원 4어: ZH `lumina-sone-mutigo-neomgyeonne-chinese-suno.md` · EN `lumina-sone-mutigo-neomgyeonne-english-suno.md` · JA `lumina-sone-mutigo-neomgyeonne-japanese-suno.md` · VI `lumina-sone-mutigo-neomgyeonne-vietnamese-suno.md` · 색인 `lumina-sone-mutigo-neomgyeonne-multilingual-suno.md` · 매대 **3-1 역사인물(한국·고전서사)**
+
 ---
 
 ## DistroKid — 배포 제안
 
 | 패키지 | 곡 | 가칭 |
 |--------|-----|------|
-| **풀 앨범** | #1~#17 (세종은 기존 트랙 연계) | *Lumina: Great Figures* |
+| **풀 앨범** | #1~#18 (세종은 기존 트랙 연계) | *Lumina: Great Figures* |
 | EP — 실학 | **다산** · (퇴계·율곡 연계 선택) | *Dasan & the Way* |
 | EP — 바다 | 이순신 · 장보고 | *Stars & Waves* |
 | EP — 모자 | 신사임당 · 율곡 | *Flowers & Reform* |

@@ -126,6 +126,12 @@
 | **書き留めて出た** (JA v1) | `lumina-jeogeodugo-naganne-japanese-suno.md` |
 | **Ghi lại rồi ra trận** (VI v1) | `lumina-jeogeodugo-naganne-vietnamese-suno.md` |
 | **적어두고 나갔네 5어 색인** | `lumina-jeogeodugo-naganne-multilingual-suno.md` |
+| **손에 묻히고 넘겼네** | `lumina-sone-mutigo-neomgyeonne-suno.md` |
+| **脏了手才交出去** (ZH v1) | `lumina-sone-mutigo-neomgyeonne-chinese-suno.md` |
+| **Hands Stained, Then Handed On** (EN v1) | `lumina-sone-mutigo-neomgyeonne-english-suno.md` |
+| **手を汚して譲った** (JA v1) | `lumina-sone-mutigo-neomgyeonne-japanese-suno.md` |
+| **Tay mình vấy bẩn rồi trao lại** (VI v1) | `lumina-sone-mutigo-neomgyeonne-vietnamese-suno.md` |
+| **손에 묻히고 넘겼네 5어 색인** | `lumina-sone-mutigo-neomgyeonne-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
