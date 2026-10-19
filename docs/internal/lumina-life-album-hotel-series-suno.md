@@ -67,6 +67,11 @@
 | **남매 (南妹)** | `lumina-nammae-nanmei-suno.md` |
 | **자기 그릇** | `lumina-jagi-geureut-suno.md` |
 | **다산의 노래** | `lumina-dasan-song-suno.md` |
+| **茶山之歌** (ZH v1) | `lumina-dasan-song-chinese-suno.md` |
+| **Song of Dasan** (EN v1) | `lumina-dasan-song-english-suno.md` |
+| **茶山の歌** (JA v1) | `lumina-dasan-song-japanese-suno.md` |
+| **Bài ca Dasan** (VI v1) | `lumina-dasan-song-vietnamese-suno.md` |
+| **다산 5어 색인** | `lumina-dasan-song-multilingual-suno.md` |
 | **간디의 길** | `lumina-gandhi-path-suno.md` |
 | **The Path of Gandhi** (EN v1) | `lumina-gandhi-path-english-suno.md` |
 | **홀로 맑은 강 (屈原)** | `lumina-qu-yuan-clear-river-suno.md` |
