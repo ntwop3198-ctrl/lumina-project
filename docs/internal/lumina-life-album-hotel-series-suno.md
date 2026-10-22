@@ -208,6 +208,12 @@
 | **Thật Chứ?** (VI v1) | `lumina-real-talk-groove-dance-vietnamese-suno.md` |
 | **4语索引** | `lumina-real-talk-groove-dance-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (ZH·EN·JA·VI · 구소 본문 행) | `lumina-real-talk-groove-dance-suno-paste.md` |
+| **백사장의 커피 한 잔** (KO v1 · 13 브랜드 헌정) | `lumina-baeksajang-keopi-han-jan-suno.md` |
+| **白社长的一杯咖啡** (ZH v1) | `lumina-baeksajang-keopi-han-jan-chinese-suno.md` |
+| **A Cup of Coffee from Boss Paik** (EN v1) | `lumina-baeksajang-keopi-han-jan-english-suno.md` |
+| **ペク社長のコーヒー一杯** (JA v1) | `lumina-baeksajang-keopi-han-jan-japanese-suno.md` |
+| **Ly Cà Phê Của Ông Paik** (VI v1) | `lumina-baeksajang-keopi-han-jan-vietnamese-suno.md` |
+| **백사장의 커피 한 잔 5어 색인** | `lumina-baeksajang-keopi-han-jan-multilingual-suno.md` |
 
 ---
 
