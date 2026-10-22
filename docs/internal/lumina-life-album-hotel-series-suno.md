@@ -51,6 +51,7 @@
 | **퇴계 이황 — 道의 빛** | `lumina-toegye-yi-hwang-light-of-the-way-suno.md` |
 | **성리학 듀얼** | `lumina-toegye-yulgok-neo-confucian-dual-suno.md` |
 | **위인 시리즈** (8곡) | `lumina-great-figures-series-suno.md` |
+| **3축 제목 판교** (50곡) | `lumina-suno-title-list-axis3.md` |
 | **위대한 빈손 3부작** | `lumina-great-empty-hands-trilogy-suno.md` |
 | **禅·日常 三部曲** | `lumina-zen-daily-practice-trilogy-suno.md` |
 | **사랑의 상처** | `lumina-sarang-ui-heunjeok-traces-of-love-suno.md` |
