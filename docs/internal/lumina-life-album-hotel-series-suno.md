@@ -259,6 +259,48 @@
 | **라오류 5어 색인** | `lumina-lao-liu-multilingual-suno.md` |
 | **산 넘고 물 건너도** (KO v1 · 4-2 안부·요청곡 · ZH 원본 千山万水情谊在) | `lumina-qianshan-wanshui-suno.md` |
 | **산 넘고 물 건너도 5어 색인** | `lumina-qianshan-wanshui-multilingual-suno.md` |
+| **화북평원** (KO v1 · 4-3 지역·정체성 · ZH 원본 华北平原) | `lumina-huabei-pingyuan-suno.md` |
+| **화북평원 5어 색인** | `lumina-huabei-pingyuan-multilingual-suno.md` |
+| **강남 수향** (KO v1 · 4-3 지역·정체성 · ZH 원본 江南水乡) | `lumina-jiangnan-shuixiang-suno.md` |
+| **강남 수향 5어 색인** | `lumina-jiangnan-shuixiang-multilingual-suno.md` |
+| **관중평원** (KO v1 · 4-3 지역·정체성 · ZH 원본 关中平原) | `lumina-guanzhong-pingyuan-suno.md` |
+| **관중평원 5어 색인** | `lumina-guanzhong-pingyuan-multilingual-suno.md` |
+| **보배섬 타이완** (KO v1 · 4-3 지역·정체성 · ZH 원본 宝岛台湾) | `lumina-baodao-taiwan-suno.md` |
+| **보배섬 타이완 5어 색인** | `lumina-baodao-taiwan-multilingual-suno.md` |
+| **천부지국** (KO v1 · 4-3 지역·정체성 · ZH 원본 天府之国) | `lumina-tianfu-zhiguo-suno.md` |
+| **천부지국 5어 색인** | `lumina-tianfu-zhiguo-multilingual-suno.md` |
+| **황토고원** (KO v1 · 4-3 지역·정체성 · ZH 원본 黄土高原) | `lumina-huangtu-gaoyuan-suno.md` |
+| **황토고원 5어 색인** | `lumina-huangtu-gaoyuan-multilingual-suno.md` |
+| **흥개호** (KO v1 · 4-3 지역·정체성 · ZH 원본 兴凯湖) | `lumina-xingkai-hu-suno.md` |
+| **흥개호 5어 색인** | `lumina-xingkai-hu-multilingual-suno.md` |
+| **서호** (KO v1 · 4-3 지역·정체성 · ZH 원본 西湖) | `lumina-xihu-suno.md` |
+| **서호 5어 색인** | `lumina-xihu-multilingual-suno.md` |
+| **홍호** (KO v1 · 4-3 지역·정체성 · ZH 원본 洪湖) | `lumina-honghu-suno.md` |
+| **홍호 5어 색인** | `lumina-honghu-multilingual-suno.md` |
+| **남초** (KO v1 · 4-3 지역·정체성 · ZH 원본 纳木错) | `lumina-namtso-suno.md` |
+| **남초 5어 색인** | `lumina-namtso-multilingual-suno.md` |
+| **톈산산맥** (KO v1 · 4-3 지역·정체성 · ZH 원본 天山山脉) | `lumina-tianshan-suno.md` |
+| **톈산산맥 5어 색인** | `lumina-tianshan-multilingual-suno.md` |
+| **장백산맥** (KO v1 · 4-3 지역·정체성 · ZH 원본 长白山脉) | `lumina-changbai-suno.md` |
+| **장백산맥 5어 색인** | `lumina-changbai-multilingual-suno.md` |
+| **히말라야산맥** (KO v1 · 4-3 지역·정체성 · ZH 원본 喜马拉雅山脉) | `lumina-himalaya-suno.md` |
+| **히말라야산맥 5어 색인** | `lumina-himalaya-multilingual-suno.md` |
+| **흥안령** (KO v1 · 4-3 지역·정체성 · ZH 원본 兴安岭) | `lumina-xinganling-suno.md` |
+| **흥안령 5어 색인** | `lumina-xinganling-multilingual-suno.md` |
+| **칭짱고원** (KO v1 · 4-3 지역·정체성 · ZH 원본 青藏高原) | `lumina-qingzang-gaoyuan-suno.md` |
+| **칭짱고원 5어 색인** | `lumina-qingzang-gaoyuan-multilingual-suno.md` |
+| **정신 차리라, 동생아** (KO v1 · 4-2 안부·요청곡) | `lumina-jeongsin-charira-dongsaenga-suno.md` |
+| **정신 차리라, 동생아 5어 색인** | `lumina-jeongsin-charira-dongsaenga-multilingual-suno.md` |
+| **요요미** (KO v1 · 4-2 안부·요청곡) | `lumina-yoyomi-suno.md` |
+| **요요미 5어 색인** | `lumina-yoyomi-multilingual-suno.md` |
+| **청이** (KO v1 · 4-2 안부·요청곡) | `lumina-cheongi-suno.md` |
+| **청이 5어 색인** | `lumina-cheongi-multilingual-suno.md` |
+| **서지오** (KO v1 · 4-2 안부·요청곡) | `lumina-seojio-suno.md` |
+| **서지오 5어 색인** | `lumina-seojio-multilingual-suno.md` |
+| **신성은** (KO v1 · 4-2 안부·요청곡) | `lumina-sinseongeun-suno.md` |
+| **신성은 5어 색인** | `lumina-sinseongeun-multilingual-suno.md` |
+| **강진** (KO v1 · 4-2 안부·요청곡 · ZH 제목 江津) | `lumina-gangjin-suno.md` |
+| **강진 5어 색인** | `lumina-gangjin-multilingual-suno.md` |
 
 ---
 
