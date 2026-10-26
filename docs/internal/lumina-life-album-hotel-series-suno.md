@@ -208,6 +208,13 @@
 | **Thật Chứ?** (VI v1) | `lumina-real-talk-groove-dance-vietnamese-suno.md` |
 | **4语索引** | `lumina-real-talk-groove-dance-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (ZH·EN·JA·VI · 구소 본문 행) | `lumina-real-talk-groove-dance-suno-paste.md` |
+| **새까맣게 타서** (KO v1 · 4-1 고향·향수) | `lumina-saekkamake-taseo-suno.md` |
+| **晒得黑黑的** (ZH v1) | `lumina-saekkamake-taseo-chinese-suno.md` |
+| **Burnt Black by the Sun** (EN v1) | `lumina-saekkamake-taseo-english-suno.md` |
+| **真っ黒に焼けて** (JA v1) | `lumina-saekkamake-taseo-japanese-suno.md` |
+| **Đen Nhẻm Vì Nắng** (VI v1) | `lumina-saekkamake-taseo-vietnamese-suno.md` |
+| **새까맣게 타서 5어 색인** | `lumina-saekkamake-taseo-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 4-1) | `lumina-saekkamake-taseo-zh-en-ja-vi-suno-paste.md` |
 
 ---
 
