@@ -222,6 +222,13 @@
 | **Bẫy Vẫn Trống Không** (VI v1) | `lumina-ongno-neun-bieo-itgo-vietnamese-suno.md` |
 | **옹노는 비어 있고 5어 색인** | `lumina-ongno-neun-bieo-itgo-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 빈 옹노) | `lumina-ongno-neun-bieo-itgo-zh-en-ja-vi-suno-paste.md` |
+| **기차고기** (KO v1 · 4-1 고향·향수) | `lumina-gichagogi-suno.md` |
+| **小火车鱼** (ZH v1) | `lumina-gichagogi-chinese-suno.md` |
+| **The Little Train Fish** (EN v1) | `lumina-gichagogi-english-suno.md` |
+| **汽車さかな** (JA v1) | `lumina-gichagogi-japanese-suno.md` |
+| **Chú Cá Tàu Hỏa** (VI v1) | `lumina-gichagogi-vietnamese-suno.md` |
+| **기차고기 5어 색인** | `lumina-gichagogi-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 기차고기) | `lumina-gichagogi-zh-en-ja-vi-suno-paste.md` |
 
 ---
 
