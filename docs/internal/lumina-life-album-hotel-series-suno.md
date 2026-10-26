@@ -229,6 +229,18 @@
 | **Chú Cá Tàu Hỏa** (VI v1) | `lumina-gichagogi-vietnamese-suno.md` |
 | **기차고기 5어 색인** | `lumina-gichagogi-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 기차고기) | `lumina-gichagogi-zh-en-ja-vi-suno-paste.md` |
+| **물빵아** (KO v1 · 4-1 고향·향수) | `lumina-mulbbanga-suno.md` |
+| **물빵아 5어 색인** | `lumina-mulbbanga-multilingual-suno.md` |
+| **만화방 그 골목** (KO v1 · 4-1 고향·향수) | `lumina-manhwabang-geu-golmok-suno.md` |
+| **만화방 그 골목 5어 색인** | `lumina-manhwabang-geu-golmok-multilingual-suno.md` |
+| **그 시절 그립다** (KO v1 · 4-2 안부·요청곡) | `lumina-geu-sijeol-geuripda-suno.md` |
+| **그 시절 그립다 5어 색인** | `lumina-geu-sijeol-geuripda-multilingual-suno.md` |
+| **그 시절 그립다 - 숙소 소동** (KO v1 · 4-2 안부·요청곡) | `lumina-sukso-sodong-suno.md` |
+| **숙소 소동 5어 색인** | `lumina-sukso-sodong-multilingual-suno.md` |
+| **버들치** (KO v1 · 4-1 고향·향수) | `lumina-beodeulchi-suno.md` |
+| **버들치 5어 색인** | `lumina-beodeulchi-multilingual-suno.md` |
+| **짜개바지** (KO v1 · 4-1 고향·향수) | `lumina-jjagaebaji-suno.md` |
+| **짜개바지 5어 색인** | `lumina-jjagaebaji-multilingual-suno.md` |
 
 ---
 
