@@ -241,6 +241,24 @@
 | **버들치 5어 색인** | `lumina-beodeulchi-multilingual-suno.md` |
 | **짜개바지** (KO v1 · 4-1 고향·향수) | `lumina-jjagaebaji-suno.md` |
 | **짜개바지 5어 색인** | `lumina-jjagaebaji-multilingual-suno.md` |
+| **초가집** (KO v1 · 4-1 고향·향수) | `lumina-chogajip-suno.md` |
+| **초가집 5어 색인** | `lumina-chogajip-multilingual-suno.md` |
+| **워리워리** (KO v1 · 4-1 고향·향수) | `lumina-woriwori-suno.md` |
+| **워리워리 5어 색인** | `lumina-woriwori-multilingual-suno.md` |
+| **버들피리** (KO v1 · 4-1 고향·향수) | `lumina-beodeulpiri-suno.md` |
+| **버들피리 5어 색인** | `lumina-beodeulpiri-multilingual-suno.md` |
+| **도사** (KO v1 · 4-2 안부·요청곡) | `lumina-dosa-suno.md` |
+| **도사 5어 색인** | `lumina-dosa-multilingual-suno.md` |
+| **이산 저산** (KO v1 · 4-1 고향·향수) | `lumina-isan-jeosan-suno.md` |
+| **이산 저산 5어 색인** | `lumina-isan-jeosan-multilingual-suno.md` |
+| **죽겠니** (KO v1 · 4-3 지역·정체성) | `lumina-jukgenni-suno.md` |
+| **죽겠니 5어 색인** | `lumina-jukgenni-multilingual-suno.md` |
+| **외날 썰매** (KO v1 · 4-1 고향·향수) | `lumina-oenal-sseolmae-suno.md` |
+| **외날 썰매 5어 색인** | `lumina-oenal-sseolmae-multilingual-suno.md` |
+| **라오류** (KO v1 · 4-2 안부·요청곡 · ZH 원본 老六) | `lumina-lao-liu-suno.md` |
+| **라오류 5어 색인** | `lumina-lao-liu-multilingual-suno.md` |
+| **산 넘고 물 건너도** (KO v1 · 4-2 안부·요청곡 · ZH 원본 千山万水情谊在) | `lumina-qianshan-wanshui-suno.md` |
+| **산 넘고 물 건너도 5어 색인** | `lumina-qianshan-wanshui-multilingual-suno.md` |
 
 ---
 
