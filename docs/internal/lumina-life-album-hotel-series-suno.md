@@ -215,6 +215,13 @@
 | **Đen Nhẻm Vì Nắng** (VI v1) | `lumina-saekkamake-taseo-vietnamese-suno.md` |
 | **새까맣게 타서 5어 색인** | `lumina-saekkamake-taseo-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 4-1) | `lumina-saekkamake-taseo-zh-en-ja-vi-suno-paste.md` |
+| **옹노는 비어 있고** (KO v1 · 4-1 고향·향수) | `lumina-ongno-neun-bieo-itgo-suno.md` |
+| **套子总是空的** (ZH v1) | `lumina-ongno-neun-bieo-itgo-chinese-suno.md` |
+| **The Snare Was Empty** (EN v1) | `lumina-ongno-neun-bieo-itgo-english-suno.md` |
+| **罠はからっぽで** (JA v1) | `lumina-ongno-neun-bieo-itgo-japanese-suno.md` |
+| **Bẫy Vẫn Trống Không** (VI v1) | `lumina-ongno-neun-bieo-itgo-vietnamese-suno.md` |
+| **옹노는 비어 있고 5어 색인** | `lumina-ongno-neun-bieo-itgo-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 빈 옹노) | `lumina-ongno-neun-bieo-itgo-zh-en-ja-vi-suno-paste.md` |
 
 ---
 
