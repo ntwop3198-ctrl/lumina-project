@@ -301,6 +301,8 @@
 | **신성은 5어 색인** | `lumina-sinseongeun-multilingual-suno.md` |
 | **강진** (KO v1 · 4-2 안부·요청곡 · ZH 제목 江津) | `lumina-gangjin-suno.md` |
 | **강진 5어 색인** | `lumina-gangjin-multilingual-suno.md` |
+| **같은 시절 다른 하늘** (KO v1 · 4-1 고향·향수) | `lumina-gateun-sijeol-dareun-haneul-suno.md` |
+| **같은 시절 다른 하늘 5어 색인** | `lumina-gateun-sijeol-dareun-haneul-multilingual-suno.md` |
 
 ---
 
