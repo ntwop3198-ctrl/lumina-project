@@ -303,6 +303,8 @@
 | **강진 5어 색인** | `lumina-gangjin-multilingual-suno.md` |
 | **같은 시절 다른 하늘** (KO v1 · 4-1 고향·향수) | `lumina-gateun-sijeol-dareun-haneul-suno.md` |
 | **같은 시절 다른 하늘 5어 색인** | `lumina-gateun-sijeol-dareun-haneul-multilingual-suno.md` |
+| **동창회의 노래** (KO v1 · 4-2 안부·요청곡 · ZH 원본 同学会之歌) | `lumina-tongxuehui-zhige-suno.md` |
+| **동창회의 노래 5어 색인** | `lumina-tongxuehui-zhige-multilingual-suno.md` |
 
 ---
 
