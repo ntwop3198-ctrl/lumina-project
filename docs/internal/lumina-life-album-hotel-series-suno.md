@@ -307,6 +307,28 @@
 | **동창회의 노래 5어 색인** | `lumina-tongxuehui-zhige-multilingual-suno.md` |
 | **따로 살아 좋은 형제** (KO v1 · 5-1 가족 유머) | `lumina-ttaro-sara-joeun-hyeongje-suno.md` |
 | **따로 살아 좋은 형제 5어 색인** | `lumina-ttaro-sara-joeun-hyeongje-multilingual-suno.md` |
+| **아이 점수는 묻지 마라** (ZH v1 · 5-1 가족 유머 · ZH 제목 孩子不问分数) | `lumina-haizi-buwen-fenshu-suno.md` |
+| **아이 점수는 묻지 마라 5어 색인** | `lumina-haizi-buwen-fenshu-multilingual-suno.md` |
+| **문 안 문 밖** (KO v1 · 5-2 성인 유머) | `lumina-mun-an-mun-bak-suno.md` |
+| **문 안 문 밖 5어 색인** | `lumina-mun-an-mun-bak-multilingual-suno.md` |
+| **후줄근한 줄 알았더니** (KO v1 · 5-2 성인 유머) | `lumina-hujulgeunhan-jul-arassdeoni-suno.md` |
+| **후줄근한 줄 알았더니 5어 색인** | `lumina-hujulgeunhan-jul-arassdeoni-multilingual-suno.md` |
+| **한 알도 못 챙기고** (KO v1 · 5-1 가족 유머) | `lumina-han-aldo-mot-chaenggigo-suno.md` |
+| **한 알도 못 챙기고 5어 색인** | `lumina-han-aldo-mot-chaenggigo-multilingual-suno.md` |
+| **안 먹어서 쌓인 약** (KO v1 · 5-1 가족 유머) | `lumina-an-meogeoseo-ssain-yak-suno.md` |
+| **안 먹어서 쌓인 약 5어 색인** | `lumina-an-meogeoseo-ssain-yak-multilingual-suno.md` |
+| **부부싸움에 승자는 없다** (KO v1 · 5-1 가족 유머) | `lumina-bubussaum-seungjaneun-eopda-suno.md` |
+| **부부싸움에 승자는 없다 5어 색인** | `lumina-bubussaum-seungjaneun-eopda-multilingual-suno.md` |
+| **망치와 수도꼭지** (KO v1 · 5-1 가족 유머) | `lumina-mangchi-wa-sudokkokji-suno.md` |
+| **망치와 수도꼭지 5어 색인** | `lumina-mangchi-wa-sudokkokji-multilingual-suno.md` |
+| **뜨거운 온돌의 원앙 원수** (ZH v1 · 5-1 가족 유머 · ZH 제목 热炕头上的欢喜冤家) | `lumina-rekangtou-huanxi-yuanjia-suno.md` |
+| **뜨거운 온돌의 원앙 원수 5어 색인** | `lumina-rekangtou-huanxi-yuanjia-multilingual-suno.md` |
+| **장모님이 사위를 보다** (ZH v1 · 5-1 가족 유머 · ZH 제목 丈母娘看女婿) | `lumina-zhangmuniang-kan-nuxu-suno.md` |
+| **장모님이 사위를 보다 5어 색인** | `lumina-zhangmuniang-kan-nuxu-multilingual-suno.md` |
+| **눈 오는 날 장터에** (ZH v1 · 5-1 가족 유머 · ZH 제목 雪天赶大集) | `lumina-xuetian-gan-daji-suno.md` |
+| **눈 오는 날 장터에 5어 색인** | `lumina-xuetian-gan-daji-multilingual-suno.md` |
+| **신김치 독의 새콤달콤** (ZH v1 · 5-1 가족 유머 · ZH 제목 酸菜缸里的酸甜苦辣) | `lumina-suancai-gang-li-de-suantiankula-suno.md` |
+| **신김치 독의 새콤달콤 5어 색인** | `lumina-suancai-gang-li-de-suantiankula-multilingual-suno.md` |
 
 ---
 
