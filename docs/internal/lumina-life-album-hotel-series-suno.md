@@ -383,6 +383,10 @@
 | **천국의 철가방 5어 색인** | `lumina-cheongugui-cheolgabang-multilingual-suno.md` |
 | **황새결송** (KO v1 · 5-3 고전 유머) | `lumina-hwangsae-gyeolsong-suno.md` |
 | **황새결송 5어 색인** | `lumina-hwangsae-gyeolsong-multilingual-suno.md` |
+| **놀리지 일 시키겠나** (KO v1 · 5-2 성인 유머) | `lumina-nolliji-il-sikigenna-suno.md` |
+| **놀리지 일 시키겠나 5어 색인** | `lumina-nolliji-il-sikigenna-multilingual-suno.md` |
+| **안 언다더라** (KO v1 · 5-2 성인 유머) | `lumina-an-eondadeora-suno.md` |
+| **안 언다더라 5어 색인** | `lumina-an-eondadeora-multilingual-suno.md` |
 
 ---
 
