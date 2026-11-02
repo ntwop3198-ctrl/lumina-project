@@ -387,6 +387,20 @@
 | **놀리지 일 시키겠나 5어 색인** | `lumina-nolliji-il-sikigenna-multilingual-suno.md` |
 | **안 언다더라** (KO v1 · 5-2 성인 유머) | `lumina-an-eondadeora-suno.md` |
 | **안 언다더라 5어 색인** | `lumina-an-eondadeora-multilingual-suno.md` |
+| **가짜 도사 진짜 도사** (KO v1 · 5-2 성인 유머) | `lumina-gajja-dosa-jinjja-dosa-suno.md` |
+| **가짜 도사 진짜 도사 5어 색인** | `lumina-gajja-dosa-jinjja-dosa-multilingual-suno.md` |
+| **술은 기분 좋으려고 먹지** (KO v1 · 5-2 성인 유머) | `lumina-sureun-gibun-joheuryeogo-meokji-suno.md` |
+| **술은 기분 좋으려고 먹지 5어 색인** | `lumina-sureun-gibun-joheuryeogo-meokji-multilingual-suno.md` |
+| **머저리 박사** (KO v1 · 5-2 성인 유머) | `lumina-meojeori-baksa-suno.md` |
+| **머저리 박사 5어 색인** | `lumina-meojeori-baksa-multilingual-suno.md` |
+| **막맥소 춤판** (KO v1 · 5-3 고전 유머) | `lumina-makmaekso-chumpan-suno.md` |
+| **막맥소 춤판 5어 색인** | `lumina-makmaekso-chumpan-multilingual-suno.md` |
+| **그냥 눕혀 두게** (ZH v1 · 5-2 성인 유머 · ZH 제목 让它躺着吧) | `lumina-rang-ta-tangzhe-ba-suno.md` |
+| **그냥 눕혀 두게 5어 색인** | `lumina-rang-ta-tangzhe-ba-multilingual-suno.md` |
+| **씨는 안 뿌리고 풍년 빌기** (KO v1 · 5-2 성인 유머) | `lumina-ssineun-an-ppurigo-pungnyeon-bilgi-suno.md` |
+| **씨는 안 뿌리고 풍년 빌기 5어 색인** | `lumina-ssineun-an-ppurigo-pungnyeon-bilgi-multilingual-suno.md` |
+| **선생은 내 아들이요** (ZH v1 · 5-3 고전 유머 · ZH 제목 先生是我儿) | `lumina-xiansheng-shi-wo-er-suno.md` |
+| **선생은 내 아들이요 5어 색인** | `lumina-xiansheng-shi-wo-er-multilingual-suno.md` |
 
 ---
 
