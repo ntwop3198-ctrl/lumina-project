@@ -329,6 +329,36 @@
 | **눈 오는 날 장터에 5어 색인** | `lumina-xuetian-gan-daji-multilingual-suno.md` |
 | **신김치 독의 새콤달콤** (ZH v1 · 5-1 가족 유머 · ZH 제목 酸菜缸里的酸甜苦辣) | `lumina-suancai-gang-li-de-suantiankula-suno.md` |
 | **신김치 독의 새콤달콤 5어 색인** | `lumina-suancai-gang-li-de-suantiankula-multilingual-suno.md` |
+| **방귀도 편히 뀌는 집** (KO v1 · 5-1 가족 유머) | `lumina-banggwido-pyeonhi-kkwineun-jip-suno.md` |
+| **방귀도 편히 뀌는 집 5어 색인** | `lumina-banggwido-pyeonhi-kkwineun-jip-multilingual-suno.md` |
+| **다음 역에서** (KO v1 · 5-1 가족 유머) | `lumina-daeum-yeogeseo-suno.md` |
+| **다음 역에서 5어 색인** | `lumina-daeum-yeogeseo-multilingual-suno.md` |
+| **어차피 내 거였는데** (KO v1 · 5-1 가족 유머) | `lumina-eochapi-nae-geoyeonneunde-suno.md` |
+| **어차피 내 거였는데 5어 색인** | `lumina-eochapi-nae-geoyeonneunde-multilingual-suno.md` |
+| **반팔티** (KO v1 · 5-2 성인 유머) | `lumina-banpalti-suno.md` |
+| **반팔티 5어 색인** | `lumina-banpalti-multilingual-suno.md` |
+| **얼굴이 가렵나벼** (KO v1 · 5-2 성인 유머) | `lumina-eolguri-garyeopnabyeo-suno.md` |
+| **얼굴이 가렵나벼 5어 색인** | `lumina-eolguri-garyeopnabyeo-multilingual-suno.md` |
+| **술 맹세 개 맹세** (KO v1 · 5-2 성인 유머) | `lumina-sul-maengse-gae-maengse-suno.md` |
+| **술 맹세 개 맹세 5어 색인** | `lumina-sul-maengse-gae-maengse-multilingual-suno.md` |
+| **그 주머니 말고** (KO v1 · 5-2 성인 유머) | `lumina-geu-jumeoni-malgo-suno.md` |
+| **그 주머니 말고 5어 색인** | `lumina-geu-jumeoni-malgo-multilingual-suno.md` |
+| **커피숍에서는 안 됩니다** (KO v1 · 5-2 성인 유머) | `lumina-keopisyopeseoneun-an-doemnida-suno.md` |
+| **커피숍에서는 안 됩니다 5어 색인** | `lumina-keopisyopeseoneun-an-doemnida-multilingual-suno.md` |
+| **이 가시내야** (KO v1 · 5-2 성인 유머) | `lumina-i-gasinaeya-suno.md` |
+| **이 가시내야 5어 색인** | `lumina-i-gasinaeya-multilingual-suno.md` |
+| **밀당의 고수와 하수** (KO v1 · 5-2 성인 유머) | `lumina-mildang-gosu-wa-hasu-suno.md` |
+| **밀당의 고수와 하수 5어 색인** | `lumina-mildang-gosu-wa-hasu-multilingual-suno.md` |
+| **스피커야 넌 왜 손잡이가 없니** (KO v1 · 5-2 성인 유머) | `lumina-seupikeoya-sonjabi-suno.md` |
+| **스피커야 넌 왜 손잡이가 없니 5어 색인** | `lumina-seupikeoya-sonjabi-multilingual-suno.md` |
+| **말똥말똥** (KO v1 · 5-2 성인 유머) | `lumina-malttongmalttong-suno.md` |
+| **말똥말똥 5어 색인** | `lumina-malttongmalttong-multilingual-suno.md` |
+| **내일부터** (KO v1 · 5-2 성인 유머) | `lumina-naeilbuteo-suno.md` |
+| **내일부터 5어 색인** | `lumina-naeilbuteo-multilingual-suno.md` |
+| **앞으로 여기 오자** (KO v1 · 5-2 성인 유머) | `lumina-apeuro-yeogi-oja-suno.md` |
+| **앞으로 여기 오자 5어 색인** | `lumina-apeuro-yeogi-oja-multilingual-suno.md` |
+| **돌고 돌아서** (KO v1 · 5-2 성인 유머) | `lumina-dolgo-doraseo-suno.md` |
+| **돌고 돌아서 5어 색인** | `lumina-dolgo-doraseo-multilingual-suno.md` |
 
 ---
 
