@@ -359,6 +359,30 @@
 | **앞으로 여기 오자 5어 색인** | `lumina-apeuro-yeogi-oja-multilingual-suno.md` |
 | **돌고 돌아서** (KO v1 · 5-2 성인 유머) | `lumina-dolgo-doraseo-suno.md` |
 | **돌고 돌아서 5어 색인** | `lumina-dolgo-doraseo-multilingual-suno.md` |
+| **얼굴에 답이 있다** (KO v1 · 5-2 성인 유머) | `lumina-eolgure-dabi-itda-suno.md` |
+| **얼굴에 답이 있다 5어 색인** | `lumina-eolgure-dabi-itda-multilingual-suno.md` |
+| **노인의 정체** (KO v1 · 5-2 성인 유머) | `lumina-noinui-jeongche-suno.md` |
+| **노인의 정체 5어 색인** | `lumina-noinui-jeongche-multilingual-suno.md` |
+| **훈수쟁이** (KO v1 · 5-2 성인 유머) | `lumina-hunsujeongi-suno.md` |
+| **훈수쟁이 5어 색인** | `lumina-hunsujeongi-multilingual-suno.md` |
+| **순희와 돌쇠** (KO v1 · 5-3 고전 유머) | `lumina-sunhui-wa-dolsoe-suno.md` |
+| **순희와 돌쇠 5어 색인** | `lumina-sunhui-wa-dolsoe-multilingual-suno.md` |
+| **하늘을 보고 걸어라** (KO v1 · 5-3 고전 유머) | `lumina-haneureul-bogo-georeora-suno.md` |
+| **하늘을 보고 걸어라 5어 색인** | `lumina-haneureul-bogo-georeora-multilingual-suno.md` |
+| **벌 받았네** (KO v1 · 5-2 성인 유머) | `lumina-beol-badasne-suno.md` |
+| **벌 받았네 5어 색인** | `lumina-beol-badasne-multilingual-suno.md` |
+| **닭이 먼저냐 알이 먼저냐** (KO v1 · 5-2 성인 유머) | `lumina-dalgi-meonjeonya-ari-meonjeonya-suno.md` |
+| **닭이 먼저냐 알이 먼저냐 5어 색인** | `lumina-dalgi-meonjeonya-ari-meonjeonya-multilingual-suno.md` |
+| **세 스님** (KO v1 · 5-3 고전 유머) | `lumina-se-seunim-suno.md` |
+| **세 스님 5어 색인** | `lumina-se-seunim-multilingual-suno.md` |
+| **모르는 게 약이라네** (KO v1 · 5-2 성인 유머) | `lumina-moreuneun-ge-yagirane-suno.md` |
+| **모르는 게 약이라네 5어 색인** | `lumina-moreuneun-ge-yagirane-multilingual-suno.md` |
+| **세상사 요지경** (KO v1 · 5-2 성인 유머) | `lumina-sesangsa-yojigyeong-suno.md` |
+| **세상사 요지경 5어 색인** | `lumina-sesangsa-yojigyeong-multilingual-suno.md` |
+| **천국의 철가방** (KO v1 · 5-2 성인 유머) | `lumina-cheongugui-cheolgabang-suno.md` |
+| **천국의 철가방 5어 색인** | `lumina-cheongugui-cheolgabang-multilingual-suno.md` |
+| **황새결송** (KO v1 · 5-3 고전 유머) | `lumina-hwangsae-gyeolsong-suno.md` |
+| **황새결송 5어 색인** | `lumina-hwangsae-gyeolsong-multilingual-suno.md` |
 
 ---
 
