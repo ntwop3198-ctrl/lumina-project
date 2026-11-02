@@ -305,6 +305,8 @@
 | **같은 시절 다른 하늘 5어 색인** | `lumina-gateun-sijeol-dareun-haneul-multilingual-suno.md` |
 | **동창회의 노래** (KO v1 · 4-2 안부·요청곡 · ZH 원본 同学会之歌) | `lumina-tongxuehui-zhige-suno.md` |
 | **동창회의 노래 5어 색인** | `lumina-tongxuehui-zhige-multilingual-suno.md` |
+| **따로 살아 좋은 형제** (KO v1 · 5-1 가족 유머) | `lumina-ttaro-sara-joeun-hyeongje-suno.md` |
+| **따로 살아 좋은 형제 5어 색인** | `lumina-ttaro-sara-joeun-hyeongje-multilingual-suno.md` |
 
 ---
 
