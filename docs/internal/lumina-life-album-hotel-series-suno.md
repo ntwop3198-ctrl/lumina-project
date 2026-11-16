@@ -558,6 +558,8 @@
 | **チャンギル しっかりしろよ** (JA v1) | `lumina-janggila-jeongsincharira-japanese-suno.md` |
 | **Janggil Ơi Tỉnh Lại Đi** (VI v1) | `lumina-janggila-jeongsincharira-vietnamese-suno.md` |
 | **장길아 정신차리라 5어 색인** | `lumina-janggila-jeongsincharira-multilingual-suno.md` |
+| **정신 차리라, 동생아** (KO v1 · 4-2) | `lumina-jeongsin-charira-dongsaenga-suno.md` |
+| **정신 차리라, 동생아 5어 색인** | `lumina-jeongsin-charira-dongsaenga-multilingual-suno.md` |
 
 ---
 
