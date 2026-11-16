@@ -558,6 +558,11 @@
 | **チャンギル しっかりしろよ** (JA v1) | `lumina-janggila-jeongsincharira-japanese-suno.md` |
 | **Janggil Ơi Tỉnh Lại Đi** (VI v1) | `lumina-janggila-jeongsincharira-vietnamese-suno.md` |
 | **장길아 정신차리라 5어 색인** | `lumina-janggila-jeongsincharira-multilingual-suno.md` |
+| **水浒传 连作 색인** (KO v1 · 3-2 · 26곡) | `lumina-shuihu-series-suno.md` |
+| **水浒传 CD 1 · 上山** (01~13) | `lumina-shuihu-cd1-shangshan-suno.md` |
+| **水浒传 CD 2 · 聚义** (14~26) | `lumina-shuihu-cd2-juyi-suno.md` |
+| **水浒传 CD 1 붙여넣기** | `lumina-shuihu-cd1-suno-paste.md` |
+| **水浒传 CD 2 붙여넣기** | `lumina-shuihu-cd2-suno-paste.md` |
 
 ---
 
