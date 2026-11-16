@@ -215,6 +215,27 @@
 | **Đen Nhẻm Vì Nắng** (VI v1) | `lumina-saekkamake-taseo-vietnamese-suno.md` |
 | **새까맣게 타서 5어 색인** | `lumina-saekkamake-taseo-multilingual-suno.md` |
 | **Suno 붙여넣기 팩** (KO·ZH·EN·JA·VI · 4-1) | `lumina-saekkamake-taseo-zh-en-ja-vi-suno-paste.md` |
+| **황하야 좀 천천히 흘러** (ZH v1 · 6-2 기록·증언 · ZH 제목 黄河慢些流) | `lumina-huanghe-manxie-liu-suno.md` |
+| **黄河慢些流** (ZH v1) | `lumina-huanghe-manxie-liu-chinese-suno.md` |
+| **Yellow River, Flow a Little Slower** (EN v1) | `lumina-huanghe-manxie-liu-english-suno.md` |
+| **黄河よ もう少しゆっくり流れて** (JA v1) | `lumina-huanghe-manxie-liu-japanese-suno.md` |
+| **Hoàng Hà Ơi Chảy Chậm Hơn Chút** (VI v1) | `lumina-huanghe-manxie-liu-vietnamese-suno.md` |
+| **황하야 좀 천천히 흘러 5어 색인** | `lumina-huanghe-manxie-liu-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (ZH·KO·EN·JA·VI · 6-2) | `lumina-huanghe-manxie-liu-zh-en-ja-vi-suno-paste.md` |
+| **운동장 위의 밀밭** (ZH v1 · 6-2 기록·증언 · ZH 제목 操场上的麦田) | `lumina-caochang-shang-de-maitian-suno.md` |
+| **操场上的麦田** (ZH v1) | `lumina-caochang-shang-de-maitian-chinese-suno.md` |
+| **Wheat Field on the Playground** (EN v1) | `lumina-caochang-shang-de-maitian-english-suno.md` |
+| **校庭の麦畑** (JA v1) | `lumina-caochang-shang-de-maitian-japanese-suno.md` |
+| **Ruộng Lúa Mì Trên Sân Trường** (VI v1) | `lumina-caochang-shang-de-maitian-vietnamese-suno.md` |
+| **운동장 위의 밀밭 5어 색인** | `lumina-caochang-shang-de-maitian-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (ZH·KO·EN·JA·VI · 6-2) | `lumina-caochang-shang-de-maitian-zh-en-ja-vi-suno-paste.md` |
+| **이천이십육 년 첫 태풍** (ZH v1 · 6-2 기록·증언 · ZH 제목 2026年的第一次台风) | `lumina-2026-diyici-taifeng-suno.md` |
+| **2026年的第一次台风** (ZH v1) | `lumina-2026-diyici-taifeng-chinese-suno.md` |
+| **The First Typhoon of 2026** (EN v1) | `lumina-2026-diyici-taifeng-english-suno.md` |
+| **二〇二六年 最初の台風** (JA v1) | `lumina-2026-diyici-taifeng-japanese-suno.md` |
+| **Cơn Bão Đầu Năm 2026** (VI v1) | `lumina-2026-diyici-taifeng-vietnamese-suno.md` |
+| **이천이십육 년 첫 태풍 5어 색인** | `lumina-2026-diyici-taifeng-multilingual-suno.md` |
+| **Suno 붙여넣기 팩** (ZH·KO·EN·JA·VI · 6-2) | `lumina-2026-diyici-taifeng-zh-en-ja-vi-suno-paste.md` |
 
 ---
 
