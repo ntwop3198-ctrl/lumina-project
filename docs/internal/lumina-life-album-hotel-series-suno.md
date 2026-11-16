@@ -558,6 +558,13 @@
 | **チャンギル しっかりしろよ** (JA v1) | `lumina-janggila-jeongsincharira-japanese-suno.md` |
 | **Janggil Ơi Tỉnh Lại Đi** (VI v1) | `lumina-janggila-jeongsincharira-vietnamese-suno.md` |
 | **장길아 정신차리라 5어 색인** | `lumina-janggila-jeongsincharira-multilingual-suno.md` |
+| **시래기국 한 그릇** (KO v1 · 1-4) | `lumina-siraegi-guk-han-geureut-suno.md` |
+| **一碗萝卜缨汤** (ZH v1) | `lumina-siraegi-guk-han-geureut-chinese-suno.md` |
+| **A Bowl of Dried Radish Greens Soup** (EN v1) | `lumina-siraegi-guk-han-geureut-english-suno.md` |
+| **シレギ汁一杯** (JA v1) | `lumina-siraegi-guk-han-geureut-japanese-suno.md` |
+| **Một Bát Canh Rau Khô** (VI v1) | `lumina-siraegi-guk-han-geureut-vietnamese-suno.md` |
+| **시래기국 한 그릇 5어 색인** | `lumina-siraegi-guk-han-geureut-multilingual-suno.md` |
+| **시래기국 한 그릇 붙여넣기** | `lumina-siraegi-guk-han-geureut-zh-en-ja-vi-suno-paste.md` |
 
 ---
 
